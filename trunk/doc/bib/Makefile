@@ -1,6 +1,6 @@
 R-publications.html: R.bib R-publications-head.html
 	@cat R-publications-head.html > $@
-	@bibtex2html -u -nodoc -rawurl R.bib
+	@bibtex2html -u -nodoc -rawurl -f publisherurl R.bib
 	@cat R.html >> $@
 	@echo "</body></html>" >> $@
 
