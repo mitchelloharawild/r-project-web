@@ -1,11 +1,15 @@
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<HTML>
-<HEAD>
+<html>
+<head>
+<title>What is R?</title>
+<link rel="icon" href="favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link rel="stylesheet" type="text/css" href="R.css">
-<TITLE>R - About</TITLE>
 </head>
-<BODY>
-<H1>What is R?</h1>
+
+<!--#include virtual="header.shtml" -->
+
+<h1>What is R?</h1>
 
 <H2>Introduction to R</H2>
 <P> R is a language and environment for
@@ -28,7 +32,7 @@ route to participation in that activity.
 <P>
 One of R's strengths is the ease with which well-designed
 publication-quality plots can be produced, including mathematical
-symbols and formulae where needed.  Great care has been taken over the 
+symbols and formulae where needed.  Great care has been taken over the
 defaults for the minor design choices in graphics, but the user
 retains full control.
 
@@ -89,5 +93,7 @@ R has its own LaTeX-like documentation format, which is used to supply
 comprehensive documentation, both on-line in a number of formats and
 in hardcopy.
 
-</BODY>
-</HTML>
+<!--#include virtual="footer.shtml" -->
+</body>
+</html>
+

@@ -1,18 +1,12 @@
-<head>
-<title>The R Project for Statistical Computing</title>
-<link rel="icon" href="favicon.ico" type="image/x-icon">
-<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-<link rel="stylesheet" type="text/css" href="R.css">
-</head>
-
 <body>
 
-<div id=header>
-<h2><a href="index.shtml" target="_top">
-          <img src="Rlogo.jpg" border=0 alt="R logo"></a>
-           The R Project for Statistical Computing</h2>
-</div>
 <div id=navigation>
+  <div id=logo>
+    <a href="index.shtml" target="_top">
+    <img src="Rlogo.jpg" border=0 alt="R logo"></a>
+    <br>
+     The R Project
+   </div
     <!--#include virtual="navbar.html" -->
 </div>
 <div id=contents>

@@ -21,7 +21,11 @@ H3, H4, H5 {	background: white;
 		font-family: monospace }
 
 		
-IMG.toplogo{	vertical-align: bottom }
+#logo{		vertical-align: bottom;
+		text-align: center;
+		background: white;
+		margin-bottom: 5px
+}
 
 #navigation{
 		float: left;
@@ -35,9 +39,8 @@ EM.navigation{	font-weight: bold;
 		color: rgb(40%, 40%, 40%);
 		font-family: monospace }
 
-#contents{	float: left;
-		background: white;
-		width: 700px;
+#contents{	background: white;
+		padding-left: 180px;
 }
 
 #header{
