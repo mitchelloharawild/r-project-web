@@ -23,19 +23,20 @@ H3, H4, H5 {	background: white;
 		
 #logo{		vertical-align: bottom;
 		text-align: center;
-		background: white;
-		margin-bottom: 5px
+		background: rgb(241, 242, 248);
+		padding-bottom: 10px;
+		padding-top: 10px
 }
 
 #navigation{
 		float: left;
-		background: rgb(207, 212, 231);
+		background: rgb(241, 242, 248);
 		width: 160px;
 }
 
 EM.navigation{	font-weight: bold;
 		font-style: normal;
-		background: rgb(207, 212, 231);
+		background: rgb(241, 242, 248);
 		color: rgb(40%, 40%, 40%);
 		font-family: monospace }
 
