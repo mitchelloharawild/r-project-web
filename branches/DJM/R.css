@@ -23,7 +23,7 @@ H3, H4, H5 {	background: white;
 		
 IMG.toplogo{	vertical-align: bottom }
 
-.navigation{
+#navigation{
 		float: left;
 		background: rgb(207, 212, 231);
 		width: 160px;
@@ -31,10 +31,11 @@ IMG.toplogo{	vertical-align: bottom }
 
 EM.navigation{	font-weight: bold;
 		font-style: normal;
+		background: rgb(207, 212, 231);
 		color: rgb(40%, 40%, 40%);
 		font-family: monospace }
 
-#contents{
+#contents{	float: left;
 		background: white;
 		width: 700px;
 }

@@ -12,11 +12,7 @@
           <img src="Rlogo.jpg" border=0 alt="R logo"></a>
            The R Project for Statistical Computing</h2>
 </div>
-
-<div class=navigation>
-
+<div id=navigation>
     <!--#include virtual="navbar.html" -->
-
 </div>
-
 <div id=contents>
