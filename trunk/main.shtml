@@ -12,13 +12,13 @@
   <tr><td>
     <h2>Important News:</h2>
     <ul>
-      <li>R version 1.8.0 has been released on 2003-10-08</li>
       <li><a
       href="http://cran.R-project.org/doc/Rnews/Rnews_2003-2.pdf">R
       News 3/2</a> has been released on 2003-10-30</li>
       <li>The first R users conference <a
       href="http://www.ci.tuwien.ac.at/Conferences/useR-2004/" target="_top">useR!
       2004</a> will take place in Vienna, Austria, from May 20-22, 2004.
+      <li><strong>R version 1.8.1</strong> has been released on 2003-11-21</li>
     </ul>
     <p>
   </td></tr>
@@ -86,7 +86,7 @@
 <!--#if expr="$CRAN_HOST" -->
   <!--#echo  encoding="none" var="CRAN_HOST"--><br>
 <!--#endif -->
-<!-- hhmts start -->Last modified: November 18, 2003 by Friedrich Leisch
+<!-- hhmts start -->Last modified: November 21, 2003 by Friedrich Leisch
 <!-- hhmts end -->
 
 
