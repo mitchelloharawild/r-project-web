@@ -7,7 +7,7 @@
 <link rel="stylesheet" type="text/css" href="R.css">
 </head>
 
-<!--#include virtual="navbar.html" -->
+<!--#include virtual="header.shtml" -->
 
 <p>
 <center>
@@ -34,7 +34,7 @@
   <!--#echo  encoding="none" var="CRAN_HOST"-->
 <!--#endif -->
 
-<!--#include virtual="footer.html" -->
+<!--#include virtual="footer.shtml" -->
 </body>
 </html>
 
