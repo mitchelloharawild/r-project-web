@@ -18,16 +18,10 @@
   <tr><td>
     <h2>Important News:</h2>
     <ul>
-      <li>Source code for
+      <li>
       <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 2.0.0 alpha/beta releases</a></strong> are now available from CRAN.
-      </li>
-      <li><strong><a href="http://cran.R-project.org/doc/Rnews">R News
-      volume 4/1</a></strong> has been published on 2004-07-09.
-      </li>
-      <li><strong>R version 1.9.1</strong> has been released on
-      2004-06-21.
+      href="http://cran.R-project.org/src/base/R-2">
+      R version 2.0.0</a></strong> has been released on 2004-10-04.
       </li>
     </ul>
     <p>
