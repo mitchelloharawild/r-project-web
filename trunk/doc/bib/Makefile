@@ -6,4 +6,4 @@ R-publications.html: Makefile R.bib R-publications-head.html
 	@echo "</body></html>" >> $@
 
 clean:
-	rm -f R-bib.html R-publications.html R.html
+	rm -f R-bib.html R_bib.html R-publications.html R.html
