@@ -11,7 +11,16 @@
 <table border="1" width=100%>
   <tr><td>
     <h2>Important News:</h2>
-    
+    <ul>
+      <li>R version 1.8.0 has been released on 2003-10-08
+      <li>We now have a list of all <a
+      href="http://www.R-project.org/nocvs/foundation/memberlist.html">R Foundation supporters</a>. 
+    </ul>
+    <p>
+  </td></tr>
+  <tr><td>
+  </td></tr>
+  <tr><td>
     <p>
     The R Development Core Team would like to formally announce the
     creation of the
@@ -73,7 +82,7 @@
 <!--#if expr="$CRAN_HOST" -->
   <!--#echo  encoding="none" var="CRAN_HOST"--><br>
 <!--#endif -->
-<!-- hhmts start -->Last modified: April  7, 2003 by Friedrich Leisch
+<!-- hhmts start -->Last modified: October 24, 2003 by Friedrich Leisch
 <!-- hhmts end -->
 
 
