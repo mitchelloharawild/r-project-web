@@ -7,20 +7,38 @@
 <link rel="stylesheet" type="text/css" href="R.css">
 </head>
 
-<FRAMESET cols="1*, 4*" border=0>
-<FRAMESET rows="120, 1*">
-<FRAME src="logo.html" name="logo" frameborder=0>
-<FRAME src="navbar.html" name="contents" frameborder=0>
-</FRAMESET>
-<FRAME src="main.shtml" name="banner" frameborder=0>
-<noframes>
-<h1>The R Project for Statistical Computing</h1>
+<!--#include virtual="navbar.html" -->
 
-Your browser seems not to support frames,
-here is the <A href="navbar.html">contents page</A> of the R Project's
-website.
-</noframes>
-</FRAMESET>
+<h1 align=left>The R Project for Statistical Computing</h1>
+
+<p>
+<center>
+<a href="misc/acpclust.R"><img src="hpgraphic.png" border=0 alt="R Graphics Demo"></a>
+</center>
+
+<p>
+<table border="1" width=100%>
+  <tr><td>
+    <h2>Important News:</h2>
+    <ul>
+      <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base/R-2">
+      R version 2.0.0</a></strong> has been released on 2004-10-04.
+      </li>
+    </ul>
+    <p>
+  </td></tr>
+</table>
+
+<p>
+<!--#if expr="$CRAN_HOST" -->
+  <!--#echo  encoding="none" var="CRAN_HOST"-->
+<!--#endif -->
+
+<!--#include virtual="footer.html" -->
+</body>
+</html>
 
 
 
