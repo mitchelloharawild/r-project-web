@@ -30,6 +30,11 @@
   <tr><td>
     <h2>News:</h2>
     <ul>
+      <li>Sources of
+      <a href="http://cran.R-project.org/src/base-prerelease">
+      R 2.1.0 alpha/beta releases</a>
+      (daily snapshot).</li>
+      <p>
       <li>
       <strong><a
       href="http://cran.R-project.org/src/base/R-2">
