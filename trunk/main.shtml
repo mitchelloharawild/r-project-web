@@ -12,9 +12,13 @@
   <tr><td>
     <h2>Important News:</h2>
     <ul>
-      <li>R version 1.8.0 has been released on 2003-10-08
-      <li>We now have a list of all <a
-      href="http://www.R-project.org/nocvs/foundation/memberlist.html">R Foundation supporters</a>. 
+      <li>R version 1.8.0 has been released on 2003-10-08</li>
+      <li>We now have a list of all
+	  <a href="http://www.R-project.org/nocvs/foundation/memberlist.html">R
+		Foundation supporters</a>.</li>
+      <li><a
+      href="http://cran.R-project.org/doc/Rnews/Rnews_2003-2.pdf">R
+      News 3/2</a> has been released on 2003-10-30</li>
     </ul>
     <p>
   </td></tr>
