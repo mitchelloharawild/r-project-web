@@ -24,7 +24,15 @@
   </td></tr>
   <tr><td>
   </td></tr>
-  <tr><td>
+  <tr><td style="background: #FFFFFF">
+
+    <center>
+    <img src="hpgraphic.png" border=0 alt="R Graphics Demo">
+    </center>
+
+<!-- Old announcement of R Foundation;  
+     Replaced by winner of  R Home Page Graphics competition
+
     <p>
     The R Development Core Team would like to formally announce the
     creation of the
@@ -77,6 +85,7 @@
 	</td>
       </tr>
       </table>
+ -->
     </td>
   </tr>
 </table>
