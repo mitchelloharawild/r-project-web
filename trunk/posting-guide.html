@@ -92,7 +92,9 @@ for more  details of the following:
   <li>No HTML posting (harder to detect spam)
   <li>No binary attachments except for PS, PDF, and some image and archive
   formats (others are automatically stripped off because they can contain
-  malicious software)
+  malicious software). Files in other formats and larger ones should rather
+  be put on the web and have only their URLs posted.  This way a
+  reader has the option to download them or not.
   <li>Use an informative subject line (not something like `question')
   <li>For new subjects, compose a new message and include the
   'r-help@lists.R-project.org' (or 'r-devel@lists.R-project.org') address
@@ -151,30 +153,30 @@ messages you received.
 <p><b>Examples:</b> Sometimes it helps to provide a <em>small</em>
  example that someone can actually run.  For example:
 
-<xmp>
+<pre>
   If I have a matrix x as follows:
-  > x <- matrix(1:8, nrow=4, ncol=2,
+  &gt; x &lt;- matrix(1:8, nrow=4, ncol=2,
                 dimnames=list(c("A","B","C","D"), c("x","y"))
-  > x
+  &gt; x
     x y
   A 1 5
   B 2 6
   C 3 7
   D 4 8
-  >
+  &gt;
   how can I turn it into a dataframe with 8 rows, and three
   columns named `row', `col', and `value', which have the
   dimension names as the values of `row' and `col', like this:
-  > x.df
+  &gt; x.df
      row col value
   1    A   x      1
    ...
   (To which the answer might be:
-  > x.df <- reshape(data.frame(row=rownames(x), x), direction="long",
+  &gt; x.df &lt;- reshape(data.frame(row=rownames(x), x), direction="long",
                     varying=list(colnames(x)), times=colnames(x),
                     v.names="value", timevar="col", idvar="row")
   )
-</xmp>
+</pre>
 
 When providing examples, it is best to give an R command
 that constructs the data, as in the <code>matrix()</code>
@@ -212,7 +214,7 @@ information about R.
 href="http://www.stats.ox.ac.uk/pub/MASS4">Venables &amp;
 Ripley, 2002, Modern Applied Statistics with S (4th ed)</a>
 ("MASS") and <a
-href="http://nlme.stat.wisc.edu/MEMSS">Pinhero &amp; Bates,
+href="http://nlme.stat.wisc.edu/MEMSS">Pinheiro &amp; Bates,
 2000</a> (about lme in particular).  If you can get these
 books, look at them.  If you cannot, you might indicate this
 in your question.  Further books relevant to R are listed at
@@ -305,8 +307,8 @@ for insight into people's behavior on technical mailing
 lists (but don't try asking people at catb.org questions
 about R).
 
-<p><em><font size=-1>
-Compiled by Tony Plate (tplate at acm dot org), Dec 2003</em></font>
+<p><em><small>
+Compiled by Tony Plate (tplate at acm dot org), Dec 2003</small></em>
 </body>
 
 </html>
