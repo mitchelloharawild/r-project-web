@@ -9,8 +9,6 @@
 
 <!--#include virtual="navbar.html" -->
 
-<h1 align=left>The R Project for Statistical Computing</h1>
-
 <p>
 <center>
 <a href="misc/acpclust.R"><img src="hpgraphic.png" border=0 alt="R Graphics Demo"></a>
