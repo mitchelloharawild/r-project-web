@@ -10,7 +10,7 @@
 
 <p>
 <center>
-<img src="hpgraphic.png" border=0 alt="R Graphics Demo">
+<a href="misc/acpclust.R"><img src="hpgraphic.png" border=0 alt="R Graphics Demo"></a>
 </center>
 
 <p>
@@ -18,17 +18,9 @@
   <tr><td>
     <h2>Important News:</h2>
     <ul>
-      <li>The first R users conference <a
-      href="http://www.ci.tuwien.ac.at/Conferences/useR-2004/" target="_top">useR!
-      2004</a> took place in Vienna, Austria, from May 20-22, 2004.
-
-      <li><strong>R version 1.9.0</strong> has been released on
-      2004-04-12.
+      <li><strong>R version 1.9.1</strong> has been released on
+      2004-06-21.
       </li>
-
-      <li>Eric Lecoutre has won the R homepage graphics competition
-      (the result can be seen above) by submitting <a href="misc/acpclust.R"
-      >this R code</a>.
     </ul>
     <p>
   </td></tr>
