@@ -16,7 +16,19 @@
 <p>
 <table border="1" width=100%>
   <tr><td>
-    <h2>Important News:</h2>
+    <h2>Getting Started:</h2>
+    <ul>
+      <li>R is a free software environment for for statistical
+      computing and graphics. It compiles and runs on a wide variety
+      of UNIX platforms, Windows and MacOS. To download R, please
+      choose your preferred <a
+      href="http://cran.r-project.org/mirrors.html">CRAN mirror</a>.
+      </li>
+    </ul>
+    <p>
+  </td></tr>
+  <tr><td>
+    <h2>News:</h2>
     <ul>
       <li>
       <strong><a
