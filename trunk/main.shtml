@@ -67,6 +67,14 @@
   </tr>
 </table>
 
+<p>
+<hr>
+<!--#if expr="$CRAN_HOST" -->
+  <!--#echo  encoding="none" var="CRAN_HOST"--><br>
+<!--#endif -->
+<!-- hhmts start -->Last modified: April  7, 2003 by Friedrich Leisch
+<!-- hhmts end -->
+
 
 </body>
 </html>
