@@ -1,6 +1,8 @@
-
+### Code by Eric Lecoutre, Universite catholique de Louvain, Belgium
+### Winner of the R Homepage graphics competition 2004
 
 ### Works in R 1.8.1 ...
+
 require(ade4)
 require(mva)
 require(RColorBrewer)
