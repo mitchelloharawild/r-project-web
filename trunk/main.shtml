@@ -8,6 +8,12 @@
 
 <h1 align=left>The R Project for Statistical Computing</h1>
 
+<p>
+<center>
+<img src="hpgraphic.png" border=0 alt="R Graphics Demo">
+</center>
+
+<p>
 <table border="1" width=100%>
   <tr><td>
     <h2>Important News:</h2>
@@ -15,89 +21,22 @@
       <li>The first R users conference <a
       href="http://www.ci.tuwien.ac.at/Conferences/useR-2004/" target="_top">useR!
       2004</a> will take place in Vienna, Austria, from May 20-22, 2004.
-      <li><strong>R version 1.8.1</strong> has been released on 2003-11-21</li>
-      <li><a
-      href="http://cran.R-project.org/doc/Rnews/Rnews_2003-3.pdf">R
-      News 3/3</a> has been released on 2004-01-21</li>
+
+      <li><strong>R version 1.9.0</strong> has been released on
+      2004-04-12.
+      </li>
+
+      <li>Eric Lecoutre has won the R homepage graphics competition
+      (the result can be seen above) by submitting <a href="misc/acpclust.R"
+      >this R code</a>.
     </ul>
     <p>
   </td></tr>
-  <tr><td>
-  </td></tr>
-  <tr><td style="background: #FFFFFF">
-
-    <center>
-    <img src="hpgraphic.png" border=0 alt="R Graphics Demo">
-    </center>
-
-<!-- Old announcement of R Foundation;  
-     Replaced by winner of  R Home Page Graphics competition
-
-    <p>
-    The R Development Core Team would like to formally announce the
-    creation of the
-
-    <p align=center><strong>
-    <a href="foundation/main.html" >R Foundation for
-    Statistical Computing</a></strong>
-
-    <p>
-    There are many reasons for this decision on our part, largely it is
-    based on the belief that R has become a mature and valuable tool and
-    we would like to ensure its continued development and the development
-    of future innovations in software for statistical and computational
-    research.
-
-    <p>
-    The R Foundation is a not for profit foundation whose general goals
-    are to provide support for the R project and other innovations in
-    statistical computing. The R Foundation will provide a reference point
-    for individuals, instititutions or commercial enterprises that want to
-    support or interact with the R development community.
-
-    <p>
-    We would like to solicit memberships from interested parties
-    (individual and institutional) in the R Foundation.  Details regarding
-    fees and membership categories can be obtained from the web site and
-    email enquiries can be sent to <a
-    href="mailto:R-foundation@R-project.org">R-foundation@R-project.org</a>. 
-
-    <p>
-    Among the goals of the Foundation are the support of continued
-    development of R, the exploration of new methodology, teaching and
-    training of statistical computing and the organization of meetings and
-    conferences with a statistical computing orientation. We hope to
-    attract sufficient funding to make these goals realities.
-
-    <p align=center>
-    For the R Development Core Team:
-
-    <p>
-    <table width=100%>
-      <tr>
-	<td align=center>
-	  Robert Gentleman &amp; Ross Ihaka<br>
-	  Presidents, R Foundation
-	</td>
-	<td align=center>
-	  Friedrich Leisch<br>
-	  Secretary General, R Foundation
-	</td>
-      </tr>
-      </table>
- -->
-    </td>
-  </tr>
 </table>
 
-<p>
-<hr>
 <!--#if expr="$CRAN_HOST" -->
-  <!--#echo  encoding="none" var="CRAN_HOST"--><br>
+  <!--#echo  encoding="none" var="CRAN_HOST"-->
 <!--#endif -->
-<!-- hhmts start -->Last modified: January 21, 2004 by Friedrich Leisch
-<!-- hhmts end -->
-
 
 </body>
 </html>
