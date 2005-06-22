@@ -18,7 +18,7 @@
   <tr><td>
     <h2>Getting Started:</h2>
     <ul>
-      <li>R is a free software environment for for statistical
+      <li>R is a free software environment for statistical
       computing and graphics. It compiles and runs on a wide variety
       of UNIX platforms, Windows and MacOS. To download R, please
       choose your preferred <a
@@ -40,7 +40,7 @@
       href="http://cran.R-project.org/src/base/R-2">
       R version 2.1.1</a></strong> has been released on 2005-06-20.
       </li>
-      
+
       <li>
       <strong><a
       href="http://cran.R-project.org/doc/Rnews/">
