@@ -7,28 +7,25 @@ R-publications.html: Makefile R.bib R-publications-head.html
 	@cat R.html >> $@
 	@echo "</body></html>" >> $@
 
-R-books.html: Makefile R.bib R-publications-head.html
+R-books.html: Makefile R.bib R-books-head.html
 	@bib2bib -c '$$type = "BOOK"' R.bib > R-books.bib
 	@bibtex2html -u -nodoc -rawurl --charset iso-8859-1 \
 	  --named-field publisherurl "Publisher Info" R-books.bib
 	@mv $@ $@.in
-	@(cat R-publications-head.html | \
-	     sed 's/Publications/Books/; \
-                  s/books and other publications/books/'; \
-	    cat $@.in; \
-	    echo "</body></html>") > $@
-	@rm -f $@.in
+	@cat R-books-head.html > $@
+	@cat $@.in >> $@
+	@echo "</body></html>" >> $@
+	@rm $@.in
 
-R-other.html: Makefile R.bib R-publications-head.html
+R-other.html: Makefile R.bib R-other-head.html
 	@bib2bib -c '$$type <> "BOOK"' R.bib > R-other.bib
 	@bibtex2html -u -nodoc -rawurl --charset iso-8859-1 \
 	  --named-field publisherurl "Publisher Info" R-other.bib
 	@mv $@ $@.in
-	@(cat R-publications-head.html | \
-	     sed 's/\(books\) \(and other publications\)/papers \2 (apart from books)/'; \
-	    cat $@.in; \
-	    echo "</body></html>") > $@
-	@rm -f $@.in
+	@cat R-other-head.html > $@
+	@cat $@.in >> $@
+	@echo "</body></html>" >> $@
+	@rm $@.in
 
 clean:
 	@rm -f R-bib.html R_bib.html R-publications.html R.html \
