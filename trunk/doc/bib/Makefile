@@ -10,7 +10,9 @@ R-publications.html: Makefile R.bib R-publications-head.html
 R-books.html: Makefile R.bib R-books-head.html
 	@bib2bib -c '$$type = "BOOK"' R.bib > R-books.bib
 	@bibtex2html -u -nodoc -rawurl --charset iso-8859-1 \
-	  --named-field publisherurl "Publisher Info" R-books.bib
+	  --named-field publisherurl "Publisher Info" \
+	  --named-field orderinfo "Order Info" \
+	  R-books.bib
 	@mv $@ $@.in
 	@cat R-books-head.html > $@
 	@cat $@.in >> $@
@@ -31,5 +33,3 @@ clean:
 	@rm -f R-bib.html R_bib.html R-publications.html R.html \
 	  R-books.html R-books_bib.html \
 	  R-other.html R-other_bib.html
-
-
