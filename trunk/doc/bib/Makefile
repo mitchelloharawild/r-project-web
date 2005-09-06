@@ -11,7 +11,7 @@ R-books.html: Makefile R.bib R-books-head.html
 	@bib2bib -c '$$type = "BOOK"' R.bib > R-books.bib
 	@bibtex2html -u -nodoc -rawurl --charset iso-8859-1 \
 	  --named-field publisherurl "Publisher Info" \
-	  --named-field orderinfo "Order Info" \
+	  --named-field orderinfo "Discount Info" \
 	  R-books.bib
 	@mv $@ $@.in
 	@cat R-books-head.html > $@
