@@ -30,15 +30,15 @@
   <tr><td>
     <h2>News:</h2>
     <ul>
-      <li>Sources of
-      <strong><a href="http://cran.R-project.org/src/base-prerelease">
-      R 2.2.0 alpha/beta releases</a></strong>
-      (daily snapshot).</li>
-      <p>
+<!--       <li>Sources of -->
+<!--       <strong><a href="http://cran.R-project.org/src/base-prerelease"> -->
+<!--       R 2.2.0 alpha/beta releases</a></strong> -->
+<!--       (daily snapshot).</li> -->
+<!--       <p> -->
       <li>
       <strong><a
       href="http://cran.R-project.org/src/base/R-2">
-      R version 2.1.1</a></strong> has been released on 2005-06-20.
+      R version 2.2.0</a></strong> has been released on 2005-10-06.
       </li>
 
       <li>
