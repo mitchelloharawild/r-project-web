@@ -13,7 +13,7 @@ This guide is intended to help you get the most out of the R
 mailing lists, and to avoid embarrassment.  Like many responses
 posted on the list, it is written in a concise manner.  This
 is not intended to be unfriendly - it is more a consequence
-of allocating limited time and space to technical issues
+of allocating the limited available time and space to technical issues
 rather than to social niceties.
 
 <p><b>The list:</b> Remember that R is free software, constructed
@@ -41,10 +41,10 @@ rather than to social niceties.
 <p><b>Basic statistics and classroom homework:</b>
   R-help is not intended for these.
 
-<p><a name="which_list"><b>Which list: R-help, R-devel, or Bioconductor?</b>
+<p><a name="which_list"><b>Which list: R-help, R-devel, or Bioconductor?</b></a>
   There are two widely used mailing list for questions and discussion about
   R and a list dedicated more specifically to issues in the use of
-  bioconductor packages and bioinformatics.<cr>
+  bioconductor packages and bioinformatics.<br>
   <b>R-help</b> is intended to be comprehensible to people who
    want to use R to solve problems but who are not necessarily
    interested in or knowledgeable about programming.
@@ -55,13 +55,15 @@ rather than to social niceties.
    etc. code should go to R-devel.
    More general questions involving pure R code and questions
    likely to be of interest to the large and diverse set of
-   subscribers to R-help should go to R-help.<cr>
+   subscribers to R-help should go to R-help.<br>
   <b>Bioconductor</b> is for announcements about the development of <a
   HREF="http://www.bioconductor.org/"> Bioconductor </a>, availability of
   new code, questions and answers about problems and solutions using
   Bioconductor, etc. See <a
   HREF="http://www.bioconductor.org/mailList.html"> Bioconductor mailing
   lists</a> for details.
+  See <a href="#contrib_pkgs">below</a> for questions on <em>contributed
+  packages</em>.
 
 <p><b>Do your homework before posting:</b> If it is clear
  that you have done basic background research, you are far
@@ -96,7 +98,8 @@ book before posting
 href="http://www.r-project.org/mail#instructions">General Instructions</a>
 for more  details of the following:
 <ul>
-  <li>No HTML posting (harder to detect spam)
+  <li>No HTML posting (harder to detect spam) (note that this is the
+  default in some mail clients - you may have to turn it off)
   <li>No binary attachments except for PS, PDF, and some image and archive
   formats (others are automatically stripped off because they can contain
   malicious software). Files in other formats and larger ones should rather
@@ -110,6 +113,8 @@ for more  details of the following:
   <li>If you can't send from an email address that simply accepts replies,
   then say so in your posting so that people are not inconvenienced when
   they try to respond to your message
+  <li>Some consider it good manners to include a concise signature
+  specifying affiliation
 </ul>
 
 <p><b>Surprising behavior and bugs:</b> What you think is a
@@ -146,15 +151,17 @@ been addressed.
 
 <p>For questions about functions in standard packages
 distributed with R (see the FAQ <a
-href="http://cran.r-project.org/doc/FAQ/R-FAQ.html#Add-on%20packages%20in%20R">Add-on
-packages in R</a>), ask questions on R-help.  If the
-question relates to a package that is downloaded from CRAN
-try contacting the package maintainers first.  You can also
-use <code>find("functionname")</code> and
+href="http://cran.r-project.org/doc/FAQ/R-FAQ.html#Add-on%20packages%20in%20R">
+Add-on packages in R</a>), ask questions on R-help.  <br>
+If the question relates to a <em><a name="contrib_pkgs">contributed package</a>
+</em>, e.g., one downloaded from CRAN, try contacting the package maintainer
+first.  You can also use <code>find("functionname")</code> and
 <code>packageDescription("packagename")</code> to find this
-information.
+information. <b>Only</b> send such questions to R-help
+or R-devel if you get no reply or need further assistance.  This
+applies to both requests for help and to bug reports.
 
-<p>Don't say `<em>R crashed'</em>, which you may take to mean that R
+<p>Don't say <em>`R crashed'</em>, which you may take to mean that R
 gave an error and terminated your piece of code, but most
 people will take to mean abnormal termination of the R
 program.  Say exactly what happened, including any error
@@ -174,6 +181,7 @@ messages you received.
   C 3 7
   D 4 8
   &gt;
+
   how can I turn it into a dataframe with 8 rows, and three
   columns named `row', `col', and `value', which have the
   dimension names as the values of `row' and `col', like this:
@@ -213,7 +221,9 @@ file formats
 
   <li><a href="http://cran.r-project.org/doc/manuals/R-lang.pdf">R Language
   Definition</a> (aka `R Language Manual') describes the R language, data
-  objects, etc.
+  objects, etc.  This document specifies many details of R
+  that are not covered in the help pages or in "An
+  Introduction to R".
 
   <li>The article `R Help Desk' by Uwe Ligges in the
 <a href="http://cran.r-project.org/doc/Rnews/Rnews_2003-1.pdf">R
@@ -256,6 +266,17 @@ at the beginning of the search terms)
   <li>In general, respond to the list, not just the poster.  This will
   result in your response being archived.
   <li>Rudeness and ad hominem comments are not acceptable.  Brevity is OK.
+  <li>Take care when you quote other people's comments to respect their
+   rights, e.g., as summarized <a
+   href="http://www.jiscmail.ac.uk/help/policy/copyright.htm">here</a>.
+   In particular
+      <ul>
+	<li>The original authorship should always be clear,
+	<li>Private messages should never be quoted without permission,
+	<li>Enough context should be given to ensure that
+        misrepresentation is avoided (even if your archived message
+	is referenced at a much later date).
+      </ul>
 <li>When responding to a very simple question, use the following algorithm:
     <ol>
     <li> compose your response
@@ -304,6 +325,7 @@ at the beginning of the search terms)
 </ul>
 
 <b>Final words:</b>
+
 It is a skill to ask good questions.  If at first you don't
 get the answers that are useful to you, don't get
 discouraged.  A response that is concise and technically
@@ -318,7 +340,7 @@ lists (but don't try asking people at catb.org questions
 about R).
 
 <p><em><small>
-Compiled by Tony Plate (tplate at acm dot org), Dec 2003</small></em>
+Compiled by Tony Plate (tplate at acm dot org), updated Dec 2005</small></em>
 </body>
 
 </html>
