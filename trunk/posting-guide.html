@@ -135,19 +135,23 @@ action by one of the R-core members.
 href="http://www.chiark.greenend.org.uk/~sgtatham/bugs.html">How
 to Report Bugs Effectively</a>.
 
-<p>For questions about unexpected behavior or a possible bug
-provide details about your platform (Windows2000, Linux, MacOS
-X), R version (type <code>version</code> at the R prompt).
-and locale (type <code>Sys.getlocale()</code> at the R prompt).
-State the full version number, e.g., `1.8.1', not just
-`1.8'.  State whether you installed a pre-compiled binary
-version of R or compiled it yourself.  If the function is in
-a package other than `base', include the header output from
+<p>For questions about unexpected behavior or a possible
+bug, you should, at a minimum, copy and paste the output
+from <code>sessionInfo()</code> into your message.  When
+mentioning version numbers, always use the full version
+number, e.g., `2.2.1', not just `2.2, and also mention the
+platform (Windows2000, Linux, MacOS X).  Other potentially
+relevant details include the locale (type
+<code>Sys.getlocale()</code> at the R prompt), and whether
+you installed a pre-compiled binary version of R or compiled
+it yourself.  If the function is in a package other than
+`base', include the header output from
 <code>library(help=thatPackage)</code>.  If you are using an
 old version of R and think it does not work properly,
-upgrade.  If possible, try the current R-patched or R-devel version of
-R (see the FAQ for details), to see if the problem has already
-been addressed.
+upgrade to the latest version and try that, before posting.
+If possible, try the current R-patched or R-devel version of
+R (see the FAQ for details), to see if the problem has
+already been addressed.
 
 <p>For questions about functions in standard packages
 distributed with R (see the FAQ <a
