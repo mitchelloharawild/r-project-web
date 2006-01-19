@@ -24,7 +24,11 @@
       choose your preferred <a
       href="http://cran.r-project.org/mirrors.html">CRAN mirror</a>.
       </li>
-    </ul>
+      <li>
+      If you have questions about R like how to download and install
+      the software, or what the license terms are,
+      please read our <a href="http://cran.R-project.org/faqs.html">answers to frequently asked questions</a> before you send an email.
+      </li>
     <p>
   </td></tr>
   <tr><td>
