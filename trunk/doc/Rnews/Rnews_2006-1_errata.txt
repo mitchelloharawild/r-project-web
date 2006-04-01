@@ -1,0 +1,12 @@
+Due to a small time-zone mishap, a version of R News volume 6(1) 
+with some minor grammatical errors was available on the web for 
+a little over 24 hours (roughly during March 31 2006).  
+That file is still available as Rnews_2006-1-1.pdf.  
+
+The "real" published version is Rnews_2006-1-2.pdf.
+
+The latest version, including all corrections and errata, is always 
+available as Rnews_2006-1.pdf (the main link off the R News web page).
+
+
+
