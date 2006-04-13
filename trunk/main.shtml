@@ -34,11 +34,11 @@
   <tr><td>
     <h2>News:</h2>
     <ul>
-<!--       <li>Sources of -->
-<!--       <strong><a href="http://cran.R-project.org/src/base-prerelease"> -->
-<!--       R 2.2.1 beta releases</a></strong> -->
-<!--       (daily snapshot).</li> -->
-<!--       <p> -->
+      <li>Sources of
+      <strong><a href="http://cran.R-project.org/src/base-prerelease">
+      R 2.3.0 beta releases</a></strong>
+      (daily snapshot).</li>
+      <p>
       <li>
       <strong><a
       href="http://cran.R-project.org/src/base/R-2">
