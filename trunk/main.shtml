@@ -34,17 +34,17 @@
   <tr><td>
     <h2>News:</h2>
     <ul>
-<!--       <li>Sources of -->
-<!--       <strong><a href="http://cran.R-project.org/src/base-prerelease"> -->
-<!--       R 2.3.1 beta releases</a></strong> -->
-<!--       (daily snapshot).</li> -->
-<!--       <p> -->
       <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base/R-2">
-      R version 2.3.1</a></strong> has been released on 2006-06-01.
-      </li>
-
+      <strong><a href="http://www.stat.auckland.ac.nz/dsc-2007/">
+      DSC 2007</a></strong>,
+      the 5th workshop on Directions in Statistical Computing,
+      February 15-16, 2007, Auckland, New Zealand.
+      
+      <li>Sources of
+      <strong><a href="http://cran.R-project.org/src/base-prerelease">
+      R 2.4.0 alpha and beta releases</a></strong>
+      (daily snapshot).</li>
+      
       <li>
       <strong><a
       href="http://cran.R-project.org/doc/Rnews/">
@@ -52,10 +52,11 @@
       </li>
 
       <li>
-      <strong><a href="http://www.R-project.org/useR-2006/">useR!
-      2006</a></strong>,
-      the second R user conference, June 15-17, 2006, Vienna, Austria.
-      
+      <strong><a
+      href="http://cran.R-project.org/src/base/R-2">
+      R version 2.3.1</a></strong> has been released on 2006-06-01.
+      </li>
+
       <li>
       <strong>The <a href="http://wiki.R-project.org/">R
       Wiki</a></strong> provides an online forum where useRs can help other
