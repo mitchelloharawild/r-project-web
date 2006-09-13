@@ -1,0 +1,16 @@
+The original published version of R News volume 6(3) is available as
+Rnews_2006-3-1.pdf.  
+
+The version with correction (1) is available as 
+Rnews_2006-3-2.pdf.  
+
+The latest version, including all corrections, is always available as
+Rnews_2006-3.pdf.
+
+
+1.  The original editorial incorrectly expanded the acronym CDK
+    as Chemical Development Kit (the correct expansion is 
+    Chemistry Development Kit).
+
+    Thanks to Egon Willighagen for pointing out the error.
+
