@@ -35,6 +35,12 @@
     <h2>News:</h2>
     <ul>
       <li>
+      <strong><a href="http://user2007.org/">
+      useR! 2007</a></strong>,
+      the first North American useR! will be held at Iowa State
+      University, Ames, Iowa, August 9-10, 2007.
+      
+      <li>
       <strong><a
       href="http://cran.R-project.org/src/base/R-2">
       R version 2.4.1</a></strong> has been released on 2006-12-18.
