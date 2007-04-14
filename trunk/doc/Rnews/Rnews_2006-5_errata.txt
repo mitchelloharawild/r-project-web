@@ -4,6 +4,9 @@ Rnews_2006-5-1.pdf.
 The version with corrections (1 and 2) is available as 
 Rnews_2006-5-2.pdf.  
 
+The version with correction 3 is available as
+Rnews_2006-5-3.pdf
+
 The latest version, including all corrections, is always available as
 Rnews_2006-5.pdf.
 
@@ -18,3 +21,8 @@ Rnews_2006-5.pdf.
 
     Thanks to Matthias Kohl for pointing out the error.
 
+3.  In the article "A Multivariate Approach to Integrating Datasets 
+    using made4 and ade4", the reference for Jeffrey, Madden, McGettigan
+    et al. was incorrect.
+
+    Thanks to Marco Zucchelli for pointing out the error.
