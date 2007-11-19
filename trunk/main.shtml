@@ -33,7 +33,14 @@
   </td></tr>
   <tr><td>
     <h2>News:</h2>
-    <ul>
+    <ul>      
+    <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 2.6.1 Release Candidates</a></strong> are now in progress.
+      Final release is scheduled for November 26, 2007	
+      </li>
+
       <li>
       <strong><a
       href="http://cran.R-project.org/doc/Rnews/">
