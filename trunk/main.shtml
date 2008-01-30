@@ -36,6 +36,13 @@
     <ul>      
       <li>
       <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 2.6.2 Release Candidates</a></strong> will appear February 1-7.
+      Final release is scheduled for February 8, 2008	
+      </li>
+
+      <li>
+      <strong><a
       href="http://cran.R-project.org/src/base/R-2">
       R version 2.6.1</a></strong> has been released on
       2007-11-26.
