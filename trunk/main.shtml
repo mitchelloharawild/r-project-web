@@ -36,6 +36,11 @@
     <ul>      
       <li>
       <strong><a
+      href="SoC08/index.html">
+      R project ideas</a></strong> for the Google <a href="http://code.google.com/soc/2008/" >Summer of Code 2008</a>.
+      </li>
+
+      <strong><a
       href="http://cran.R-project.org/src/base/R-2">
       R version 2.6.2</a></strong> has been released on
       2008-02-08.
@@ -76,17 +81,6 @@
       will be held at Dortmund
       University, Germany, August 12-14, 2008.
 
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base/R-2">
-      R version 2.6.0</a></strong> has been released on 2007-10-03.
-      </li>
-
-      <li>
-      <strong><a target="_top" href="http://user2007.org/">
-      useR! 2007</a></strong>,
-      the first North American R user conference, has been held at Iowa State
-      University, Ames, Iowa, August 9-10, 2007.
 
 <!--       <li>Sources of -->
 <!--       <strong><a href="http://cran.R-project.org/src/base-prerelease"> -->
