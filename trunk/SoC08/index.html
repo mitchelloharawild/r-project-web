@@ -96,17 +96,15 @@ DBI framework.
 
 <hr>
 
-<h2>cran2deb: Generate Debian packages for R from package sources</h2>
+<h2>cran2deb: Generate Debian Packages for R from Package Sources</h2>
 
 <b>Mentor:</b> Dirk Eddelbuettel (Email: edd at debian.org)
 
-<p>
-<b>Summary:</b> 
-GNU R has become the preeminent platform for 'computing with
-data'. The CRAN archives contain over 1300 source packages of very
-high-quality, and BioConductor has again almost as many focuses on
-bioinformatics. We want more of these in Debian, and going beyond the
-50+ packages we currently have suggests more scripting and automation.
+<p> <b>Summary:</b> GNU R has become the preeminent platform for
+'computing with data'. The CRAN archives contain over 1300 source
+packages of very high-quality, and BioConductor has another 200+. We
+want more of these in Debian, and going beyond the 50+ packages we
+currently have suggests more scripting and automation.
 
 
 <p>
@@ -130,6 +128,76 @@ then script package fragments. While the <a
 href="http://wiki.debian.org/AliothPkgBioc" target="_top">PkgBioc</a> project on
 Alioth has done work in this area, it may be worthwhile to try a new
 and simpler approach.
+
+<hr>
+
+<h2>crantastic.org: Build a Community Site for R</h2>
+
+<b>Mentor:</b> <a
+href="http://had.co.nz">Hadley Wickham</a>
+
+<p> <b>Summary:</b> Create an information portal for the fast growing
+list of R packages, integrating package documentation and journal
+publications with feedback from the useR community.
+
+<p>
+<b>Required skills:</b>
+Familiarity with Ruby and R, and web development in general (html,
+css, js, ...). knowledge of RSS/Atom could be useful.
+
+
+<p> <b>Description:</b> The CRAN archives contain over 1300 source
+packages of very high-quality, and BioConductor has another 200+. For
+many data analytic tasks there is more than one package offering a
+solution, often using different names for similar functionality,
+because different research communities may use different vocabulary
+for similar methods (e.g., statistics vs. machine learning
+jargon). Hence it is often hard for users to find the packages they
+really need. CRAN <a href="http://cran.r-project.org/web/views/" >task
+views</a> offer some help, but are edited by designated maintainers
+and hence cannot cover all fields and aspects.
+
+<p>
+<a href="http://crantastic.org" >crantastic.org</a> implements a first
+step in complementing this with package reviews from the useR
+community, but it still lacks many features we would like to have:
+integration with task views, vignettes, and journal publications;
+match authors and users based on email address; list top users and
+authors on respective pages; implement a rating system; event streams
+for packages and users; integration with <a
+href="http://dirk.eddelbuettel.com/cranberries/index.rss" >CRANberries
+RSS feed</a>, etc.
+
+
+<hr>
+
+<h2>Finite Mixture Models for Large Data Sets</h2>
+
+<b>Mentor:</b> <a
+href="http://www.statistik.lmu.de/~leisch/">Friedrich Leisch</a>
+
+<p> <b>Summary:</b> Transfer the most popular mixture models in R
+package <a href="http://cran.R-project.org/package=flexmix">flexmix</a> from
+interpreted R code to compiled C code, add interactive visualization
+to the package.
+
+<p>
+<b>Required skills:</b>
+Familiarity with R, preferably actual programming experience. C programming. 
+
+<p> <b>Description:</b> Finite mixture models are the current
+state-of-the-art in marketing research to cluster consumers into market
+segments. Package <a href="http://cran.R-project.org/package=flexmix">
+flexmix</a> implements a flexible framework for fitting this type of
+models, and is mainly designed for rapid prototyping. As all code is
+currently interpreted R code, the fitting is rather slow for large
+data sets. In order to use the package for mining large data sets, the
+most poular models in the package should be re-implemented in C. In
+addition, there are ideas on interactive visualizatin of these models
+using R packages like
+<a href="http://cran.R-project.org/package=rggobi">rggobi</a> or 
+<a href="http://cran.R-project.org/package=iplots">iplots</a>. 
+
 
 
 </body>
