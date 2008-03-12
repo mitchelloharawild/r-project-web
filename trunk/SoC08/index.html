@@ -15,6 +15,10 @@
 
 <h2>Roxygen</h2>
 	  
+<p><b>Mentor:</b> <a
+href="http://www.statistik.lmu.de/~eugster/">Manuel
+J. A. Eugster</a></p>
+
 <p><tt>Roxygen</tt> is an extension of the <tt>R</tt> language and
 provides a documentation and development assistance system. The
 documentation system is in the style of <a
@@ -32,13 +36,14 @@ some basic knowledge about writing a parser. At best, the student
 has worked with Doxygen, Javadoc or another documentation
 system.</p>
 
-<p><b>Mentor:</b> <a
-href="http://www.statistik.lmu.de/~eugster/">Manuel
-J. A. Eugster</a></p>
 
 <hr>
 	  
 <h2>Ruml</h2>
+
+<p><b>Mentor:</b> <a
+href="http://www.statistik.lmu.de/~eugster/">Manuel
+J. A. Eugster</a></p>
 
 <p><tt>Ruml</tt> creates UML class diagrams from existing S classes
 in the sense of <a href="http://www.umlgraph.org/">UMLGraph</a>
@@ -54,13 +59,78 @@ know the structual elements of <tt>R</tt> (like functions, S3/4
 classes, generics, ...,) very well and has basic knowlegde about
 UML (class diagrams).
 
-<p><b>Mentor:</b> <a
-href="http://www.statistik.lmu.de/~eugster/">Manuel
-J. A. Eugster</a></p>
+
+<hr>
+	  
+<h2>Connecting R and PostgreSQL using DBI</h2>
+
+<b>Mentor:</b> Dirk Eddelbuettel (Email: edd at debian.org)
+
+<p>
+<b>Summary:</b> R has a the widely used database-abstraction interface
+   'DBI' with support for MySQL, SQLite, Oracle, ... backends.
+   Support for PostgreSQL would complement this.
+
+<p>
+<b>Required skills:</b> Knowledge of C programming is required; knowledge of
+   R and SQL are beneficial.
+
+<p> <b>Description:</b> The 'Database Interface' (DBI) package provides
+an abstraction layer between R and the actual database backend.  This
+requires 'glue code' for every given backend to provide the support
+for the API exposed by DBI. R has DBI support for MySQL, SQLite and
+Oracle backends, but not for PostgreSQL.  However, there is an
+alternate interface package Rdbi with a matching RdbiPgSQL backend. It
+appears that Rdbi has stalled in the sense that no other backend was
+ever provided.  .  This SummerOfCode project consists of taking what
+is already available via Rdbi as bringing it to the more widely-used
+DBI framework.
+
+<p>
+<b>References:</b>
+<ul>
+  <li><a href="http://cran.r-project.org/web/packages/DBI/index.html">DBI</a>
+  <li><a href="http://www.bioconductor.org/packages/bioc/html/Rdbi.html">Rdbi</a>
+  <li><a href="http://www.bioconductor.org/packages/bioc/html/RdbiPgSQL.html">RdbiPgSQ</a>
+</ul>
+
 <hr>
 
+<h2>cran2deb: Generate Debian packages for R from package sources</h2>
+
+<b>Mentor:</b> Dirk Eddelbuettel (Email: edd at debian.org)
+
+<p>
+<b>Summary:</b> 
+GNU R has become the preeminent platform for 'computing with
+data'. The CRAN archives contain over 1300 source packages of very
+high-quality, and BioConductor has again almost as many focuses on
+bioinformatics. We want more of these in Debian, and going beyond the
+50+ packages we currently have suggests more scripting and automation.
 
 
+<p>
+<b>Required skills:</b>
+Familiarity with R, preferably actual programming experience;
+alternatively programming experience in another scripting
+language (Perl, Python, ...). Some familiarity with Debian
+package building, C++ knowledge may be beneficial to
+connect to apt's data structures. Basic SQL knowledge may
+be helpful for the meta-data collection.
 
-  </body>
+<p> <b>Description:</b> CRAN packages have in almost all cases
+licenses which are suitable for Debian 'main'. Moreover, the internal
+packaging and structure of these packages already resembles some of
+the Debian meta-data, and the build process itself is
+standardised. What is needed are a set of tools to collect package
+meta-data (and the <a
+href="http://dirk.eddelbuettel.com/cranberries/index.html" target="_top">CRANberries</a>
+aggregator has one-half, apt has the other), 'map' the meta-data and
+then script package fragments. While the <a
+href="http://wiki.debian.org/AliothPkgBioc" target="_top">PkgBioc</a> project on
+Alioth has done work in this area, it may be worthwhile to try a new
+and simpler approach.
+
+
+</body>
 </html>
