@@ -193,10 +193,77 @@ models, and is mainly designed for rapid prototyping. As all code is
 currently interpreted R code, the fitting is rather slow for large
 data sets. In order to use the package for mining large data sets, the
 most poular models in the package should be re-implemented in C. In
-addition, there are ideas on interactive visualizatin of these models
+addition, there are ideas on interactive visualization of these models
 using R packages like
 <a href="http://cran.R-project.org/package=rggobi">rggobi</a> or 
 <a href="http://cran.R-project.org/package=iplots">iplots</a>. 
+
+
+
+
+<h2>XML format and tools for R documentation</h2>
+<b>Mentor</b>
+<a href="http://www.stat.ucdavis.edu/~duncan">Duncan Temple Lang</a>
+<p>
+<b>Summary</b>
+Extend an experimental R package that provides a collection of tools
+for working with documentation for R functions, classes, data and
+dynamic documents using XML as the format.
+
+<p>
+<b>Required skills</b>
+Programming experience with R and some knowledge of S4 classes,
+knowledge of XML and XSL.
+
+<p> <b>Description</b> The Rd format used for R functions has served
+us well for quite some time, but a richer format that could handle,
+e.g. plots, images, annotated examples, allow includes of
+sub-documents to allow for reuse across documents, easier validation,
+user-level extensions would be valuable. Some initial work has been
+done to define a format for documenting R functions, classes, methods
+and data via an XML format, leveraging DocBook.  Along with this, we
+need tools to both generate the template documents that authors
+complete and then process them.  This involves updating them
+programmatically from within R, e.g. to validate and update the list
+of parameters in a function or slots in a class.  Also, we need tools
+to transform the XML documents to different formats such as PDF, HTML,
+Rd, LaTeX and simple text which is done primarily through XSL.  A
+prototype for some of this is already in place, but there is a need to
+extend and complete it and also explore new ideas so there is
+significant room for creativity and initiative.  And this dovetails
+into a project for authoring more general documents using a
+reproducible, dynamic mechanism based on XML.
+
+
+
+
+<h2>Embedding R in Gnumeric</h2>
+<b>Mentor</b>
+<a href="http://www.stat.ucdavis.edu/~duncan">Duncan Temple Lang</a>
+<p>
+<b>Summary</b>
+Develop a new plugin for the Gnumeric spreadsheet which allows
+R functions and graphics to be used directly from Gnumeric.
+
+<p>
+<b>Required skills</b>
+Programming experience with R and C and an understanding of the
+computational model of spreadsheets.
+
+<p> <b>Description</b> This involves a new implementation of the ideas
+from a previous R-Gnumeric plugin (<a
+href="http://www.omegahat.org/RGnumeric">RGnumeric</a>) and extension
+of the ideas in that initial implementation.  The aim is to allow R
+functions to be accessed as if they were built-in Gnumeric functions
+for use in spreadsheets.  Also, we want to be able to use the R
+graphics engine to create plots that can be placed on sheets similar
+to the existing Gnumeric charting facilities.  A further wrinkle is to
+be able to programmatically augment the Gnumeric GUI from within R
+using RGtk2.  These facilities will allow users access to many of R's
+facilities from within a convenient interface and be useful in business
+and education.
+
+
 
 
 <script src="http://www.google-analytics.com/urchin.js" 
