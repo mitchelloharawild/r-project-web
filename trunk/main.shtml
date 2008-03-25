@@ -36,6 +36,13 @@
     <ul>      
       <li>
       <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 2.7.0 prerelease versions</a></strong> are now in progress.
+      Final release is scheduled for April 22, 2008	
+      </li>
+
+      <li>
+      <strong><a
       href="SoC08/index.html">
       R project ideas</a></strong> for the Google <a href="http://code.google.com/soc/2008/" >Summer of Code 2008</a>.
       </li>
