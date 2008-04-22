@@ -36,9 +36,9 @@
     <ul>      
       <li>
       <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 2.7.0 prerelease versions</a></strong> are now in progress.
-      Final release is scheduled for April 22, 2008	
+      href="http://cran.R-project.org/src/base/R-2">
+      R version 2.7.0</a></strong> has been released on
+      2008-04-22.
       </li>
 
       <li>
@@ -47,13 +47,23 @@
       R project ideas</a></strong> for the Google <a href="http://code.google.com/soc/2008/" >Summer of Code 2008</a>.
       </li>
 
+<!-- Dead stuff, for later reuse:
+
+      <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 2.7.0 prerelease versions</a></strong> are now in progress.
+      Final release is scheduled for April 22, 2008	
+      </li>
+
+      <li>
       <strong><a
       href="http://cran.R-project.org/src/base/R-2">
       R version 2.6.2</a></strong> has been released on
       2008-02-08.
       </li>
 
-<!--
+
       <li>
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
