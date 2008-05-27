@@ -36,6 +36,12 @@
     <ul>      
       <li>
       <strong><a
+      href="http://cran.R-project.org/doc/Rnews/">
+      R News 8/1</a></strong> has been published on 2008-05-27.
+      </li>
+
+      <li>
+      <strong><a
       href="http://cran.R-project.org/src/base/R-2">
       R version 2.7.0</a></strong> has been released on
       2008-04-22.
@@ -85,12 +91,6 @@
       Final release is scheduled for November 26, 2007	
       </li>
 -->
-
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/doc/Rnews/">
-      R News 7/3</a></strong> has been published on 2007-12-18.
-      </li>
 
       <li>
       <strong><a target="_top" href="http://www.R-project.org/useR-2008">
