@@ -36,6 +36,13 @@
     <ul>      
       <li>
       <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 2.7.1 Release Candidates</a></strong> will appear June 16-22.
+      Final release is scheduled for 2008-06-23.	
+      </li>
+
+      <li>
+      <strong><a
       href="http://cran.R-project.org/doc/Rnews/">
       R News 8/1</a></strong> has been published on 2008-05-27.
       </li>
