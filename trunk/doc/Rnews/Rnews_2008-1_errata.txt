@@ -1,8 +1,11 @@
 The original published version of R News volume 8(1) is available as
 Rnews_2008-1-1.pdf.
 
-The version with corrections (1, 2, and 3) is available as
+The version with corrections 1, 2, and 3 is available as
 Rnews_2008-1-2.pdf.
+
+The version with corrections 1, 2, 3, and 4 is available as
+Rnews_2008-1-3.pdf
 
 
 The latest version, including all corrections, is always available as
@@ -49,6 +52,11 @@ Rnews_2008-1.pdf.
     
     This point about initializing lists was clarified in an R-help posting by
     Brian Ripley.
+    
+4.  The article "Using Sweave with LyX" failed to mention that Windows users
+    need a Unix shell. This requirement is now addressed in the section
+    "Install" on page 7.
+
     
 In addition, small typographical errors were corrected.
     
