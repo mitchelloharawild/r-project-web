@@ -54,6 +54,13 @@
       four slots for R projects</a> in the Google <a href="http://code.google.com/soc/2008/" >Summer of Code 2008</a>.
       </li>
 
+      <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 2.7.2 Release Candidates</a></strong> will appear August 18-24.
+      Final release is scheduled for 2008-08-25.	
+      </li>
+
 <!-- Dead stuff, for later reuse:
       <li>
       <strong><a
