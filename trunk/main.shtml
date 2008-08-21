@@ -35,6 +35,18 @@
     <h2>News:</h2>
     <ul>      
       <li>
+      <strong><a target="_top" href="http://www.agrocampus-rennes.fr/math/useR-2009/">
+      useR! 2009</a></strong>, the R user conference,
+      will be held at Agrocampus Rennes, France, July 8-10, 2009.
+
+      <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 2.7.2 Release Candidates</a></strong> will appear August 18-24.
+      Final release is scheduled for 2008-08-25.	
+      </li>
+
+      <li>
       <strong><a
       href="http://cran.R-project.org/src/base/R-2">
       R version 2.7.1</a></strong> has been released on
@@ -48,20 +60,13 @@
       R News 8/1</a></strong> has been published on 2008-05-27.
       </li>
 
+<!-- Dead stuff, for later reuse:
       <li>
       The R Foundation as been awarded <a
       href="SoC08/index.html">
       four slots for R projects</a> in the Google <a href="http://code.google.com/soc/2008/" >Summer of Code 2008</a>.
       </li>
 
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 2.7.2 Release Candidates</a></strong> will appear August 18-24.
-      Final release is scheduled for 2008-08-25.	
-      </li>
-
-<!-- Dead stuff, for later reuse:
       <li>
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
@@ -83,40 +88,12 @@
       Final release is scheduled for April 22, 2008	
       </li>
 
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base/R-2">
-      R version 2.6.2</a></strong> has been released on
-      2008-02-08.
-      </li>
-
-
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 2.6.2 Release Candidates</a></strong> will appear February 1-7.
-      Final release is scheduled for February 8, 2008	
-      </li>
-
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base/R-2">
-      R version 2.6.1</a></strong> has been released on
-      2007-11-26.
-      </li>
-
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 2.6.1 Release Candidates</a></strong> are now in progress.
-      Final release is scheduled for November 26, 2007	
-      </li>
 -->
 
       <li>
       <strong><a target="_top" href="http://www.R-project.org/useR-2008">
-      useR! 2008</a></strong>, the R user conference,
-      will be held at Dortmund
+      useR! 2008</a></strong>,
+      has been held at Dortmund
       University, Germany, August 12-14, 2008.
 
 
