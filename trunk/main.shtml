@@ -39,18 +39,12 @@
       useR! 2009</a></strong>, the R user conference,
       will be held at Agrocampus Rennes, France, July 8-10, 2009.
 
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 2.7.2 Release Candidates</a></strong> will appear August 18-24.
-      Final release is scheduled for 2008-08-25.	
-      </li>
 
       <li>
       <strong><a
       href="http://cran.R-project.org/src/base/R-2">
-      R version 2.7.1</a></strong> has been released on
-      2008-06-23.
+      R version 2.7.2</a></strong> has been released on
+      2008-08-25.
       </li>
 
 
@@ -66,13 +60,13 @@
       href="SoC08/index.html">
       four slots for R projects</a> in the Google <a href="http://code.google.com/soc/2008/" >Summer of Code 2008</a>.
       </li>
-
       <li>
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
-      R 2.7.1 Release Candidates</a></strong> will appear June 16-22.
-      Final release is scheduled for 2008-06-23.	
+      R 2.7.2 Release Candidates</a></strong> will appear August 18-24.
+      Final release is scheduled for 2008-08-25.	
       </li>
+
 
       <li>
       <strong><a
