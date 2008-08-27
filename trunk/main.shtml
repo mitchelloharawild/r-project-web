@@ -34,11 +34,6 @@
   <tr><td>
     <h2>News:</h2>
     <ul>      
-      <li>
-      <strong><a target="_top" href="http://www.agrocampus-rennes.fr/math/useR-2009/">
-      useR! 2009</a></strong>, the R user conference,
-      will be held at Agrocampus Rennes, France, July 8-10, 2009.
-
 
       <li>
       <strong><a
@@ -46,6 +41,12 @@
       R version 2.7.2</a></strong> has been released on
       2008-08-25.
       </li>
+
+      <li>
+      <strong><a target="_top" href="http://www.agrocampus-rennes.fr/math/useR-2009/">
+      useR! 2009</a></strong>, the R user conference,
+      will be held at Agrocampus Rennes, France, July 8-10, 2009.
+
 
 
       <li>
