@@ -17,7 +17,7 @@ R-publications.html: Makefile R.bib R-publications-head.html
 	@rm $@.in
 
 R-books.html: Makefile R.bib R-books-head.html
-	@$(BIB2BIB) -c '$$type = "book"' R.bib > $(*F).bib
+	@$(BIB2BIB) -c '$$type = "BOOK"' R.bib > $(*F).bib
 	@bibtex2html -u -nodoc -rawurl --charset iso-8859-1 \
 	  --named-field publisherurl "Publisher Info" \
 	  --named-field orderinfo "Discount Info" \
@@ -29,7 +29,7 @@ R-books.html: Makefile R.bib R-books-head.html
 	@rm $@.in
 
 R-other.html: Makefile R.bib R-other-head.html
-	@$(BIB2BIB) -c '$$type <> "book"' R.bib > $(*F).bib
+	@$(BIB2BIB) -c '$$type <> "BOOK"' R.bib > $(*F).bib
 	@bibtex2html -u -nodoc -rawurl --charset iso-8859-1 \
 	  --named-field publisherurl "Publisher Info" \
 	  $(*F).bib
@@ -44,4 +44,4 @@ clean:
 	  R-publications.html R-publications_bib.html \
 	  R-books.html R-books_bib.html \
 	  R-other.html R-other_bib.html \
-	  R_bib.html R.html 
+	  R_bib.html R.html
