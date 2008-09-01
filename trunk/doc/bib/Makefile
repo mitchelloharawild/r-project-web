@@ -41,6 +41,7 @@ R-other.html: Makefile R.bib R-other-head.html
 
 clean:
 	@rm -f R-bib.html \
+          R-publications.bib R-books.bib R-other.bib \
 	  R-publications.html R-publications_bib.html \
 	  R-books.html R-books_bib.html \
 	  R-other.html R-other_bib.html \
