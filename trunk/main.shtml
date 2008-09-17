@@ -34,6 +34,13 @@
   <tr><td>
     <h2>News:</h2>
     <ul>      
+      <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.8.0 prerelease versions</a></strong> will appear starting
+      Monday September 22.
+      Final release is scheduled for October 20, 2008	
+      </li>
 
       <li>
       <strong><a
@@ -76,12 +83,6 @@
       2008-04-22.
       </li>
 
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 2.7.0 prerelease versions</a></strong> are now in progress.
-      Final release is scheduled for April 22, 2008	
-      </li>
 
 -->
 
