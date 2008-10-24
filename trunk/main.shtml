@@ -34,7 +34,7 @@
   <tr><td>
     <h2>News:</h2>
     <ul>      
-<--
+<!--
       <li>
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
@@ -43,10 +43,14 @@
       Final release is scheduled for October 20, 2008	
       </li>
 -->
+
       <li>
-      <strong><a target="_top" href="http://www.agrocampus-rennes.fr/math/useR-2009/">
-      useR! 2009</a></strong>, the R user conference,
-      will be held at Agrocampus Rennes, France, July 8-10, 2009.
+      <strong><a target="_top"
+      href="http://www.r-project.org/dsc-2009"> DSC 2009</a></strong>,
+      The 6th workshop on Directions in Statistical Computing, will be
+      held at the Center for Health and Society, University of
+      Copenhagen, Denmark, July 13-14, 2009. </li>
+
 
 
       <li>
@@ -57,12 +61,9 @@
       </li>
 
       <li>
-      <strong><a target="_top" href="http://www.r-project.org/dsc-2009">
-      DSC 2009</a></strong>, Directions in Statistical Computing,
-      will be held at the Center for Health and Society, University of
-      Copenhagen, Denmark, July 13-14, 2009.
-      </li>
-
+      <strong><a target="_top" href="http://www.agrocampus-rennes.fr/math/useR-2009/">
+      useR! 2009</a></strong>, the R user conference,
+      will be held at Agrocampus Rennes, France, July 8-10, 2009.
 
       <li>
       <strong><a
