@@ -34,6 +34,7 @@
   <tr><td>
     <h2>News:</h2>
     <ul>      
+<--
       <li>
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
@@ -41,12 +42,12 @@
       Monday September 22.
       Final release is scheduled for October 20, 2008	
       </li>
-
+-->
       <li>
       <strong><a
       href="http://cran.R-project.org/src/base/R-2">
-      R version 2.7.2</a></strong> has been released on
-      2008-08-25.
+      R version 2.8.0</a></strong> has been released on
+      2008-10-20.
       </li>
 
       <li>
