@@ -44,6 +44,12 @@
       </li>
 -->
       <li>
+      <strong><a target="_top" href="http://www.agrocampus-rennes.fr/math/useR-2009/">
+      useR! 2009</a></strong>, the R user conference,
+      will be held at Agrocampus Rennes, France, July 8-10, 2009.
+
+
+      <li>
       <strong><a
       href="http://cran.R-project.org/src/base/R-2">
       R version 2.8.0</a></strong> has been released on
@@ -51,10 +57,11 @@
       </li>
 
       <li>
-      <strong><a target="_top" href="http://www.agrocampus-rennes.fr/math/useR-2009/">
-      useR! 2009</a></strong>, the R user conference,
-      will be held at Agrocampus Rennes, France, July 8-10, 2009.
-
+      <strong><a target="_top" href="http://www.r-project.org/dsc-2009">
+      DSC 2009</a></strong>, Directions in Statistical Computing,
+      will be held at the Center for Health and Society, University of
+      Copenhagen, Denmark, July 13-14, 2009.
+      </li>
 
 
       <li>
