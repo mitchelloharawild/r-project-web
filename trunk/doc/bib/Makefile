@@ -1,6 +1,7 @@
 BIB2BIB = bib2bib \
 	-c '$$key <> "R:Ligges:2005"' \
-	-c '$$key <> "R:Ligges:2007"'
+	-c '$$key <> "R:Ligges:2007"' \
+	-c '$$key <> "R:Dalgaard:2002"'
 
 .SUFFIXES:
 .SUFFIXES: .html .bib
