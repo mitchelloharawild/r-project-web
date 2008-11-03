@@ -34,15 +34,11 @@
   <tr><td>
     <h2>News:</h2>
     <ul>      
-<!--
       <li>
       <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.8.0 prerelease versions</a></strong> will appear starting
-      Monday September 22.
-      Final release is scheduled for October 20, 2008	
+      href="http://cran.R-project.org/doc/Rnews/">
+      R News 8/2</a></strong> has been published on 2008-11-03.
       </li>
--->
 
       <li>
       <strong><a target="_top"
@@ -65,13 +61,16 @@
       useR! 2009</a></strong>, the R user conference,
       will be held at Agrocampus Rennes, France, July 8-10, 2009.
 
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/doc/Rnews/">
-      R News 8/1</a></strong> has been published on 2008-05-27.
-      </li>
 
 <!-- Dead stuff, for later reuse:
+      <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.8.0 prerelease versions</a></strong> will appear starting
+      Monday September 22.
+      Final release is scheduled for October 20, 2008	
+      </li>
+
       <li>
       The R Foundation as been awarded <a
       href="SoC08/index.html">
