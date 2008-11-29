@@ -1,0 +1,20 @@
+The original published version of R News volume 8(2) is available as
+Rnews_2008-2-1.pdf.
+
+The version with corrections 1, 2, 3, and 4 is available as
+Rnews_2008-2-2.pdf.
+
+The latest version, including all corrections, is always available as
+Rnews_2008-2.pdf.
+
+1.  Ioannis Kosmidis's name was misspelled in the editorial (page 1, column 1).
+    Our apologies to the author.
+    
+2.  In the article on the profileModel package, an error was corrected in the
+    author's address (page 18, column 2).
+    
+3.  A footnote was added to page 16 of the same article to indicate that the
+    problem identified in the profile method of the MASS package for glm 
+    objects has been addressed.
+    
+4.  Finally, the article on the profileModel package has been reformatted.
