@@ -36,6 +36,12 @@
     <ul>      
       <li>
       <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 2.8.1 Release Candidates</a></strong> will appear December 13-21.
+      Final release is scheduled for 2008-12-22.	
+      </li>
+      <li>
+      <strong><a
       href="http://cran.R-project.org/doc/Rnews/">
       R News 8/2</a></strong> has been published on 2008-11-03.
       </li>
