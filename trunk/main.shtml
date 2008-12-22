@@ -34,12 +34,15 @@
   <tr><td>
     <h2>News:</h2>
     <ul>      
+
+
       <li>
       <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 2.8.1 Release Candidates</a></strong> will appear December 13-21.
-      Final release is scheduled for 2008-12-22.	
+      href="http://cran.R-project.org/src/base/R-2">
+      R version 2.8.1</a></strong> has been released on
+      2008-12-22.
       </li>
+
       <li>
       <strong><a
       href="http://cran.R-project.org/doc/Rnews/">
@@ -53,14 +56,6 @@
       held at the Center for Health and Society, University of
       Copenhagen, Denmark, July 13-14, 2009. </li>
 
-
-
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base/R-2">
-      R version 2.8.0</a></strong> has been released on
-      2008-10-20.
-      </li>
 
       <li>
       <strong><a target="_top" href="http://www.agrocampus-rennes.fr/math/useR-2009/">
@@ -76,28 +71,18 @@
       Monday September 22.
       Final release is scheduled for October 20, 2008	
       </li>
+      <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 2.8.1 Release Candidates</a></strong> will appear December 13-21.
+      Final release is scheduled for 2008-12-22.	
+      </li>
 
       <li>
       The R Foundation as been awarded <a
       href="SoC08/index.html">
       four slots for R projects</a> in the Google <a href="http://code.google.com/soc/2008/" >Summer of Code 2008</a>.
       </li>
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 2.7.2 Release Candidates</a></strong> will appear August 18-24.
-      Final release is scheduled for 2008-08-25.	
-      </li>
-
-
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base/R-2">
-      R version 2.7.0</a></strong> has been released on
-      2008-04-22.
-      </li>
-
-
 -->
 
       <li>
