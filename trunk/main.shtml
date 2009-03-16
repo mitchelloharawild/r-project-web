@@ -34,7 +34,9 @@
   </td></tr>
   <tr><td>
     <h2>News:</h2>
-    <ul>      
+    <ul>
+      <li>We have started to collect ideas for the <a
+      href="http://www.r-project.org/soc09">Google Summer of Code 2009</a>.
 
       <li>
       <strong><a
@@ -95,11 +97,6 @@ NB: Rephrase this so that people looking for binaries don't get sidetracked.
       </li>
 -->
 
-      <li>
-      <strong><a target="_top" href="http://www.R-project.org/useR-2008">
-      useR! 2008</a></strong>,
-      has been held at Dortmund
-      University, Germany, August 12-14, 2008.
 
 
 <!--       <li>Sources of -->
