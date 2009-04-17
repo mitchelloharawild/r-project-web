@@ -35,16 +35,16 @@
   <tr><td>
     <h2>News:</h2>
     <ul>
+      <li>
+      <strong>R version 2.9.0</strong> has been released on 2009-04-17. The
+      source code will first become available in this
+      <a href="http://cran.R-project.org/src/base/R-2">
+      directory</a>, and eventually via all of CRAN. Binaries will
+      arrive in due course (see download instructions above).
+      </li>
+
       <li>We have started to collect ideas for the <a
       href="http://www.r-project.org/soc09">Google Summer of Code 2009</a>.
-
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.9.0 prerelease versions</a></strong> will appear starting
-      March 20.
-      Final release is scheduled for April 17, 2009	
-      </li>
 
       <li>
       <strong><a
@@ -74,6 +74,14 @@ NB: Rephrase this so that people looking for binaries don't get sidetracked.
       href="http://cran.R-project.org/src/base/R-2">
       R version 2.8.1</a></strong> has been released on
       2008-12-22.
+      </li>
+
+      <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.9.0 prerelease versions</a></strong> will appear starting
+      March 20.
+      Final release is scheduled for April 17, 2009	
       </li>
 
       <li>
