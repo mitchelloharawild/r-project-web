@@ -36,6 +36,13 @@
     <h2>News:</h2>
     <ul>
       <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 2.9.1 Release Candidates</a></strong> will appear June 19-25.
+      Final release is scheduled for 2009-06-26.	
+      </li>
+
+      <li>
 	The first issue of 
 	<a href="http://journal.r-project.org">
 	  The R Journal</a> 
