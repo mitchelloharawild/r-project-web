@@ -44,22 +44,22 @@
       </li>
 
       <li>
-	The first issue of 
+	The first issue of
 	<a href="http://journal.r-project.org">
-	  The R Journal</a> 
+	  The R Journal</a>
 	is now available
 
       <li>
       The R Foundation as been awarded <a
       href="soc09/index.html">
       four slots for R projects</a> in the <a
-      href="http://socghop.appspot.com/org/home/google/gsoc2009/rf" target="_top">Google Summer of Code 2009</a>. 
+      href="http://socghop.appspot.com/org/home/google/gsoc2009/rf" target="_top">Google Summer of Code 2009</a>.
 
 
       <li>
       <strong><a target="_top"
       href="http://www.r-project.org/dsc-2009"> DSC 2009</a></strong>,
-      The 6th workshop on Directions in Statistical Computing, will be
+      The 6th workshop on Directions in Statistical Computing, has been
       held at the Center for Health and Society, University of
       Copenhagen, Denmark, July 13-14, 2009. </li>
 
@@ -67,7 +67,12 @@
       <li>
       <strong><a target="_top" href="http://www.agrocampus-rennes.fr/math/useR-2009/">
       useR! 2009</a></strong>, the R user conference,
-      will be held at Agrocampus Rennes, France, July 8-10, 2009.
+      has been be held at Agrocampus Rennes, France, July 8-10, 2009.
+
+      <li>
+      <strong><a target="_top" href="http://useR2010.org/">
+      useR! 2010</a></strong>, the R user conference,
+      will be held at the NIST, Gaithersburg, Maryland, USA, July 20-23, 2010.
 
 
 <!-- Dead stuff, for later reuse:
@@ -75,7 +80,7 @@
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
       R 2.9.1 Release Candidates</a></strong> will appear June 19-25.
-      Final release is scheduled for 2009-06-26.	
+      Final release is scheduled for 2009-06-26.
       </li>
 
 
@@ -92,14 +97,14 @@ NB: Rephrase this so that people looking for binaries don't get sidetracked.
       href="http://cran.R-project.org/src/base-prerelease">
       R	2.9.0 prerelease versions</a></strong> will appear starting
       March 20.
-      Final release is scheduled for April 17, 2009	
+      Final release is scheduled for April 17, 2009
       </li>
 
       <li>
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
       R 2.8.1 Release Candidates</a></strong> will appear December 13-21.
-      Final release is scheduled for 2008-12-22.	
+      Final release is scheduled for 2008-12-22.
       </li>
 
       <li>
