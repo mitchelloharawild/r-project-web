@@ -72,7 +72,16 @@
       <li>
       <strong><a target="_top" href="http://useR2010.org/">
       useR! 2010</a></strong>, the R user conference,
-      will be held at NIST, Gaithersburg, Maryland, USA, July 21-23, 2010.
+      will be held at NIST, Gaithersburg, Maryland, USA, July 21-23,
+      2010.
+
+      <li>We have started to collect information about local
+      <a
+href="http://wiki.r-project.org/rwiki/doku.php?id=rugs:r_user_groups"
+target="_top">UseR Groups</a> in the 
+      <a href="http://wiki.r-project.org"
+target="_top">R Wiki</a>.
+
 
 
 <!-- Dead stuff, for later reuse:
