@@ -36,11 +36,10 @@
     <h2>News:</h2>
     <ul>
       <li>
-      <strong>R version 2.9.1</strong> has been released on 2009-06-26. The
-      source code will first become available in this
-      <a href="http://cran.R-project.org/src/base/R-2">
-      directory</a>, and eventually via all of CRAN. Binaries will
-      arrive in due course (see download instructions above).
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 2.9.2 Release Candidates</a></strong> will appear August 17-24.
+      Final release is scheduled for 2009-08-24.	
       </li>
 
       <li>
@@ -85,6 +84,14 @@ target="_top">R Wiki</a>.
 
 
 <!-- Dead stuff, for later reuse:
+      <li>
+      <strong>R version 2.9.1</strong> has been released on 2009-06-26. The
+      source code will first become available in this
+      <a href="http://cran.R-project.org/src/base/R-2">
+      directory</a>, and eventually via all of CRAN. Binaries will
+      arrive in due course (see download instructions above).
+      </li>
+
       <li>
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
