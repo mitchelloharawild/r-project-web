@@ -36,6 +36,12 @@
     <h2>News:</h2>
     <ul>
       <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.10.0 prerelease versions</a></strong> will appear starting
+      September 28.
+      Final release is scheduled for October 26, 2009
+      <li>
       <strong>R version 2.9.2</strong> has been released on 2009-08-24. The
       source code will first become available in this
       <a href="http://cran.R-project.org/src/base/R-2">
