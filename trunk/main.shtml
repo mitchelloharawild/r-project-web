@@ -36,44 +36,14 @@
     <h2>News:</h2>
     <ul>
       <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.10.0 prerelease versions</a></strong> will appear starting
-      September 28.
-      Final release is scheduled for October 26, 2009
-      <li>
-      <strong>R version 2.9.2</strong> has been released on 2009-08-24. The
-      source code will first become available in this
-      <a href="http://cran.R-project.org/src/base/R-2">
-      directory</a>, and eventually via all of CRAN. Binaries will
-      arrive in due course (see download instructions above).
-      </li>
-
+      <strong>R version 2.10.0</strong> has been released on 2009-10-26
+      and will spread through <a href="http://cran.r-project.org/mirrors.html">CRAN</a> in the
+      next days. 
       <li>
 	The first issue of
 	<a href="http://journal.r-project.org">
 	  The R Journal</a>
 	is now available
-
-      <li>
-      The R Foundation as been awarded <a
-      href="soc09/index.html">
-      four slots for R projects</a> in the <a
-      href="http://socghop.appspot.com/org/home/google/gsoc2009/rf" target="_top">Google Summer of Code 2009</a>.
-
-
-      <li>
-      <strong><a target="_top"
-      href="http://www.r-project.org/dsc-2009"> DSC 2009</a></strong>,
-      The 6th workshop on Directions in Statistical Computing, has been
-      held at the Center for Health and Society, University of
-      Copenhagen, Denmark, July 13-14, 2009. </li>
-
-
-      <li>
-      <strong><a target="_top" href="http://www.agrocampus-rennes.fr/math/useR-2009/">
-      useR! 2009</a></strong>, the R user conference,
-      has been be held at Agrocampus Rennes, France, July 8-10, 2009.
 
       <li>
       <strong><a target="_top" href="http://useR2010.org/">
@@ -92,6 +62,40 @@ target="_top">R Wiki</a>.
 
 <!-- Dead stuff, for later reuse:
       <li>
+      <strong><a target="_top"
+      href="http://www.r-project.org/dsc-2009"> DSC 2009</a></strong>,
+      The 6th workshop on Directions in Statistical Computing, has been
+      held at the Center for Health and Society, University of
+      Copenhagen, Denmark, July 13-14, 2009. </li>
+
+
+      <li>
+      <strong><a target="_top" href="http://www.agrocampus-rennes.fr/math/useR-2009/">
+      useR! 2009</a></strong>, the R user conference,
+      has been be held at Agrocampus Rennes, France, July 8-10, 2009.
+
+      <li>
+      The R Foundation as been awarded <a
+      href="soc09/index.html">
+      four slots for R projects</a> in the <a
+      href="http://socghop.appspot.com/org/home/google/gsoc2009/rf" target="_top">Google Summer of Code 2009</a>.
+
+
+      <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.10.0 prerelease versions</a></strong> will appear starting
+      September 28.
+      Final release is scheduled for October 26, 2009
+      
+      <li>
+      <strong>R version 2.9.2</strong> has been released on 2009-08-24. The
+      source code will first become available in this
+      <a href="http://cran.R-project.org/src/base/R-2">
+      directory</a>, and eventually via all of CRAN. Binaries will
+      arrive in due course (see download instructions above).
+      </li>
+
       <strong>R version 2.9.1</strong> has been released on 2009-06-26. The
       source code will first become available in this
       <a href="http://cran.R-project.org/src/base/R-2">
