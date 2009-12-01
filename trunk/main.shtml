@@ -35,10 +35,22 @@
   <tr><td>
     <h2>News:</h2>
     <ul>
+
       <li>
-      <strong>R version 2.10.0</strong> has been released on 2009-10-26
-      and will spread through <a href="http://cran.r-project.org/mirrors.html">CRAN</a> in the
-      next days. 
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.10.1 prerelease versions</a></strong> will appear starting
+      December 4.
+      Final release is scheduled for December 14, 2009.
+
+      <li>
+      <strong>R version 2.10.0</strong> has been released on 2009-10-26. The
+      source code will first become available in this
+      <a href="http://cran.R-project.org/src/base/R-2">
+      directory</a>, and eventually via all of CRAN. Binaries will
+      arrive in due course (see download instructions above).
+      </li>
+
       <li>
 	The first issue of
 	<a href="http://journal.r-project.org">
@@ -96,6 +108,12 @@ target="_top">R Wiki</a>.
       arrive in due course (see download instructions above).
       </li>
 
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.10.0 prerelease versions</a></strong> will appear starting
+      September 28.
+      Final release is scheduled for October 26, 2009
+      <li>
       <strong>R version 2.9.1</strong> has been released on 2009-06-26. The
       source code will first become available in this
       <a href="http://cran.R-project.org/src/base/R-2">
