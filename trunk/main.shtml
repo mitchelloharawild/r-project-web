@@ -36,14 +36,8 @@
     <h2>News:</h2>
     <ul>
      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.11.0 prerelease versions</a></strong> will appear starting
-      March 25.
-      Final release is scheduled for April 22, 2010.
-      <li>
-      <strong>R version 2.10.1</strong> has been released on 2009-12-14. The
-      source code will first become available in this
+     <strong>R version 2.11.0</strong> has been released on 2010-04-22. The
+      source code is first available in this
       <a href="http://cran.R-project.org/src/base/R-2">
       directory</a>, and eventually via all of CRAN. Binaries will
       arrive in due course (see download instructions above).
@@ -63,7 +57,7 @@
 
       <li>We have started to collect information about local
       <a
-href="http://wiki.r-project.org/rwiki/doku.php?id=rugs:r_user_groups"
+href="http://wiki.r-project.org/doku.php?id=rugs:r_user_groups"
 target="_top">UseR Groups</a> in the 
       <a href="http://wiki.r-project.org"
 target="_top">R Wiki</a>.
@@ -71,6 +65,12 @@ target="_top">R Wiki</a>.
 
 
 <!-- Dead stuff, for later reuse:
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.11.0 prerelease versions</a></strong> will appear starting
+      March 25.
+      Final release is scheduled for April 22, 2010.
+      <li>
       <li>
       <strong><a target="_top"
       href="http://www.r-project.org/dsc-2009"> DSC 2009</a></strong>,
