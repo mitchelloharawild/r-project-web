@@ -35,19 +35,18 @@
   <tr><td>
     <h2>News:</h2>
     <ul>
-     <li>
-     <strong>R version 2.11.0</strong> has been released on 2010-04-22. The
-      source code is first available in this
-      <a href="http://cran.R-project.org/src/base/R-2">
-      directory</a>, and eventually via all of CRAN. Binaries will
-      arrive in due course (see download instructions above).
-      </li>
 
-      <li>
-	The first issue of
+    <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.11.1 prerelease versions</a></strong> will appear starting
+      May 21.
+      Final release is scheduled for May 31, 2010.</li>
+ 
+     <li>
 	<a href="http://journal.r-project.org">
-	  The R Journal</a>
-	is now available
+	  The R Journal</a> Vol.1/2
+	is available
 
       <li>
       <strong><a target="_top" href="http://useR2010.org/">
@@ -65,13 +64,23 @@
 
 
 <!-- Dead stuff, for later reuse:
+  
+      <li>
+      <strong>R version 2.11.0</strong> has been released on 2010-04-22. The
+      source code is first available in this
+      <a href="http://cran.R-project.org/src/base/R-2">
+      directory</a>, and eventually via all of CRAN. Binaries will
+      arrive in due course (see download instructions above).
+      </li>
+
+      <li>
+ 
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
       R	2.11.0 prerelease versions</a></strong> will appear starting
       March 25.
       Final release is scheduled for April 22, 2010.
-      <li>
-      <li>
+     <li>
       <strong><a target="_top"
       href="http://www.r-project.org/dsc-2009"> DSC 2009</a></strong>,
       The 6th workshop on Directions in Statistical Computing, has been
