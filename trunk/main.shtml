@@ -36,6 +36,11 @@
     <h2>News:</h2>
     <ul>
       <li>
+	<a href="http://journal.r-project.org">
+	  The R Journal</a> Vol.2/1
+	is available
+
+      <li>
       <strong>R version 2.11.1</strong> has been released on 2010-05-31. The
       source code is first available in this
       <a href="http://cran.R-project.org/src/base/R-2">
@@ -44,10 +49,6 @@
       </li>
 
 
-      <li>
-	<a href="http://journal.r-project.org">
-	  The R Journal</a> Vol.1/2
-	is available
 
       <li>
       <strong><a target="_top" href="http://useR2010.org/">
