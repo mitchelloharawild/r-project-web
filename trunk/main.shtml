@@ -46,9 +46,13 @@
 
       <li>
 	<a href="http://journal.r-project.org">
-	  The R Journal</a> Vol.2/1
+	  <strong>The R Journal Vol.2/1</strong></a>
 	is available
       </li>
+
+      <li>R has participated with 5 project in the <a
+      href="../soc10/index.html">Google Summer of Code 2010</a>.
+
 
      <li>
       <strong><a target="_top" href="http://useR2010.org/">
