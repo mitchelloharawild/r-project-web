@@ -35,6 +35,11 @@
   <tr><td>
     <h2>News:</h2>
     <ul>
+      <li>
+      The R Foundation as been awarded <a
+      href="soc11/index.html">
+      fifteen slots for R projects</a> in the <a
+      href="http://code.google.com/soc/" target="_top">Google Summer of Code 2011</a>.
 
       <li>
       <strong>R version 2.13.0</strong> has been released on 2011-04-13. The
@@ -50,15 +55,6 @@
 	is available
       </li>
 
-      <li>R has participated with 5 project in the <a
-      href="../soc10/index.html">Google Summer of Code 2010</a>.
-
-
-     <li>
-      <strong><a target="_top" href="http://useR2010.org/">
-      useR! 2010</a></strong>, the R user conference,
-      has been held at NIST, Gaithersburg, Maryland, USA, July 21-23,
-      2010.
 
       <li>
       <strong><a target="_top" href="http://www.warwick.ac.uk/statsdept/useR-2011/">
