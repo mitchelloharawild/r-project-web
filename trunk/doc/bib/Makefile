@@ -24,7 +24,7 @@ R-publications.html: Makefile R.bib R-publications-head.html
 
 R-books.html: Makefile R.bib R-books-head.html
 	@$(BIB2BIB) -c '$$type = "BOOK"' R.bib > $(*F).bib
-	@bibtex2html -u -nodoc -rawurl \
+	@bibtex2html -u -nodoc -rawurl -s Rweb \
 	  --named-field publisherurl "Publisher Info" \
 	  --named-field orderinfo "Discount Info" \
 	  $(*F).bib
