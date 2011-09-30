@@ -37,11 +37,21 @@
     <ul>
 
       <li>
+      <strong>R version 2.13.2</strong> has been released on 2011-09-30. The
+      source code is first available in this
+      <a href="http://cran.R-project.org/src/base/R-2">
+      directory</a>, and eventually via all of CRAN. Binaries will
+      arrive in due course (see download instructions above).
+      </li>
+
+      <li>
+<!--
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
       R	2.13.2 prerelease versions</a></strong> will appear starting
       September 20.
       Final release is scheduled for September 30, 2011.<br>
+-->      
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
       R	2.14.0 prerelease versions</a></strong> will appear starting
@@ -49,13 +59,6 @@
       Final release is scheduled for October 31, 2011.
       </li>
 
-      <li>
-      <strong>R version 2.13.1</strong> has been released on 2011-07-08. The
-      source code is first available in this
-      <a href="http://cran.R-project.org/src/base/R-2">
-      directory</a>, and eventually via all of CRAN. Binaries will
-      arrive in due course (see download instructions above).
-      </li>
 
       <li>
 	<a href="http://journal.r-project.org">
