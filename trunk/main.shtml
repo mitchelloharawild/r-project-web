@@ -36,6 +36,13 @@
     <h2>News:</h2>
     <ul>
       <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.14.1 prerelease versions</a></strong> will appear starting
+      December 12.
+      Final release is scheduled for December 22, 2011.<br>
+      </li>
+      <li>
       <strong><a target="_top" href="http://biostat.mc.vanderbilt.edu/UseR-2012">
       useR! 2012</a></strong>, 
       will take place at Vanderbilt University, Nashville Tennessee,
