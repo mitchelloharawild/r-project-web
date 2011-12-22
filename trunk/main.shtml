@@ -65,6 +65,15 @@
 
 <!--
       <li>
+      <strong>R version 2.14.0</strong> (Great Pumpkin) has been
+      released on 2011-10-31.
+      <!-- The -->
+      <!-- source code is first available in this -->
+      <!-- <a href="http://cran.R-project.org/src/base/R-2"> -->
+      <!-- directory</a>, and eventually via all of CRAN. Binaries will -->
+      <!-- arrive in due course (see download instructions above). -->
+      <!-- </li> -->
+      <li>
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
       R	2.14.1 prerelease versions</a></strong> will appear starting
