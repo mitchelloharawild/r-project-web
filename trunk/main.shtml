@@ -38,22 +38,19 @@
       <li>
       <strong>R version 2.14.1</strong> (December Snowflakes) has been
       released on 2011-12-22.
-     <li>
+      <li>
+	<a href="http://journal.r-project.org">
+	  <strong>The R Journal Vol.3/2</strong></a>
+	is available.
+      </li>
+
+      <li>
       <strong><a target="_top" href="http://biostat.mc.vanderbilt.edu/UseR-2012">
       useR! 2012</a></strong>, 
       will take place at Vanderbilt University, Nashville Tennessee,
       USA, June 12-15, 2012.
       
-      <li>
-      <strong>R version 2.14.0</strong> (Great Pumpkin) has been
-      released on 2011-10-31.
-      <!-- The -->
-      <!-- source code is first available in this -->
-      <!-- <a href="http://cran.R-project.org/src/base/R-2"> -->
-      <!-- directory</a>, and eventually via all of CRAN. Binaries will -->
-      <!-- arrive in due course (see download instructions above). -->
-      <!-- </li> -->
-      <li>
+     <li>
       <strong>R version 2.13.2</strong> has been released on
       2011-09-30.
       <!-- The -->
@@ -89,11 +86,6 @@
 -->      
 
 
-      <li>
-	<a href="http://journal.r-project.org">
-	  <strong>The R Journal Vol.3/1</strong></a>
-	is available.
-      </li>
 
 
 
