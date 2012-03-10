@@ -35,6 +35,12 @@
   <tr><td>
     <h2>News:</h2>
     <ul>
+     <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.15.0 prerelease versions</a></strong> are currently available.
+      Final release is scheduled for March 30.
+      </li>
       <li><strong>R version 2.14.2</strong> (Gift-Getting Season) has been
       released on 2012-02-29.</li>
       <li><strong>R version 2.14.1</strong> (December Snowflakes) has been
