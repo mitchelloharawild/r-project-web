@@ -35,16 +35,10 @@
   <tr><td>
     <h2>News:</h2>
     <ul>
-     <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.15.0 prerelease versions</a></strong> are currently available.
-      Final release is scheduled for March 30.
-      </li>
+      <li><strong>R version 2.15.0</strong> (Easter Beagle) has been
+      released on 2012-03-30.</li>
       <li><strong>R version 2.14.2</strong> (Gift-Getting Season) has been
       released on 2012-02-29.</li>
-      <li><strong>R version 2.14.1</strong> (December Snowflakes) has been
-      released on 2011-12-22.</li>
       <li>
 	<a href="http://journal.r-project.org">
 	  <strong>The R Journal Vol.3/2</strong></a>
@@ -60,6 +54,12 @@
 
 <!-- Dead stuff, for later reuse:
 
+     <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.15.0 prerelease versions</a></strong> are currently available.
+      Final release is scheduled for March 30.
+      </li>
      <li>
       <strong>R version 2.13.2</strong> has been released on
       2011-09-30.
