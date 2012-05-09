@@ -24,7 +24,9 @@ R-publications.html: Makefile R.bib R-publications-head.html
 
 R-books.html: Makefile R.bib R-books-head.html
 	@$(BIB2BIB) -c '$$type = "BOOK"' R.bib > $(*F).bib
-	@bibtex2html -u -nodoc -rawurl -s Rweb \
+## Put in TMPDIR=. to avoid openout_any = p madness in current versions of
+## TeXlive (see e.g. http://www.lri.fr/~filliatr/bibtex2html/).
+	@TMPDIR=. bibtex2html -u -nodoc -rawurl -s Rweb \
 	  --named-field publisherurl "Publisher Info" \
 	  --named-field orderinfo "Discount Info" \
 	  $(*F).bib
