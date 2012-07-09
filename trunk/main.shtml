@@ -37,19 +37,24 @@
     <ul>
       <li><strong>R version 2.15.1</strong> (Roasted Marshmallows) has been
       released on 2012-06-22.</li>
-      <li><strong>R version 2.14.2</strong> (Gift-Getting Season) has been
-      released on 2012-02-29.</li>
       <li>
-	<a href="http://journal.r-project.org">
-	  <strong>The R Journal Vol.3/2</strong></a>
+	<a href="http://journal.r-project.org/current.html" target="_top">
+	  <strong>The R Journal Vol.4/1</strong></a>
 	is available.
       </li>
 
       <li>
       <strong><a target="_top" href="http://biostat.mc.vanderbilt.edu/UseR-2012">
       useR! 2012</a></strong>, 
-      will take place at Vanderbilt University, Nashville Tennessee,
+      took place at Vanderbilt University, Nashville Tennessee,
       USA, June 12-15, 2012.
+
+      <li>
+      <strong><a target="_top" href="http://www3.uclm.es/congresos/useR-2013/">
+      useR! 2013</a></strong>, 
+      will take place at the University of Castilla-La Mancha,
+      Albacete, Spain, July 10-12 2013.
+      .
 
 
 <!-- Dead stuff, for later reuse:
