@@ -36,16 +36,9 @@
     <h2>News:</h2>
     
     <ul>
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 2.15.2 prerelease versions</a></strong> will appear starting
-      October 16.
-      Final release is scheduled for October 26, 2012.<br>
-      </li>
 
-      <li><strong>R version 2.15.1</strong> (Roasted Marshmallows) has been
-      released on 2012-06-22.</li>
+      <li><strong>R version 2.15.2</strong> (Trick or Treat) has been
+      released on 2012-10-26.</li>
       <li>
 	<a href="http://journal.r-project.org/current.html" target="_top">
 	  <strong>The R Journal Vol.4/1</strong></a>
@@ -68,6 +61,13 @@
 
 <!-- Dead stuff, for later reuse:
 
+      <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 2.15.2 prerelease versions</a></strong> will appear starting
+      October 16.
+      Final release is scheduled for October 26, 2012.<br>
+      </li>
      <li>
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
