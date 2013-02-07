@@ -50,11 +50,9 @@
       </li>
 
 
-      <li><strong>R version 2.15.2</strong> (Trick or Treat) has been
-      released on 2012-10-26.</li>
-      <li>
+    <li>
 	<a href="http://journal.r-project.org/current.html" target="_top">
-	  <strong>The R Journal Vol.4/1</strong></a>
+	  <strong>The R Journal Vol.4/2</strong></a>
 	is available.
       </li>
 
@@ -74,7 +72,9 @@
 
 <!-- Dead stuff, for later reuse:
 
-      <li>
+      <li><strong>R version 2.15.2</strong> (Trick or Treat) has been
+      released on 2012-10-26.</li>
+       <li>
       <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
       R 2.15.2 prerelease versions</a></strong> will appear starting
