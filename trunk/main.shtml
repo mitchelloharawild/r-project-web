@@ -36,6 +36,19 @@
     <h2>News:</h2>
     
     <ul>
+          <li>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	2.15.3 prerelease versions</a></strong> will appear starting
+      February 19.
+      Final release is scheduled for March 1, 2013.<br>
+      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R	3.0.0 prerelease versions</a></strong> will appear starting
+      March 6.
+      Final release is scheduled for April 3, 2012.
+      </li>
+
 
       <li><strong>R version 2.15.2</strong> (Trick or Treat) has been
       released on 2012-10-26.</li>
