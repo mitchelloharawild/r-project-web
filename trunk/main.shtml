@@ -38,10 +38,9 @@
     <ul>
       <li><strong>R version 2.15.3</strong> (Security Blanket) has been
       released on 2013-03-01.</li>
-      <li>
       
       <li>
-      <a
+      <strong><a
       href="http://cran.R-project.org/src/base-prerelease">
       R	3.0.0 prerelease versions</a></strong> will appear starting
       March 6.
