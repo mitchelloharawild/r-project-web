@@ -36,16 +36,11 @@
     <h2>News:</h2>
     
     <ul>
+      <li><strong>R version 3.0.0</strong> (Masked Marvel) has been
+      released on 2013-04-03.</li>
+      
       <li><strong>R version 2.15.3</strong> (Security Blanket) has been
       released on 2013-03-01.</li>
-      
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	3.0.0 prerelease versions</a></strong> will appear starting
-      March 6.
-      Final release is scheduled for April 3, 2013.
-      </li>
 
 
       <li>
