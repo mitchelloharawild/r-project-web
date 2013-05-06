@@ -36,6 +36,14 @@
     <h2>News:</h2>
     
     <ul>
+
+      <li>      <strong><a
+      href="http://cran.R-project.org/src/base-prerelease">
+      R 3.0.1 prerelease versions</a></strong> will appear starting
+      May 6.
+      Final release is scheduled for May 16, 2013.<br>
+      </li>
+ 
       <li><strong>R version 3.0.0</strong> (Masked Marvel) has been
       released on 2013-04-03.</li>
       
