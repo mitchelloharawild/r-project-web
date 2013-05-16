@@ -37,15 +37,9 @@
     
     <ul>
 
-      <li>      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 3.0.1 prerelease versions</a></strong> will appear starting
-      May 6.
-      Final release is scheduled for May 16, 2013.<br>
-      </li>
  
-      <li><strong>R version 3.0.0</strong> (Masked Marvel) has been
-      released on 2013-04-03.</li>
+      <li><strong>R version 3.0.1</strong> (Good Sport) has been
+      released on 2013-05-16.</li>
       
       <li><strong>R version 2.15.3</strong> (Security Blanket) has been
       released on 2013-03-01.</li>
@@ -72,143 +66,19 @@
 
 
 <!-- Dead stuff, for later reuse:
-     <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.15.3 prerelease versions</a></strong> will appear starting
-      February 19.
-      Final release is scheduled for March 1, 2013.<br>
-      <strong>
-      <li><strong>R version 2.15.2</strong> (Trick or Treat) has been
-      released on 2012-10-26.</li>
-       <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 2.15.2 prerelease versions</a></strong> will appear starting
-      October 16.
-      Final release is scheduled for October 26, 2012.<br>
-      </li>
-     <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.15.0 prerelease versions</a></strong> are currently available.
-      Final release is scheduled for March 30.
-      </li>
-     <li>
-      <strong>R version 2.13.2</strong> has been released on
-      2011-09-30.
-      The
-      source code is first available in this
-      <a href="http://cran.R-project.org/src/base/R-2">
-      directory</a>, and eventually via all of CRAN. Binaries will
-      <arrive in due course (see download instructions above).
-      </li>
-     <li>
-      <strong>R version 2.14.0</strong> (Great Pumpkin) has been
-      released on 2011-10-31.
-     <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.14.1 prerelease versions</a></strong> will appear starting
-      December 12.
-      Final release is scheduled for December 22, 2011.<br>
-      </li>
       <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.13.2 prerelease versions</a></strong> will appear starting
-      September 20.
-      Final release is scheduled for September 30, 2011.<br>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.14.0 prerelease versions</a></strong> will appear starting
-      October 3.
-      Final release is scheduled for October 31, 2011.
+      <strong><a href="http://cran.R-project.org/src/base-prerelease">
+      R 3.0.1 prerelease versions</a></strong> will appear starting
+      May 6.
+      Final release is scheduled for May 16, 2013.<br>
       </li>
-
-            <li>
+ 
+      <li>
       The R Foundation as been awarded <a
       href="soc11/index.html">
       fifteen slots for R projects</a> in the <a
       href="http://code.google.com/soc/" target="_top">Google Summer of Code 2011</a>.
 
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.13.1 prerelease versions</a></strong> will appear starting
-      June 29.
-      Final release is scheduled for July 8, 2011.</li>
-      <li>
-
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.13.0 prerelease versions</a></strong> will appear starting
-      March 16.
-      Final release is scheduled for April 13, 2011.
-      </li>
-
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.12.2 prerelease versions</a></strong> will appear starting
-      February 15.
-      Final release is scheduled for February 25, 2011.</li>
-      <li>
-      <strong>R version 2.12.1</strong> has been released on 2010-12-16. The
-      source code is first available in this
-      <a href="http://cran.R-project.org/src/base/R-2">
-      directory</a>, and eventually via all of CRAN. Binaries will
-      arrive in due course (see download instructions above).
-      </li>
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.12.1 prerelease versions</a></strong> will appear starting
-      December 7.
-      Final release is scheduled for December 16, 2010.</li>
-      <li>
-      <strong>R version 2.12.0</strong> has been released on 2010-10-15. The
-      source code is first available in this
-      <a href="http://cran.R-project.org/src/base/R-2">
-      directory</a>, and eventually via all of CRAN. Binaries will
-      arrive in due course (see download instructions above).
-      </li>
-
-
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.12.0 prerelease versions</a></strong> will appear starting
-      September 17.
-      Final release is scheduled for October 15, 2010.
-      </li>
-  
-
-      <li>
-      <strong>R version 2.11.1</strong> has been released on 2010-05-31. The
-      source code is first available in this
-      <a href="http://cran.R-project.org/src/base/R-2">
-      directory</a>, and eventually via all of CRAN. Binaries will
-      arrive in due course (see download instructions above).
-      </li>
-
-
-
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.11.1 prerelease versions</a></strong> will appear starting
-      May 21.
-      Final release is scheduled for May 31, 2010.</li>
- 
-
-      <li>
- 
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.11.0 prerelease versions</a></strong> will appear starting
-      March 25.
-      Final release is scheduled for April 22, 2010.
      <li>
       <strong><a target="_top"
       href="http://www.r-project.org/dsc-2009"> DSC 2009</a></strong>,
@@ -229,66 +99,12 @@
       href="http://socghop.appspot.com/org/home/google/gsoc2009/rf" target="_top">Google Summer of Code 2009</a>.
 
 
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.10.1 prerelease versions</a></strong> will appear starting
-      December 4.
-      Final release is scheduled for December 14, 2009.
-
-      
-      <li>
-      <strong>R version 2.9.2</strong> has been released on 2009-08-24. The
-      source code will first become available in this
-      <a href="http://cran.R-project.org/src/base/R-2">
-      directory</a>, and eventually via all of CRAN. Binaries will
-      arrive in due course (see download instructions above).
-      </li>
-
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.10.0 prerelease versions</a></strong> will appear starting
-      September 28.
-      Final release is scheduled for October 26, 2009
-      <li>
-      <strong>R version 2.9.1</strong> has been released on 2009-06-26. The
-      source code will first become available in this
-      <a href="http://cran.R-project.org/src/base/R-2">
-      directory</a>, and eventually via all of CRAN. Binaries will
-      arrive in due course (see download instructions above).
-      </li>
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R 2.9.2 Release Candidates</a></strong> will appear August 17-24.
-      Final release is scheduled for 2009-08-24.	
-      </li>
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/src/base-prerelease">
-      R	2.9.0 prerelease versions</a></strong> will appear starting
-      March 20.
-      Final release is scheduled for April 17, 2009
-      </li>
-
-      <li>
-      <strong><a
-      href="http://cran.R-project.org/doc/Rnews/">
-      R News 8/2</a></strong> has been published on 2008-11-03.
-      </li>
-
       <li>We have started to collect ideas for the <a
       href="http://www.r-project.org/soc09">Google Summer of Code 2009</a>.
 
       </li>
 -->
 
-
-
-<!--       <li>Sources of -->
-<!--       <strong><a href="http://cran.R-project.org/src/base-prerelease"> -->
-<!--       R 2.4.0 alpha and beta releases</a></strong> -->
-<!--       (daily snapshot).</li> -->
 
     </ul>
     <p>
