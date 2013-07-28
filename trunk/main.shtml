@@ -37,6 +37,12 @@
     
     <ul>
 
+      <li>
+	<a href="http://journal.r-project.org/current.html" target="_top">
+	  <strong>The R Journal Vol.5/1</strong></a>
+	is available.
+      </li>
+
  
       <li><strong>R version 3.0.1</strong> (Good Sport) has been
       released on 2013-05-16.</li>
@@ -44,12 +50,6 @@
       <li><strong>R version 2.15.3</strong> (Security Blanket) has been
       released on 2013-03-01.</li>
 
-
-      <li>
-	<a href="http://journal.r-project.org/current.html" target="_top">
-	  <strong>The R Journal Vol.4/2</strong></a>
-	is available.
-      </li>
 
       <li>
       <strong><a target="_top" href="http://www.r-project.org/useR-2013">
