@@ -36,6 +36,15 @@
     <h2>News:</h2>
     
     <ul>
+      <li>
+      <strong><a href="http://cran.R-project.org/src/base-prerelease">
+      R 3.0.2 (Frisbee Sailing) prerelease versions</a></strong> will
+      appear starting 
+      September 15.
+      Final release is scheduled for September 25, 2013.<br>
+      Thanks to Erin Hodgess for the idea leading to the name.
+      </li>
+
 
       <li>
 	<a href="http://journal.r-project.org/current.html" target="_top">
