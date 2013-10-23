@@ -2,5 +2,5 @@ Chapman & Hall/CRC offers a 20% discount on R books ordered via the R
 books web page.
 
 To take advantage of the discount, use the "Publisher Info" URL to order
-on-line, and insert the on-line order code 783EM in the 'Promotion Code'
+on-line, and insert the on-line order code EZL20 in the 'Promotion Code'
 field.
