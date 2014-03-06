@@ -36,14 +36,9 @@
     <h2>News:</h2>
     
     <ul>
-      <li>
-      <strong><a href="http://cran.R-project.org/src/base-prerelease">
-      R 3.0.3 (Warm Puppy) prerelease versions</a></strong> will
-      appear starting 
-      February 24.
-      Final release is scheduled for March 6, 2014.
-      </li>
-
+      <li><strong>R version 3.0.3</strong> (Warm Puppy) has been
+      released on 2014-03-06.</li>
+ 
       
       <li>
 	<a href="http://journal.r-project.org" target="_top">
@@ -51,9 +46,7 @@
 	is available.
       </li>
 
-      <li><strong>R version 3.0.2</strong> (Frisbee Sailing) has been
-      released on 2013-09-25.</li>
- 
+    
       <li>
       <strong><a target="_top" href="http://www.r-project.org/useR-2013">
       useR! 2013</a></strong>, 
@@ -72,7 +65,15 @@
 
 <!-- Dead stuff, for later reuse:
 
-            <li>
+ 
+      <li>
+      <strong><a href="http://cran.R-project.org/src/base-prerelease">
+      R 3.0.3 (Warm Puppy) prerelease versions</a></strong> will
+      appear starting 
+      February 24.
+      Final release is scheduled for March 6, 2014.
+      </li>
+           <li>
       <strong><a href="http://cran.R-project.org/src/base-prerelease">
       R 3.0.2 (Frisbee Sailing) prerelease versions</a></strong> will
       appear starting 
