@@ -36,14 +36,10 @@
     <h2>News:</h2>
     
     <ul>
-      
-      <li>
-      <strong><a href="http://cran.R-project.org/src/base-prerelease">
-      R 3.1.0 prerelease versions</a></strong> will appear starting
-      March 13.
-      Final release is scheduled for April 10, 2014.<br>
-      </li>
  
+      <li><strong>R version 3.1.0</strong> (Spring Dance) has been
+      released on 2014-04-10.</li>
+      
       <li><strong>R version 3.0.3</strong> (Warm Puppy) has been
       released on 2014-03-06.</li>
  
@@ -73,6 +69,13 @@
 
 <!-- Dead stuff, for later reuse:
 
+      <li>
+      <strong><a href="http://cran.R-project.org/src/base-prerelease">
+      R 3.1.0 prerelease versions</a></strong> will appear starting
+      March 13.
+      Final release is scheduled for April 10, 2014.<br>
+      </li>
+ 
  
       <li>
       <strong><a href="http://cran.R-project.org/src/base-prerelease">
