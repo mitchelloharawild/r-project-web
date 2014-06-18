@@ -37,6 +37,14 @@
     
     <ul>
  
+      <li>
+      <strong><a href="http://cran.R-project.org/src/base-prerelease">
+      R 3.1.1 (Sock it to Me) prerelease versions</a></strong> will
+      appear starting 
+      June 30.
+      Final release is scheduled for July 10, 2014.
+      </li>
+ 
       <li><strong>R version 3.1.0</strong> (Spring Dance) has been
       released on 2014-04-10.</li>
       
