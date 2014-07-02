@@ -13,7 +13,7 @@ all: R-publications.html R-books.html R-other.html
 
 R-publications.html: Makefile R.bib R-publications-head.html
 	@$(BIB2BIB) R.bib > $(*F).bib
-	@bibtex2html -u -nodoc -rawurl \
+	@bibtex2html -u -noheader -nodoc -rawurl \
 	  --named-field publisherurl "Publisher Info" \
 	  $(*F).bib
 	@mv $@ $@.in
@@ -26,7 +26,7 @@ R-books.html: Makefile R.bib R-books-head.html
 	@$(BIB2BIB) -c '$$type = "BOOK"' R.bib > $(*F).bib
 ## Put in TMPDIR=. to avoid openout_any = p madness in current versions of
 ## TeXlive (see e.g. http://www.lri.fr/~filliatr/bibtex2html/).
-	@TMPDIR=. bibtex2html -u -nodoc -rawurl -s Rweb \
+	@TMPDIR=. bibtex2html -u -noheader -nodoc -rawurl -s Rweb \
 	  --named-field publisherurl "Publisher Info" \
 	  --named-field orderinfo "Discount Info" \
 	  $(*F).bib
@@ -38,7 +38,7 @@ R-books.html: Makefile R.bib R-books-head.html
 
 R-other.html: Makefile R.bib R-other-head.html
 	@$(BIB2BIB) -c '$$type <> "BOOK"' R.bib > $(*F).bib
-	@bibtex2html -u -nodoc -rawurl \
+	@bibtex2html -u -noheader -nodoc -rawurl \
 	  --named-field publisherurl "Publisher Info" \
 	  $(*F).bib
 	@mv $@ $@.in
