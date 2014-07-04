@@ -13,7 +13,7 @@ all: R-publications.html R-books.html R-other.html
 
 R-publications.html: Makefile R.bib R-publications-head.html
 	@$(BIB2BIB) R.bib > $(*F).bib
-	@bibtex2html -u -noheader -nodoc -rawurl \
+	@bibtex2html -u -noheader -nodoc \
 	  --named-field publisherurl "Publisher Info" \
 	  $(*F).bib
 	@mv $@ $@.in
