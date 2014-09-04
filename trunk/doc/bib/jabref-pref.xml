@@ -12,7 +12,14 @@
             <entry key="KeyPatternRegex" value=""/>
             <entry key="KeyPatternReplacement" value=""/>
             <entry key="abbrAuthorNames" value="true"/>
+            <entry key="activeFieldEditorBackgroundColor" value="220:220:255"/>
+            <entry key="allowFileAutoOpenBrowse" value="true"/>
             <entry key="allowTableEditing" value="false"/>
+            <entry key="arxivColumn" value="false"/>
+            <entry key="autoAssignGroup" value="true"/>
+            <entry key="autoCompFF" value="false"/>
+            <entry key="autoCompFirstNameMode" value="both"/>
+            <entry key="autoCompLF" value="false"/>
             <entry key="autoComplete" value="true"/>
             <entry key="autoCompleteFields" value="author;editor;title;journal;publisher;keywords;crossref"/>
             <entry key="autoDoubleBraces" value="false"/>
@@ -23,11 +30,14 @@
             <entry key="autolinkExactKeyOnly" value="true"/>
             <entry key="avoidOverwritingKey" value="false"/>
             <entry key="backup" value="true"/>
+            <entry key="bibLocAsPrimaryDir" value="false"/>
+            <entry key="bibLocationAsFileDir" value="true"/>
+            <entry key="biblatexMode" value="false"/>
             <entry key="caseSensitiveSearch" value="false"/>
             <entry key="citeseerColumn" value="false"/>
             <entry key="confirmDelete" value="true"/>
             <entry key="ctrlClick" value="false"/>
-            <entry key="defaultEncoding" value="ISO8859_1"/>
+            <entry key="defaultEncoding" value="UTF8"/>
             <entry key="defaultLabelPattern" value="[auth][year]"/>
             <entry key="defaultOwner" value="deepayan"/>
             <entry key="defaultShowSource" value="false"/>
@@ -35,12 +45,17 @@
             <entry key="dialogWarningForEmptyKey" value="true"/>
             <entry key="disableOnMultipleSelection" value="false"/>
             <entry key="doNotResolveStringsFor" value="url"/>
+            <entry key="emailSubject" value="References"/>
             <entry key="enableSourceEditing" value="true"/>
+            <entry key="enforceLegalBibtexKey" value="true"/>
             <entry key="exportInOriginalOrder" value="true"/>
             <entry key="exportInStandardOrder" value="false"/>
+            <entry key="exportInTitleOrder" value="false"/>
             <entry key="exportWorkingDirectory" value="/home/deepayan"/>
+            <entry key="fieldEditorTextColor" value="0:0:0"/>
             <entry key="fileColumn" value="true"/>
             <entry key="fileDirectory" value=""/>
+            <entry key="filechooserDisableRename" value="true"/>
             <entry key="floatMarkedEntries" value="true"/>
             <entry key="fontFamily" value="Dialog"/>
             <entry key="fontSize" value="12"/>
@@ -57,32 +72,50 @@
             <entry key="groupShowIcons" value="true"/>
             <entry key="groupsDefaultField" value="keywords"/>
             <entry key="htmlviewer" value="x-www-browser"/>
+            <entry key="importAlwaysUsePDFImportStyle" value="false"/>
+            <entry key="importDefaultPDFimportStyle" value="2"/>
+            <entry key="importFileNamePattern" value="\bibtexkey"/>
+            <entry key="includeEmptyFields" value="false"/>
             <entry key="incompleteEntryBackground" value="250:175:175"/>
             <entry key="incrementS" value="false"/>
+            <entry key="invalidFieldBackgroundColor" value="255:0:0"/>
+            <entry key="keyGenAlwaysAddLetter" value="false"/>
+            <entry key="keyGenFirstLetterA" value="true"/>
             <entry key="lastEdited" value="/home/deepayan/svn/all/r-project/R-project-web/trunk/doc/bib/RJR.bib"/>
             <entry key="lastUsedExport" value="tablerefsabsbib"/>
             <entry key="lookAndFeel" value="com.jgoodies.plaf.plastic.Plastic3DLookAndFeel"/>
             <entry key="markImportedEntries" value="true"/>
             <entry key="markedEntryBackground" value="255:255:180"/>
+            <entry key="markedEntryBackground0" value="255:255:180"/>
+            <entry key="markedEntryBackground1" value="255:220:180"/>
+            <entry key="markedEntryBackground2" value="255:180:160"/>
+            <entry key="markedEntryBackground3" value="255:120:120"/>
+            <entry key="markedEntryBackground4" value="255:75:75"/>
+            <entry key="markedEntryBackground5" value="220:255:220"/>
             <entry key="memoryStickMode" value="false"/>
             <entry key="namesAsIs" value="true"/>
             <entry key="namesFf" value="false"/>
             <entry key="namesLastOnly" value="false"/>
             <entry key="namesNatbib" value="false"/>
+            <entry key="openFoldersOfAttachedFiles" value="false"/>
             <entry key="openLastEdited" value="true"/>
             <entry key="overrideDefaultFonts" value="false"/>
             <entry key="overwriteOwner" value="false"/>
             <entry key="overwriteTimeStamp" value="false"/>
             <entry key="pdfColumn" value="false"/>
             <entry key="pdfDirectory" value=""/>
+            <entry key="pdfPreview" value="false"/>
             <entry key="pdfviewer" value="xpdf"/>
             <entry key="posX" value="0"/>
             <entry key="posY" value="0"/>
+            <entry key="preferUrlDoi" value="false"/>
             <entry key="preview0" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;&lt;i&gt;\bibtextype&lt;/i&gt;&lt;a name=&quot;\bibtexkey&quot;&gt;\begin{bibtexkey} (\bibtexkey)&lt;/a&gt;\end{bibtexkey}&lt;/b&gt;&lt;br&gt;__NEWLINE__\begin{author} \format[HTMLChars,AuthorAbbreviator,AuthorAndsReplacer]{\author}&lt;BR&gt;\end{author}__NEWLINE__\begin{editor} \format[HTMLChars,AuthorAbbreviator,AuthorAndsReplacer]{\editor} &lt;i&gt;(ed.)&lt;/i&gt;&lt;BR&gt;\end{editor}__NEWLINE__\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;__NEWLINE__\begin{chapter} \format[HTMLChars]{\chapter}&lt;BR&gt;\end{chapter}__NEWLINE__\begin{journal} &lt;em&gt;\format[HTMLChars]{\journal}, &lt;/em&gt;\end{journal}__NEWLINE__\begin{booktitle} &lt;em&gt;\format[HTMLChars]{\booktitle}, &lt;/em&gt;\end{booktitle}__NEWLINE__\begin{school} &lt;em&gt;\format[HTMLChars]{\school}, &lt;/em&gt;\end{school}__NEWLINE__\begin{institution} &lt;em&gt;\format[HTMLChars]{\institution}, &lt;/em&gt;\end{institution}__NEWLINE__\begin{publisher} &lt;em&gt;\format[HTMLChars]{\publisher}, &lt;/em&gt;\end{publisher}__NEWLINE__\begin{year}&lt;b&gt;\year&lt;/b&gt;\end{year}\begin{volume}&lt;i&gt;, \volume&lt;/i&gt;\end{volume}\begin{pages}, \format[FormatPagesForHTML]{\pages} \end{pages}&lt;/dd&gt;__NEWLINE__&lt;p&gt;&lt;/p&gt;&lt;/font&gt;"/>
             <entry key="preview1" value="&lt;font face=&quot;arial&quot;&gt;&lt;b&gt;&lt;i&gt;\bibtextype&lt;/i&gt;&lt;a name=&quot;\bibtexkey&quot;&gt;\begin{bibtexkey} (\bibtexkey)&lt;/a&gt;\end{bibtexkey}&lt;/b&gt;&lt;br&gt;__NEWLINE__\begin{author} \format[HTMLChars,AuthorAbbreviator,AuthorAndsReplacer]{\author}&lt;BR&gt;\end{author}__NEWLINE__\begin{editor} \format[HTMLChars,AuthorAbbreviator,AuthorAndsReplacer]{\editor} &lt;i&gt;(ed.)&lt;/i&gt;&lt;BR&gt;\end{editor}__NEWLINE__\begin{title} \format[HTMLChars]{\title} \end{title}&lt;BR&gt;__NEWLINE__\begin{chapter} \format[HTMLChars]{\chapter}&lt;BR&gt;\end{chapter}__NEWLINE__\begin{journal} &lt;em&gt;\format[HTMLChars]{\journal}, &lt;/em&gt;\end{journal}__NEWLINE__\begin{booktitle} &lt;em&gt;\format[HTMLChars]{\booktitle}, &lt;/em&gt;\end{booktitle}__NEWLINE__\begin{school} &lt;em&gt;\format[HTMLChars]{\school}, &lt;/em&gt;\end{school}__NEWLINE__\begin{institution} &lt;em&gt;\format[HTMLChars]{\institution}, &lt;/em&gt;\end{institution}__NEWLINE__\begin{publisher} &lt;em&gt;\format[HTMLChars]{\publisher}, &lt;/em&gt;\end{publisher}__NEWLINE__\begin{year}&lt;b&gt;\year&lt;/b&gt;\end{year}\begin{volume}&lt;i&gt;, \volume&lt;/i&gt;\end{volume}\begin{pages}, \format[FormatPagesForHTML]{\pages} \end{pages}__NEWLINE__\begin{abstract}&lt;BR&gt;&lt;BR&gt;&lt;b&gt;Abstract: &lt;/b&gt; \format[HTMLChars]{\abstract} \end{abstract}__NEWLINE__\begin{review}&lt;BR&gt;&lt;BR&gt;&lt;b&gt;Review: &lt;/b&gt; \format[HTMLChars]{\review} \end{review}&lt;/dd&gt;__NEWLINE__&lt;p&gt;&lt;/p&gt;&lt;/font&gt;"/>
             <entry key="priDescending" value="true"/>
             <entry key="priSort" value="#"/>
             <entry key="promptBeforeUsingAutosave" value="true"/>
+            <entry key="proxyHostname" value="my proxy host"/>
+            <entry key="proxyPort" value="my proxy port"/>
             <entry key="psDirectory" value=""/>
             <entry key="psviewer" value="gv"/>
             <entry key="pushToApplication" value="Insert selected citations into LyX/Kile"/>
@@ -92,6 +125,7 @@
             <entry key="runAutomaticFileSearch" value="false"/>
             <entry key="saveInOriginalOrder" value="false"/>
             <entry key="saveInStandardOrder" value="true"/>
+            <entry key="saveInTitleOrder" value="false"/>
             <entry key="searchAll" value="false"/>
             <entry key="searchAllBases" value="false"/>
             <entry key="searchGen" value="true"/>
@@ -101,6 +135,8 @@
             <entry key="secDescending" value="false"/>
             <entry key="secSort" value=""/>
             <entry key="selectS" value="false"/>
+            <entry key="shortestToComplete" value="2"/>
+            <entry key="showOneLetterHeadingForIconColumns" value="false"/>
             <entry key="showSearchInDialog" value="false"/>
             <entry key="showSource" value="true"/>
             <entry key="sizeX" value="1104"/>
@@ -115,21 +151,30 @@
             <entry key="timeStampField" value="timestamp"/>
             <entry key="timeStampFormat" value="yyyy.MM.dd"/>
             <entry key="unmarkAllEntriesBeforeImporting" value="true"/>
+            <entry key="updateTimestamp" value="false"/>
             <entry key="urlColumn" value="true"/>
+            <entry key="useCaseKeeperOnSearch" value="true"/>
+            <entry key="useConvertToEquation" value="false"/>
             <entry key="useDefaultLookAndFeel" value="true"/>
             <entry key="useIEEEAbrv" value="true"/>
             <entry key="useImportInspectionDialog" value="true"/>
             <entry key="useImportInspectionDialogForSingle" value="true"/>
             <entry key="useNativeFileDialogOnMac" value="false"/>
             <entry key="useOwner" value="true"/>
+            <entry key="useProxy" value="false"/>
             <entry key="useRegExpSearch" value="false"/>
             <entry key="useRemoteServer" value="false"/>
             <entry key="useTimeStamp" value="true"/>
+            <entry key="useUnitFormatterOnSearch" value="true"/>
             <entry key="useXmpPrivacyFilter" value="false"/>
+            <entry key="validFieldBackgroundColor" value="255:255:255"/>
+            <entry key="valueDelimiters" value="1"/>
             <entry key="warnAboutDuplicatesInInspection" value="true"/>
             <entry key="warnBeforeOverwritingKey" value="true"/>
             <entry key="windowMaximised" value="false"/>
             <entry key="workingDirectory" value="/home/deepayan/svn/all/r-project/R-project-web/trunk/doc/bib/RJabref.bib"/>
+            <entry key="writeFieldAddSpaces" value="true"/>
+            <entry key="writeFieldCamelCase" value="true"/>
           </map>
           <node name="labelPattern">
             <map/>
