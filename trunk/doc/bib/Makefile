@@ -47,8 +47,13 @@ R-other.html: Makefile R.bib R-other-head.html
 	@echo "</body></html>" >> $@
 	@rm $@.in
 
+
+
 R-jabref.html: R.bib jabref-pref.xml
-	jabref -n -p jabref-pref.xml -o R-jabref.html,tablerefsabsbib R.bib
+	## jabref -n -p jabref-pref.xml -o R-jabref.html,tablerefsabsbib R.bib
+	jabref -n -p jabref-pref.xml -o R-jabref.html,jr R.bib
+	## jabref -n -p jabref-pref.xml -o $@,seminarhtml $<
+
 
 clean:
 	@rm -f R-bib.html \
