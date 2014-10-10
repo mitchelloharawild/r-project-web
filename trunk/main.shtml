@@ -37,7 +37,14 @@
     
     <ul>
  
- 
+      <li>
+      <strong><a href="http://cran.R-project.org/src/base-prerelease">
+      R 3.1.2 (Pumpkin Helmet) prerelease versions</a></strong> will
+      appear starting 
+      October 21.
+      Final release is scheduled for October 31, 2014.
+      </li>
+
       <li><strong>R version 3.1.1</strong> (Sock it to Me) has been
       released on 2014-07-10.</li>
       
@@ -75,14 +82,7 @@
 
 <!-- Dead stuff, for later reuse:
 
-      <li>
-      <strong><a href="http://cran.R-project.org/src/base-prerelease">
-      R 3.1.1 (Sock it to Me) prerelease versions</a></strong> will
-      appear starting 
-      June 30.
-      Final release is scheduled for July 10, 2014.
-      </li>
-
+ 
       <li><strong>R version 2.15.3</strong> (Security Blanket) has been
       released on 2013-03-01.</li>
 
