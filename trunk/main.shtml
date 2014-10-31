@@ -37,20 +37,11 @@
     
     <ul>
  
-      <li>
-      <strong><a href="http://cran.R-project.org/src/base-prerelease">
-      R 3.1.2 (Pumpkin Helmet) prerelease versions</a></strong> will
-      appear starting 
-      October 21.
-      Final release is scheduled for October 31, 2014.
-      </li>
 
-      <li><strong>R version 3.1.1</strong> (Sock it to Me) has been
-      released on 2014-07-10.</li>
       
-      <li><strong>R version 3.0.3</strong> (Warm Puppy) has been
-      released on 2014-03-06.</li>
- 
+      <li><strong>R version 3.1.2</strong> (Pumpkin Helmet) has been
+      released on 2014-10-31.</li>
+      
       
       <li>
 	<a href="http://journal.r-project.org" target="_top">
@@ -66,6 +57,9 @@
       June 30 - July 3, 2014.
       </li>
       
+      <li><strong>R version 3.0.3</strong> (Warm Puppy) has been
+      released on 2014-03-06.</li>
+ 
       <li>
       <strong><a target="_top" href="http://www.r-project.org/useR-2015">
       useR! 2015</a></strong>, 
