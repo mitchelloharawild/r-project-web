@@ -1,4 +1,4 @@
-![R](Rlogo.jpg)\ 
+[![R](/Rlogo.jpg)](/)
 
 ## About R
 

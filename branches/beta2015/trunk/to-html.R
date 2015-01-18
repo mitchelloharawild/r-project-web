@@ -14,4 +14,4 @@ lapply(conv, system)
 
 # copy non-markdown files
 other <- files[!is_md]
-file.copy(file.path("md", other), file.path("out", other))
+file.copy(file.path("md", other), file.path("out", other), overwrite = TRUE)
