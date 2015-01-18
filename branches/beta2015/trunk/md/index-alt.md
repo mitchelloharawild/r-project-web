@@ -33,6 +33,11 @@ Statistical Computing
 <td align="left">68 <span class="initialism">MB</span></td>
 <td align="left"><small>8a093200b567282932992decff5daf1d</small></td>
 </tr>
+<tr class="even">
+<td align="left"><a href="http://cran.rstudio.com/src/base/R-3/R-3.1.2.tar.gz">Source</a></td>
+<td align="left">29 <span class="initialism">MB</span></td>
+<td align="left"><small>7fe19567fdd32f1a86dd8bec13a666d2</small></td>
+</tr>
 </table>
 
 Or install for your Linux distros: [Ubuntu](http://cran.rstudio.com/bin/linux/ubuntu/README.html), [Debian](http://cran.rstudio.com/bin/linux/debian/README.html), [Suse](http://cran.rstudio.com/bin/linux/suse/README.html), [RedHat](http://cran.rstudio.com/bin/linux/redhat/README).
