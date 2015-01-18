@@ -24,7 +24,7 @@ The R Foundation is seated in Vienna, Austria and currently hosted by the [Vienn
 
 The R Foundation for Statistical Computing\
  c/o [Institute for Statistics and Mathematics](http://www.wu.ac.at/statmath/)\
- Wirtschaftsuniversiteët Wien\
+ Wirtschaftsuniversität Wien\
  Welthandelsplatz 1\
  1020 Vienna, Austria\
  Tel: (+43 1) 31336 4754\
