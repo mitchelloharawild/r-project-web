@@ -9,7 +9,7 @@ Statistical Computing
 
 **R version 3.1.2** (Pumpkin Helmet) was released on 2014-10-31. [Release notes](http://cran.rstudio.com/src/base/NEWS.html).
 
-<table class="table">
+<table class="table table-hover">
 <thead>
 <tr class="header">
 <th align="left">Operating system</th>
