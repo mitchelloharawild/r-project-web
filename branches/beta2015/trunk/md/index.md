@@ -2,7 +2,8 @@
 title: The R Project for Statistical Computing
 ---
 
-# The R Project for Statistical Computing
+# The R Project for\
+Statistical Computing
 
 ## Download R 
 
