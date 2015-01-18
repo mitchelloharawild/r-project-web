@@ -20,7 +20,9 @@ h2 {
 
 .sidebar ul {
   padding-left: 0;
+  list-style: none;
 }
+
 
 blockquote {
   font-size: 1em;
