@@ -20,17 +20,17 @@ Statistical Computing
 <tbody>
 <tr class="odd">
 <td align="left"><a href="http://cran.rstudio.com/bin/windows/base/R-3.1.2-win.exe">Windows</a></td>
-<td align="left">54mb</td>
+<td align="left">54 <span class="initialism">MB</span></td>
 <td align="left"><small>9e3c0cd6311355e0d5f8e1085b288361</small></td>
 </tr>
 <tr class="even">
 <td align="left"><a href="http://cran.rstudio.com/bin/macosx/R-3.1.2-mavericks.pkg">Mac OS 10.9+</a></td>
-<td align="left">55mb</td>
+<td align="left">55 <span class="initialism">MB</span></td>
 <td align="left"><small>d8fb6eaf80357dd058aa1691c684e091</small></td>
 </tr>
 <tr class="odd">
 <td align="left"><a href="http://cran.rstudio.com/bin/macosx/R-3.1.2-snowleopard.pkg">Mac OS 10.6+</a></td>
-<td align="left">68mb</td>
+<td align="left">68 <span class="initialism">MB</span></td>
 <td align="left"><small>8a093200b567282932992decff5daf1d</small></td>
 </tr>
 </table>
