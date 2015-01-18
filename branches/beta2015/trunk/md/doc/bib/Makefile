@@ -4,7 +4,8 @@ BIB2BIB = bib2bib \
 	-c '$$key <> "R:Ligges:2007"' \
 	-c '$$key <> "R:Pfaff:2006"' \
 	-c '$$key <> "R:Albert:2007"' \
-	-s 'year' -r -s 'author'
+	-s 'year' -r -s 'author' \
+	--no-comment
 
 .SUFFIXES:
 .SUFFIXES: .html .bib
@@ -48,7 +49,6 @@ R-other.html: Makefile R.bib R-other-head.html
 	@rm $@.in
 
 
-
 R-jabref.html: R.bib jabref-pref.xml
 	## jabref -n -p jabref-pref.xml -o R-jabref.html,tablerefsabsbib R.bib
 	jabref -n -p jabref-pref.xml -o R-jabref.html,jr R.bib
@@ -61,4 +61,4 @@ clean:
 	  R-publications.html R-publications_bib.html \
 	  R-books.html R-books_bib.html \
 	  R-other.html R-other_bib.html \
-	  R_bib.html R.html R-jabref.html
+	  R_bib.html R.html
