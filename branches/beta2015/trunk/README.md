@@ -1,5 +1,7 @@
 # r-project.org
 
+Source code for <http://explore.rforge.net/index.html>
+
 ## html
 
 A copy of the site as at Dec 10 2014. The doc directory was excluded because it contains a lot of large files (Rnews).
@@ -15,13 +17,7 @@ rm -rf doc
 
 ## md 
 
-A copy of the site converted to md (by `from-html.R`). A few minor changes made by hand. 
+Markdown files to render an exploratory site:
 
-## out
-
-`to-html.R`. md -> html by pandoc. Serve with:
-
-```R
-install.packages("servr")
-servr::httd("out")
-```
+* Render `.html` by running `make` in `md`
+* Serve a local version with: `servr::httd("md")`
