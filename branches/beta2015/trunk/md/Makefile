@@ -1,27 +1,14 @@
+HTML_FILES := $(patsubst %.md, %.html, $(shell find . -name '*.md'  \! -name 'navbar.md'))
 
-## get all input .md files
-sources := 		$(wildcard *.md)
+all: $(HTML_FILES)
 
-## from sources, derive all html
-targets := 		$(sources:.md=.html)
+$(HTML_FILES): %.html: %.md navbar.html
+	pandoc '$<' -o '$@' --smart --template ../template.html --include-before navbar.html
 
-## one implicit rukes
-%.html: 		%.md
-			@echo here we call pandoc or what have you on ... $< ... with args as we like
+navbar.html: navbar.md
+	pandoc '$<' -o '$@' --smart
 
-
-## one (implicit) target rule with markdown conversion, and subdirectories as dependents
-all:			$(targets) subdirs
-
-
-## a (manual) list of subdirectories
-subdirList = 		foundation Licenses
-
-## we need this as a 'phony' target: let the subdir target depend on the list of targets
-.PHONY: 		subdirs $(subdirList)
-subdirs: 		$(subdirList)
-
-## and then for each subdir, invoke a sub make
-$(subdirList):
-			$(MAKE) -C $@
+.PHONY: clean
+clean:
+	$(RM) $(HTML_FILES)
 
