@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>R: </title>
+
+    <!-- Bootstrap -->
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/css/R.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container page">
+      <div class="row">
+        <div class="col-xs-2 col-xs-offset-1 sidebar" role="navigation">
+<p><a href="/"><img src="/Rlogo.jpg" alt="R" /></a></p>
+<h2 id="about-r">About R</h2>
+<ul>
+<li><a href="/about.html">What is R?</a></li>
+<li><a href="/contributors.html">Contributors</a></li>
+<li><a href="/news.html">What’s new?</a></li>
+</ul>
+<h2 id="download">Download</h2>
+<p><a href="http://cran.r-project.org/mirrors.html">CRAN</a></p>
+<h2 id="r-project">R Project</h2>
+<ul>
+<li><a href="/foundation/main.html">Foundation</a></li>
+<li><a href="/foundation/memberlist.html">Members &amp; Donors</a></li>
+<li><a href="/mail.html">Mailing Lists</a></li>
+<li><a href="http://bugs.R-project.org">Bug Tracking</a></li>
+<li><a href="/conferences.html">Conferences</a></li>
+<li><a href="/search.html">Search</a></li>
+</ul>
+<h2 id="documentation">Documentation</h2>
+<ul>
+<li><a href="http://cran.r-project.org/manuals.html">Manuals</a></li>
+<li><a href="http://cran.r-project.org/faqs.html">FAQs</a></li>
+<li><a href="http://journal.r-project.org">The R Journal</a></li>
+<li><a href="/doc/bib/R-books.html">Books</a></li>
+<li><a href="/certification.html">Certification</a></li>
+<li><a href="/other-docs.html">Other</a></li>
+</ul>
+<h2 id="misc">Misc</h2>
+<ul>
+<li><a href="http://www.bioconductor.org">Bioconductor</a></li>
+<li><a href="/other-projects.html">Related Projects</a></li>
+</ul>
+        </div>
+        <div class="col-xs-8">
+<div align="center">
+<div class="figure">
+<img src="RSoC2.jpg" alt="GSoC 2008 logo" /><p class="caption">GSoC 2008 logo</p>
+</div>
+</div>
+<h1 id="projects-2008">Projects 2008</h1>
+<p>The <em>R Foundation for Statistical Computing</em> has been participating in <a href="http://code.google.com/soc/2008/rf/about.html">Google Summer of Code 2008</a>. Based on the <a href="ideas.html">ideas list</a> the following projects and students were selected and were sponsored by Google during summer 2008 (sorted alphabetically by student):</p>
+<hr />
+<h2 id="lme4-adaptive-gauss-hermite-quadrature-method-for-mixed-effects-models">lme4: Adaptive Gauss-Hermite quadrature method for mixed-effects models</h2>
+<p><em>by Bin Dai, mentored by Douglas M. Bates.</em></p>
+<p>This project continues to complete the package lme4 under supervision of prof. Bates. Adaptive Gauss-Hermite quadrature (AGQ) method will be used to evaluate the integrals. This method can be implemented with arbitrary degrees of accuracy, leading to nearly unbiased estimates, while first-order Laplacian approximations have been reported to produce biased estimates under some distributional scenarios.</p>
+<p><a href="http://code.google.com/soc/2008/rf/appinfo.html?csaid=55806914EDEFC50A">Application Information</a>,</p>
+<hr />
+<h2 id="roxygen-documentation-system-for-r">Roxygen documentation system for R</h2>
+<p><em>by Peter Danenberg, mentored by Manuel J. A. Eugster.</em></p>
+<p>Roxygen is R’s analogue to Doxygen; it aims to preserve Doxygen’s basic components: documentation blocks preceding code objects which describe the objects with key-value pairs. Roxygen will ship with the Documentation-, Namespace-, and Collate-Roclets with produce, respectively, Rd, package namespace, and collated package descriptions.</p>
+<p><a href="http://code.google.com/soc/2008/rf/appinfo.html?csaid=FA6F2563CBDC42AB">Application Information</a>, <a href="http://roxygen.org/">Project website</a>, <a href="http://r-forge.r-project.org/projects/roxygen/">Code repository</a>.</p>
+<hr />
+<h2 id="finite-mixture-models-for-large-data-sets">Finite Mixture Models for Large Data Sets</h2>
+<p><em>by Arijit Das, mentored by Friedrich Leisch.</em></p>
+<p>The main aim of this project would be to re-implement most popular models of the flexmix package in C so that it is feasible to mine large data sets. Since EM algorithm converges only to a local minimum, it is recommended to repeat it several times and for various number of components keeping only the best solution found. In this project this part of the algorithm would be parallelized for multi-CPU machines or clusters of workstations to achieve greater efficiency.</p>
+<p><a href="http://code.google.com/soc/2008/rf/appinfo.html?csaid=4D6CA06557E0BE44">Application Information</a>,</p>
+<hr />
+<h2 id="connecting-r-and-postgresql-using-dbi">Connecting R and PostgreSQL using DBI</h2>
+<p><em>by Sameer Kumar Prayaga, mentored by Dirk Eddelbuettel</em>.</p>
+<p>The GSoC project involves creating an R add-on package that provides the ‘glue’ between the DBI package and PostgreSQL. This will bridge the existing gap for a DBI connection between the premier Open Source data analysis system R and the object-relational database management system PostgreSQL.</p>
+<p><a href="http://code.google.com/soc/2008/rf/appinfo.html?csaid=A42821F29AAA07BA">Application Information</a>, <a href="http://rpostgresql.googlecode.com/">Project website</a>, <a href="http://rpostgresql.googlecode.com/svn">Code repository</a>, <a href="http://cran.r-project.org/package=RPostgreSQL">Package</a>.</p>
+        </div>
+      </div>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+  </body>
+</html>

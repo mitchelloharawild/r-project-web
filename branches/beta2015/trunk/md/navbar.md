@@ -6,7 +6,7 @@
 * [Contributors](/contributors.html)
 * [What's new?](/news.html)
 
-## Download, Packages
+## Download
 
 [CRAN](http://cran.r-project.org/mirrors.html)
 
