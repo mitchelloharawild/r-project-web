@@ -10,6 +10,11 @@ h2 {
   color: #222;
 }
 
+h3 {
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
 body {
   color: #444;
 }
