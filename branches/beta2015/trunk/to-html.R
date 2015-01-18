@@ -1,6 +1,6 @@
 files <- dir("md", recursive = TRUE, include.dirs = TRUE)
 is_md <- grepl("\\.md$", files)
-md <- files[is_md]
+md <- setdiff(files[is_md], "navbar.md")
 
 dir.create("out")
 dirs <- files[file.info(file.path("md", files))$isdir]
