@@ -20,7 +20,6 @@
 * [Search](/search.html)
 
 </div>
-
 <div class="col-xs-4 col-sm-12">
 
 ## R Foundation
@@ -31,6 +30,9 @@
 * [Donors](/foundation/donors.html)
 * [Donate](/foundation/donations.html)
 
+</div>
+<div class="col-xs-4 col-sm-12">
+
 ## Documentation
 
 * [Manuals](http://cran.r-project.org/manuals.html)
@@ -39,6 +41,9 @@
 * [Books](/doc/bib/R-books.html)
 * [Certification](/certification.html)
 * [Other](/other-docs.html)
+
+</div>
+<div class="col-xs-4 col-sm-12">
 
 ## Misc
  
