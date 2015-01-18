@@ -21,3 +21,10 @@ h2 {
 .sidebar ul {
   padding-left: 0;
 }
+
+blockquote {
+  font-size: 1em;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 1em;
+}
