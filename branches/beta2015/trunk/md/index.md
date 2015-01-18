@@ -33,22 +33,9 @@ Statistical Computing
 <td align="left">68mb</td>
 <td align="left"><small>8a093200b567282932992decff5daf1d</small></td>
 </tr>
-<tr class="even">
-<td align="left"><a href="http://cran.rstudio.com/bin/linux/ubuntu/README.html">Debian</a></td>
-<td align="left" colspan="2">—</td>
-</tr>
-<tr class="odd">
-<td align="left"><a href="http://cran.rstudio.com/bin/linux/suse/README.html">SUSE</a></td>
-<td align="left" colspan="2">—</td>
-</tr>
-<tr class="even">
-<td align="left"><a href="http://cran.rstudio.com/bin/linux/redhat/README">RedHat</a></td>
-<td align="left" colspan="2">—</td>
-</tr>
-<tr class="odd">
-<td align="left"><a href="http://cran.rstudio.com/bin/linux/debian/README.html">Debian</a></td>
-<td align="left" colspan="2">—</td>
 </table>
+
+Or install for your Linux distro: [Ubuntu](http://cran.rstudio.com/bin/linux/ubuntu/README.html), [Debian](http://cran.rstudio.com/bin/linux/debian/README.html), [Suse](http://cran.rstudio.com/bin/linux/suse/README.html), [RedHat](http://cran.rstudio.com/bin/linux/redhat/README).
 
 ## What is R?
 
