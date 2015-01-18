@@ -1,5 +1,6 @@
 files <- dir("html", recursive = TRUE, full.names = TRUE, include.dirs = TRUE)
-html <- files[grepl("\\.html$", files)]
+is_html <- grepl("\\.html$", files)
+html <- files[is_html]
 html <- setdiff(html, c("index.html", "logo.html"))
 
 md <- gsub("html", "md", html)
@@ -10,3 +11,6 @@ lapply(gsub("html", "md", dirs), dir.create, showWarnings = FALSE)
 
 conv <- paste0("pandoc ", html, " -o ", md, " --atx-headers --no-wrap")
 lapply(conv, system)
+
+# non_html
+file.copy(files[!is_html], gsub("html", "md", files[!is_html]))
