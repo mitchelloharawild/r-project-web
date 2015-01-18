@@ -1,0 +1,40 @@
+Jabref is used to produce a searchable version of R.bib.
+
+We use a slight modification (to make the W3C validator happy) of the
+built in export filter 'tablerefsabsbib', which is available at
+
+[https://github.com/JabRef/jabref/tree/master/src/main/resources/resource/layout/tablerefsabsbib]
+
+Basically, we change the explicit widths in 
+<thead><tr><th width="20%">Author</th><th width="30%">Title</th>...
+to
+<thead><tr><th style="width:20%">Author</th><th style="width:30%">Title</th>...
+
+Our modified filter is in the `jabref-custom` directory.  Before it
+can be used, it has to be registered with jabref through the GUI.
+Here are the steps needed to do so, taken from
+[http://jabref.sourceforge.net/help/CustomExports.php]
+
+ - The only requirement for a valid export filter is the existence of
+   a file with the extension .layout. To add a new custom export
+   filter, open the dialog box Options -> Manage custom exports, and
+   click Add new. A new dialog box will appear, allowing you to
+   specify a name for the export filter (which will appear as one of
+   the choices in the File type dropdown menu of the file dialog when
+   you use the File -> Export menu choice in the JabRef window), the
+   path to the .layout file, and the preferred file extension for the
+   export filter (which will be the suggested extension in the file
+   dialog when you use the export filter).
+
+Fill in the dialog box with values
+
+- jr
+- /path/to/R-project-web/trunk/doc/bib/jabref-custom/jr.layout
+- html
+
+
+Run
+
+`jabref`
+
+and then 

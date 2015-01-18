@@ -1,0 +1,6 @@
+Springer offers a 20% discount on R books ordered via the books webpage
+at Springer.com.  To get this discount, click on "Publisher Info."  At
+the Springer web site, click on the shopping cart, proceed to checkout,
+log in, and enter the following SpringerToken without blanks on the
+registration formula.  The SpringerToken is: pR7e7JnXENtXYPP.  You will
+have to register as a Springer customer the first time you order.
