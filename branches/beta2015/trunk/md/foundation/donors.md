@@ -33,7 +33,8 @@ Benefactors
 -   HMS Analytical Software, Germany\
 -   Institute of Mathematical Statistics (IMS), Ohio, USA\
 -   Mango Solutions, Chippenliam, UK\
--   Marc Schwartz, USA Merck and Co. Inc., USA\
+-   Marc Schwartz, USA \
+-   Merck and Co. Inc., USA\
 -   Numbers Internation Pty Ltd,Australia\
 -   OpenAnalytics, Belgium\
 -   Prediction Company, Santa Fe, New Mexico, USA\
@@ -199,7 +200,7 @@ Supporting Institutions
 -   Robert M. Baskin (USA)
 -   Annette Baumann (Germany)
 -   Marcel Baumgartner (Switzerland)
--   Abdu Benheddi (Switzerland) \
+-   Abdu Benheddi (Switzerland)
 -   Axel Benner (Germany)
 -   Andrej Blejec (Slovenia)
 -   Simon Blomberg (Australia)
