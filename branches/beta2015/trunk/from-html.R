@@ -12,5 +12,8 @@ lapply(gsub("html", "md", dirs), dir.create, showWarnings = FALSE)
 conv <- paste0("pandoc ", html, " -o ", md, " --atx-headers --no-wrap")
 lapply(conv, system)
 
+system("pandoc html/main.shtml -f html -o md/index.md --atx-headers --no-wrap")
+
+
 # non_html
 file.copy(files[!is_html], gsub("html", "md", files[!is_html]))
