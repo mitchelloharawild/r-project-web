@@ -4,11 +4,11 @@ The R project actively supports two conference series, organized regularly by me
 
 R-related conferences are coordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of [Torsten Hothorn (Universität Zürich)](http://www.biostat.uzh.ch/aboutus/people/hothorn.html) and [Achim Zeileis (Universität Innsbruck)](http://statmath.wu.ac.at/~zeileis/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at `R-conferences@r-project.org`.
 
-------------------------------------------------------------------------
-
 ## useR! - International R User Conference
 
-![useR logo](useR.png) This is the main meeting of the R user and developer community, its program consisting of both invited and user-contributed presentations:
+![useR logo](useR.png)\ 
+
+This is the main meeting of the R user and developer community, its program consisting of both invited and user-contributed presentations:
 
 -   The invited keynote lectures cover a broad spectrum of topics ranging from technical and R-related computing issues to general statistical topics of current interest.
 -   The user-contributed presentations are submitted as abstracts prior to the conference and may be related to (virtually) any R-related topic. The presentations are typically organized in sessions of either broad or special interest, which also comprise a "free" discussion format. Such a discussion format not only provides a forum for software demonstrations and detailed discussions but also supports the self-organization of the respective communities.
@@ -28,8 +28,6 @@ Usually, no proceedings are published for useR! conferences.
   useR! 2014, Los Angeles, CA, USA:    [homepage](http://www.R-project.org/useR-2014/)
   useR! 2015, Aalborg, Denmark:        [homepage](http://www.R-project.org/useR-2015/)
   ------------------------------------ ---------------------------------------------------------------------------------------------------------------------------------------------------
-
-------------------------------------------------------------------------
 
 ## DSC - Directions in Statistical Computing
 
