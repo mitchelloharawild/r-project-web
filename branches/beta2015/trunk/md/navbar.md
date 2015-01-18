@@ -10,7 +10,7 @@
 
 ## R Project
 
-* [Foundation](/foundation)
+* [Foundation](/foundation/)
 * [Members & Donors](/foundation/memberlist.html)
 * [Mailing Lists](/mail.html)
 * [Bug Tracking](http://bugs.R-project.org)
