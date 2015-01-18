@@ -1,0 +1,19 @@
+The original published version of R News volume 5(2) is available as
+Rnews_2005-2-1.pdf.  
+
+The version with correction (1) is available as 
+Rnews_2005-2-2.pdf.  
+
+The latest version, including all corrections, is always available as
+Rnews_2005-2.pdf.
+
+
+1.  The article "BMA: An R package for Bayesian Model Averaging"
+    that appeared in R News volume 5(2) contained an error in the second
+    paragraph on page 4.  When describing the probability that the variable
+    was not in the model, the text gave the value 0.445 when
+    in fact the correct value was 0.555.  This error was 
+    corrected in the online version of R News 5(2) on 16/12/05.
+
+    Thanks to Antti Pirjeta for pointing out the error.
+
