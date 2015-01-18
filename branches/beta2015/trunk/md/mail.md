@@ -1,4 +1,7 @@
-# Mailing Lists
+---
+title: Mailing Lists
+---
+
 
 **Please** read the [instructions](#instructions) below and the [posting guide](posting-guide.html) *before* sending anything to any mailing list! 
 

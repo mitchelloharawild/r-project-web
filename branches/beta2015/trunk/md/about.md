@@ -1,4 +1,6 @@
-# What is R?
+---
+title: What is R?
+---
 
 ## Introduction to R
 

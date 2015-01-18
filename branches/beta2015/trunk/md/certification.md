@@ -1,4 +1,6 @@
-# R Certification
+---
+title: Certification
+---
 
 ## Regulatory Compliance and Validation Issues
 

@@ -2,9 +2,6 @@
 title: The R Project for Statistical Computing
 ---
 
-# The R Project for\
-Statistical Computing
-
 ## Download R 
 
 **R version 3.1.2** (Pumpkin Helmet) was released on 2014-10-31. [Release notes](http://cran.rstudio.com/src/base/NEWS.html).

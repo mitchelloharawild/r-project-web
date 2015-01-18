@@ -1,4 +1,6 @@
-# The R Project for Statistical Computing
+---
+title: The R Project for Statistical Computing
+---
 
 ## Getting Started                                                      
 

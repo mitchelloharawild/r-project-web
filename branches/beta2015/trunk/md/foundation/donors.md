@@ -1,4 +1,6 @@
-# R Foundation Members & Supporters
+---
+title: R Foundation Members & Supporters
+---
 
 Any person or legal entity may become a supporting member of the R foundation. Supporting members promote the organization primarily by paying membership fees.
 

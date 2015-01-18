@@ -1,4 +1,6 @@
-# Posting Guide: How to ask good questions that prompt useful answers
+---
+title: Posting Guide: How to ask good questions that prompt useful answers
+---
 
 This guide is intended to help you get the most out of the R mailing lists, and to avoid embarrassment. Like many responses posted on the list, it is written in a concise manner. This is not intended to be unfriendly - it is more a consequence of allocating the limited available time and space to technical issues rather than to social niceties.
 

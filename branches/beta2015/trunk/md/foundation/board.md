@@ -1,4 +1,6 @@
-# Board and Auditors
+---
+title: Board and Auditors
+---
 
 __Presidents:__ [Duncan Murdoch](http://www.stats.uwo.ca/faculty/murdoch/), [Martyn Plummer](http://www.iarc.fr/en/staffdirectory/displaystaff.php?id=10118)
 

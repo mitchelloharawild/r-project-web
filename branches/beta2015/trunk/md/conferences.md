@@ -1,4 +1,6 @@
-# R-related Conferences
+---
+title: Conferences
+---
 
 The R project actively supports two conference series, organized regularly by members from the R community: useR! - providing a forum to the R user community - and DSC - a platform for developers of statistical software. A rough outline of the format for the respective conferences is given below; both conference formats were developed by the [Austrian Association for Statistical Computing (AASC)](http://www.aasc.or.at/) in cooperation with the [R Foundation for Statistical Computing](http://www.R-project.org/foundation).
 

@@ -1,4 +1,6 @@
-# What's New in R?
+---
+title: What's New?
+---
 
 ## R-announce
 

@@ -1,4 +1,6 @@
-# R Documentation
+---
+title: Documentation
+---
 
 ## Document Collections, Journals and Proceedings
 

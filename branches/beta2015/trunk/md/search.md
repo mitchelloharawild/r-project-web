@@ -1,4 +1,6 @@
-# Search
+---
+title: Search
+---
 
 For hardware reasons (disk space, CPU performance) there is currently no search facility at the R master webserver itself. However, due to the very active R user community (without which R would not be what it is today) there are other possibilities to search in R web pages and mail archives:
 

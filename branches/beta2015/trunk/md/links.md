@@ -1,4 +1,6 @@
-# Links
+---
+title: Links
+---
 
 The following list of links may be of interest to users of R. Please let us know if you think your site should be added to the list.
 

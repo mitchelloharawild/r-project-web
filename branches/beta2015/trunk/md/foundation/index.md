@@ -1,4 +1,6 @@
-# The R Foundation
+---
+title: The R Foundation
+---
 
 The R Foundation is a not for profit organization working in the public interest. It has been founded by the members of the R Development Core Team in order to
 

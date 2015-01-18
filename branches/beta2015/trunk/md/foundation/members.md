@@ -1,4 +1,6 @@
-# R Foundation Membership
+---
+title: R Foundation Membership
+---
 
 The ordinary members are elected by a majority vote of the general assembly. New ordinary members are selected based on their non-monetary contributions (code, effort, ...) to the R project. The initial set of ordinary members at establishment of the organization consisted of the members of the "R Development Core Team" as listed in the sources of R release 1.5.0.
 
