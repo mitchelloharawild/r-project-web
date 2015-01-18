@@ -21,166 +21,166 @@ year (unless the respective member prefers otherwise).
 Benefactors
 -----------
 
--   Joseph J. Allaire, Rstudio Inc., USA\
--   Burns Statistics Ltd., London, U.K.\
--   Cybaea Limited, U.K.\
--   Department of Statistics, Brigham Young University, Utah, USA\
--   Dsquare, Germany\
--   Paul von Eikeren, USA\
--   eoda, Germany\
--   Giannasca Corrado & Montagna Maria, Italy\
+-   Joseph J. Allaire, Rstudio Inc., USA
+-   Burns Statistics Ltd., London, U.K.
+-   Cybaea Limited, U.K.
+-   Department of Statistics, Brigham Young University, Utah, USA
+-   Dsquare, Germany
+-   Paul von Eikeren, USA
+-   eoda, Germany
+-   Giannasca Corrado & Montagna Maria, Italy
 -   Greenwich Statistics, France
--   HMS Analytical Software, Germany\
--   Institute of Mathematical Statistics (IMS), Ohio, USA\
--   Mango Solutions, Chippenliam, UK\
--   Marc Schwartz, USA \
--   Merck and Co. Inc., USA\
--   Numbers Internation Pty Ltd,Australia\
--   OpenAnalytics, Belgium\
--   Prediction Company, Santa Fe, New Mexico, USA\
--   Revolution Analytics, USA\
--   Quantide, Italy\
--   Quartz Bio, Switzerland\
--   Ritter and Danielson Consulting, Belgium\
--   Saxo Bank, Denmark\
--   Saorstat Limited, Ireland\
--   Schröder Investment Management Ltd., London, UK\
--   InterContinental Hotels Group, USA\
--   Shell Statistics and Chemometrics, Chester, UK\
--   Statisticon AB, Uppsala, Sweden\
--   Tibco Software Inc., Palo Alto, USA\
+-   HMS Analytical Software, Germany
+-   Institute of Mathematical Statistics (IMS), Ohio, USA
+-   Mango Solutions, Chippenliam, UK
+-   Marc Schwartz, USA 
+-   Merck and Co. Inc., USA
+-   Numbers Internation Pty Ltd,Australia
+-   OpenAnalytics, Belgium
+-   Prediction Company, Santa Fe, New Mexico, USA
+-   Revolution Analytics, USA
+-   Quantide, Italy
+-   Quartz Bio, Switzerland
+-   Ritter and Danielson Consulting, Belgium
+-   Saxo Bank, Denmark
+-   Saorstat Limited, Ireland
+-   Schröder Investment Management Ltd., London, UK
+-   InterContinental Hotels Group, USA
+-   Shell Statistics and Chemometrics, Chester, UK
+-   Statisticon AB, Uppsala, Sweden
+-   Tibco Software Inc., Palo Alto, USA
 -   The Generations Network, San Francisco, USA
 
 Donors
 ------
 
--   AT&T Research (USA)\
--   Agrocampus Ouest (France)\
--   Vies Animales (France)\
+-   AT&T Research (USA)
+-   Agrocampus Ouest (France)
+-   Vies Animales (France)
 -   Austrian Association for Statistical Computing (Austria)
--   Adelchi Azzalini (Italy)\
--   BC Cancer Agency, Vancouver (Canada)\
--   Fabian Barth (Germany)\
+-   Adelchi Azzalini (Italy)
+-   BC Cancer Agency, Vancouver (Canada)
+-   Fabian Barth (Germany)
 -   Biostatistics and Research Decision Sciences, Merck Research
-    Laboratories (USA)\
--   Brian Caffo (USA)\
--   David W. Crawford (USA)\
--   Dianne Cook (USA)\
--   Yves DeVille (France)\
--   Department of Economics, University of Milano (Italy)\
+    Laboratories (USA)
+-   Brian Caffo (USA)
+-   David W. Crawford (USA)
+-   Dianne Cook (USA)
+-   Yves DeVille (France)
+-   Department of Economics, University of Milano (Italy)
 -   Dipartimento di Scienze Statistiche e Matematiche di Palermo
-    (Italy)\
--   Emanuele De Rinaldis (Italy)\
--   Zubin Dowlaty (USA)\
--   Faculty of Economics, University of Groningen (Netherlands)\
+    (Italy)
+-   Emanuele De Rinaldis (Italy)
+-   Zubin Dowlaty (USA)
+-   Faculty of Economics, University of Groningen (Netherlands)
 -   Faculty of Psychology, University of Barcelona (Spain)
--   Ilker Esener (Switzerland)\
--   Jaimison Fargo (USA)\
--   Jason Fisher (USA)\
--   Peter L. Flom (USA)\
--   David Freedman (USA)\
--   Manfred Georg (USA)\
--   Google Inc., Mountain View, California (USA)\
--   Greenwich Statistics (France)\
--   Grupo Usuarios R — Madrid (Spain)\
--   Nassim Haddad (Belgium)\
--   Helsana Versicherungen AG (Switzerland)\
--   Hort Research Institute (New Zealand)\
--   Geoffrey S Hubona, The Georgia R School (USA)\
+-   Ilker Esener (Switzerland)
+-   Jaimison Fargo (USA)
+-   Jason Fisher (USA)
+-   Peter L. Flom (USA)
+-   David Freedman (USA)
+-   Manfred Georg (USA)
+-   Google Inc., Mountain View, California (USA)
+-   Greenwich Statistics (France)
+-   Grupo Usuarios R — Madrid (Spain)
+-   Nassim Haddad (Belgium)
+-   Helsana Versicherungen AG (Switzerland)
+-   Hort Research Institute (New Zealand)
+-   Geoffrey S Hubona, The Georgia R School (USA)
 -   Owen Jones, Robert Maillardet and Andrew Robinson (Royalties for the
-    book “Scientific Programming and Simulation Using R”)\
--   Kansai University, Faculty Commerce (Japan)\
--   Kristian Kieselman (Sweden)\
--   Korean R Users Group (Korea)\
--   Olaf Krenz (Germany)\
--   Jonathan M. Lees (USA)\
--   J. Brian Loria (USA)\
--   Peeter Luikmel (Estland)\
--   Vittorio de Martino (Italy)\
--   Shigeru Mase (Japan)\
--   Peter M Maksymuk (USA)\
--   Merck and Co., Inc. (USA)\
--   Telecom New Zealand (New Zealand)\
--   Minato Nakazawa (Japan)\
--   Network Theory Ltd, Bristol (United Kingdom)\
--   Packt Publishing Limited (United Kingdom)\
--   Stavros Panidis (Greece)\
--   Norm Phillips (Canada)\
--   Bill Pikounis (USA)\
--   Joanne M Potts, The Analytical Edge (Australia)\
--   Quan Development LLC (USA)\
--   Jim Robinson-Cox, Montana State University (USA)\
--   Rstudio Inc. (USA)\
--   Saxo Bank (Denmark)\
--   SBW Consulting (USA)\
--   Phil Shepherd (New Zealand)\
--   Jogat Sheth (USA)\
--   N. Srinivasan (USA)\
--   Julian Stander (United Kingdom)\
--   Jeffrey R. Stevens (Germany)\
--   Stanford University, California (USA)\
--   Transmitting Science (Spain)\
--   Università Cà Foscari Venezia (Italy)\
--   Université de Nantes (France)\
--   Ravinderpal Vaid (USA)\
--   Boris Vaillant (Germany)\
--   Ivo Welch\
--   Joshua Wiley (USA)\
--   Kevin Wright (USA)\
+    book “Scientific Programming and Simulation Using R”)
+-   Kansai University, Faculty Commerce (Japan)
+-   Kristian Kieselman (Sweden)
+-   Korean R Users Group (Korea)
+-   Olaf Krenz (Germany)
+-   Jonathan M. Lees (USA)
+-   J. Brian Loria (USA)
+-   Peeter Luikmel (Estland)
+-   Vittorio de Martino (Italy)
+-   Shigeru Mase (Japan)
+-   Peter M Maksymuk (USA)
+-   Merck and Co., Inc. (USA)
+-   Telecom New Zealand (New Zealand)
+-   Minato Nakazawa (Japan)
+-   Network Theory Ltd, Bristol (United Kingdom)
+-   Packt Publishing Limited (United Kingdom)
+-   Stavros Panidis (Greece)
+-   Norm Phillips (Canada)
+-   Bill Pikounis (USA)
+-   Joanne M Potts, The Analytical Edge (Australia)
+-   Quan Development LLC (USA)
+-   Jim Robinson-Cox, Montana State University (USA)
+-   Rstudio Inc. (USA)
+-   Saxo Bank (Denmark)
+-   SBW Consulting (USA)
+-   Phil Shepherd (New Zealand)
+-   Jogat Sheth (USA)
+-   N. Srinivasan (USA)
+-   Julian Stander (United Kingdom)
+-   Jeffrey R. Stevens (Germany)
+-   Stanford University, California (USA)
+-   Transmitting Science (Spain)
+-   Università Cà Foscari Venezia (Italy)
+-   Université de Nantes (France)
+-   Ravinderpal Vaid (USA)
+-   Boris Vaillant (Germany)
+-   Ivo Welch
+-   Joshua Wiley (USA)
+-   Kevin Wright (USA)
 -   Stefan Wyder (Switzerland)
 
 Supporting Institutions
 -----------------------
 
--   SriSatish Ambati, USA\
--   Astra Zeneca R&D Mölndal, Mölndal, Sweden\
--   AT&T Labs, New Jersey, USA\
--   Baxter AG, Vienna, Austria\
--   Baxter Healthcare Corp., California, USA\
--   BC Cancer Agency, Vancouver, Canada\
--   Black Mesa Capital, Santa Fe, USA\
--   Boehringer Ingelheim RCV GmbH & Co KG, Vienna, Austria\
+-   SriSatish Ambati, USA
+-   Astra Zeneca R&D Mölndal, Mölndal, Sweden
+-   AT&T Labs, New Jersey, USA
+-   Baxter AG, Vienna, Austria
+-   Baxter Healthcare Corp., California, USA
+-   BC Cancer Agency, Vancouver, Canada
+-   Black Mesa Capital, Santa Fe, USA
+-   Boehringer Ingelheim RCV GmbH & Co KG, Vienna, Austria
 -   Breast Center at Baylor College of Medicine, Houston, Texas, USA
--   Center für digitale Systeme, Freie Universität Berlin, Germany\
--   Chaire d'actuariat, Université Laval, Canada\
--   Clinical Trial Unit, University Hospital Basel, Switzerland\
--   Dana-Farber Cancer Institute, Boston, USA\
+-   Center für digitale Systeme, Freie Universität Berlin, Germany
+-   Chaire d'actuariat, Université Laval, Canada
+-   Clinical Trial Unit, University Hospital Basel, Switzerland
+-   Dana-Farber Cancer Institute, Boston, USA
 -   Department of Biostatistics, Johns Hopkins University, Maryland,
-    USA\
+    USA
 -   Department of Biostatistics, Vanderbilt University School of
-    Medicine, USA\
--   Department of Economics, Stockholm University, Sweden\
+    Medicine, USA
+-   Department of Economics, Stockholm University, Sweden
 -   Department of Mathematics and Statistics, Utah State University,
-    USA\
+    USA
 -   Department of Statistics, University of California at Los Angeles,
-    USA\
--   Department of Statistics, University of Warwick, Coventry, UK\
+    USA
+-   Department of Statistics, University of Warwick, Coventry, UK
 -   Department of Statistics, University of Wisconsin-Madison,
-    Wisconsin, USA\
--   Department of Statistics, Iowa State University, USA\
+    Wisconsin, USA
+-   Department of Statistics, Iowa State University, USA
 -   Department of Statistics & Actuarial Science, University of Iowa,
-    USA\
+    USA
 -   DFG Research Group “Mind and Brain Dynamics”, Universität Potsdam,
-    Germany\
--   Dipartimento di Statistica, Università Cà Foscari di Venezia, Italy\
--   Division of Biostatistics, University of California, Berkeley, USA\
--   Ef-prime Inc., Tokyo, Japan\
--   European Bioinformatics Inst., UK\
--   Hygeia Associates, California, USA\
--   Institute for Geoinformatics, Westfälische\
-     Wilhelms-Universität Münster, Germany\
+    Germany
+-   Dipartimento di Statistica, Università Cà Foscari di Venezia, Italy
+-   Division of Biostatistics, University of California, Berkeley, USA
+-   Ef-prime Inc., Tokyo, Japan
+-   European Bioinformatics Inst., UK
+-   Hygeia Associates, California, USA
+-   Institute for Geoinformatics, Westfälische
+     Wilhelms-Universität Münster, Germany
 -   Lehrstuhl für Rechnerorientierte Statistik und Datenanalyse,
-    University of Augsburg, Germany\
--   MPI for Demographic Research, Rostock, Germany\
--   Marine Scotland Science, UK\
--   Massachusetts General Hospital Biostatistics Center, Boston, USA\
--   National Public Health Institute, Helsinki, Finland\
--   Norwegian Institute of Marine Research, Bergen, Norway\
+    University of Augsburg, Germany
+-   MPI for Demographic Research, Rostock, Germany
+-   Marine Scotland Science, UK
+-   Massachusetts General Hospital Biostatistics Center, Boston, USA
+-   National Public Health Institute, Helsinki, Finland
+-   Norwegian Institute of Marine Research, Bergen, Norway
 -   School of Economics and Finance, Victoria University of Wellington,
-    New Zealand\
--   Syncfusion Inc, USA\
--   TERRA Lab, University of Regina - Department of Geography, Canada\
--   Universität für Bodenkultur, Austria\
+    New Zealand
+-   Syncfusion Inc, USA
+-   TERRA Lab, University of Regina - Department of Geography, Canada
+-   Universität für Bodenkultur, Austria
 -   ViaLactia Biosciences (NZ) Ltd, Auckland, New Zealand
 
 ### Supporting Members
