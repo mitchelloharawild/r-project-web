@@ -1,0 +1,386 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<HTML>
+<HEAD>
+<title>R: Mailing Lists Posting Guide</title>
+<LINK REL=STYLESHEET TYPE="text/css" HREF="R.css">
+</HEAD>
+
+<BODY>
+<h1>Posting Guide: How to ask good questions that prompt useful answers</h1>
+
+This guide is intended to help you get the most out of the R
+mailing lists, and to avoid embarrassment.  Like many responses
+posted on the list, it is written in a concise manner.  This
+is not intended to be unfriendly - it is more a consequence
+of allocating the limited available time and space to technical issues
+rather than to social niceties.
+
+<p><b>The list:</b> Remember that R is free software, constructed
+  and maintained by volunteers.  They have various reasons for
+  contributing software and participating on the mailing lists, but often
+  have limited time.
+
+<p><b>Good manners:</b> Remember that customs differ.  Some people
+  are very direct.  Others surround everything they say with
+  hedges and apologies.  Be tolerant.  Rudeness is never warranted,
+  but sometimes `read the manual' <em>is</em> the appropriate response.
+  Don't waste time discussing such matters on the list.
+  Ad hominem comments are absolutely out of place.
+
+<p><b>Questions about statistics:</b> The R mailing lists are
+  primarily intended for questions and discussion about the R
+  software.  However, questions about statistical
+  methodology are sometimes posted.  If the question is
+  well-asked and of interest to someone on the list, it
+  <em>may</em> elicit an informative up-to-date answer.
+  See also the Usenet groups sci.stat.consult (applied
+  statistics and consulting) and sci.stat.math
+  (mathematical stat and probability).
+
+<p><b>Basic statistics and classroom homework:</b>
+  R-help is not intended for these.
+
+<p><a name="which_list"><b>Which list: R-help, R-devel, or Bioconductor?</b></a>
+  There are two widely used mailing lists for questions and discussion about
+  R and a list dedicated more specifically to issues in the use of
+  bioconductor packages and bioinformatics.<br>
+  <b>R-help</b> is intended to be comprehensible to people who
+   want to use R to solve problems but who are not necessarily
+   interested in or knowledgeable about programming.
+  <b>R-devel</b> is intended for questions
+   and discussion about code development in R.  Questions likely to
+   prompt discussion unintelligible to non-programmers should go to
+   to R-devel.  For example, questions involving C, C++,
+   etc. code should go to R-devel.
+   More general questions involving pure R code and questions
+   likely to be of interest to the large and diverse set of
+   subscribers to R-help should go to R-help.<br>
+  <b>Bioconductor</b> is for announcements about the development of <a
+  HREF="http://www.bioconductor.org/"> Bioconductor </a>, availability of
+  new code, questions and answers about problems and solutions using
+  Bioconductor, etc. See <a
+  HREF="http://bioconductor.org/help/mailing-list/"> Bioconductor mailing
+  lists</a> for details.
+  See <a href="#contrib_pkgs">below</a> for questions on <em>contributed
+  packages</em>.
+
+<p><a name="platform_specific"></a><b>Platform-specific questions</b>:
+    There are lists <b>R-sig-Mac</b>, <b>R-sig-Debian</b>
+    and <b>R-sig-Fedora</b> for R on Mac OS X, Debian/Ubuntu and
+    Fedora/Redhat respectively.  Questions specific to those platforms
+    (especially <em>re</em> installation and the <b>R.app</b> GUI on
+    Mac OS X) are more likely to get informed responses on the
+    appropriate list, and that is certainly the place to discuss
+    possible bugs.
+
+<p><b>Do your homework before posting:</b> If it is clear
+ that you have done basic background research, you are far
+ more likely to get an informative response.  See also <a
+ href="#further">Further Resources</a> further down this page.
+
+<ul>
+<li>Do <code>help.search("keyword")</code> and
+       <code>apropos("keyword")</code> with
+different keywords (type this at the R prompt).
+
+<li>Do <code>RSiteSearch("keyword")</code> with different keywords (at the
+R prompt) to search R functions, contributed packages and R-Help
+postings. See <code>?RSiteSearch</code> for further options and to restrict
+searches.
+
+<li>Read the online help for relevant functions (type
+<code>?functionname</code>, e.g., <code>?prod</code>, at the
+R prompt)
+
+<li>If something seems to have changed in R, look in the latest <a
+href="http://cran.r-project.org/src/base/NEWS">NEWS</a> file on CRAN for
+information about it.
+
+<li>Search the R-faq and the R-windows-faq if it might be relevant (<a
+href="http://cran.r-project.org/faqs.html">http://cran.r-project.org/faqs.html</a>)
+
+<li>Read at least the relevant section in <a
+href="http://cran.r-project.org/doc/manuals/R-intro.pdf">An Introduction
+to R</a>
+
+<li>If the function is from a package accompanying a
+book, e.g., the MASS package, consult the
+book before posting
+
+<li>The R Wiki has a <a
+href="http://rwiki.sciviews.org/doku.php?id=getting-started:reference-cards:getting-help">section
+on finding functions and documentation</a>
+
+</ul>
+
+<b>Technical details of posting</b>: See <a
+href="http://www.r-project.org/mail.html#instructions">General Instructions</a>
+for more  details of the following:
+<ul>
+  <li>No HTML posting (harder to detect spam) (note that this is the
+  default in some mail clients - you may have to turn it off).  Note that
+  chances have become relatively high for 'HTMLified' e-mails to be
+  completely intercepted (without notice to the sender).
+  <li>No binary attachments except for PS, PDF, and some image and archive
+  formats (others are automatically stripped off because they can contain
+  malicious software). Files in other formats and larger ones should rather
+  be put on the web and have only their URLs posted.  This way a
+  reader has the option to download them or not.
+  <li>Use an informative subject line (not something like `question')
+  <li>For new subjects, compose a new message and include the
+  'r-help@R-project.org' (or 'r-devel@R-project.org') address
+  specifically. (Replying to an existing post and then changing the subject
+  messes up the threading in the archives and in many people's mail readers.)
+  <li>If you can't send from an email address that simply accepts replies,
+  then say so in your posting so that people are not inconvenienced when
+  they try to respond to your message
+  <li>Some consider it good manners to include a concise signature
+  specifying affiliation
+</ul>
+
+<p><b>Surprising behavior and bugs:</b> What you think is a
+  bug may be many other things,
+  such as a default behavior that you do not like, a feature, an
+  undocumented feature, or a bug in the documentation.  You do
+  not need to commit yourself to one of these in order to ask a
+  question.  If it is a real bug, someone will notice it.
+  Before you post a real bug
+  report, make sure you read <a
+href="http://CRAN.R-project.org/doc/FAQ/R-FAQ.html#R-Bugs">R
+Bugs</a> in the R-faq.  If you're not completely and utterly
+sure
+  something is a bug, post a question to r-help, not a bug
+  report to r-bugs - every bug report requires manual
+action by one of the R-core members.
+  Also, see Simon Tatham's essay on <a
+href="http://www.chiark.greenend.org.uk/~sgtatham/bugs.html">How
+to Report Bugs Effectively</a>.
+
+<p>For questions about unexpected behavior or a possible
+bug, you should, at a minimum, copy and paste the output
+from <code>sessionInfo()</code> into your message.  When
+mentioning version numbers, always use the full version
+number, e.g., `2.6.1', not just `2.6', and also mention the
+platform (Windows, Linux, MacOS X, with their versions).  Other
+potentially relevant details include the locale (type
+<code>Sys.getlocale()</code> at the R prompt), and whether
+you installed a pre-compiled binary version of R or compiled
+it yourself.  If the function is in a package other than
+`base', include the header output from
+<code>library(help=thatPackage)</code>.  If you are using an
+old version of R and think it does not work properly,
+upgrade to the latest version and try that, before posting.
+If possible, try the current R-patched or R-devel version of
+R (see the FAQ for details), to see if the problem has
+already been addressed.
+
+<p>For questions about functions in standard packages
+distributed with R (see the FAQ <a
+href="http://cran.r-project.org/doc/FAQ/R-FAQ.html#Add-on-packages-in-R">
+Add-on packages in R</a>), ask questions on R-help.  <br>
+If the question relates to a <em><a name="contrib_pkgs">contributed package</a>
+</em>, e.g., one downloaded from CRAN, try contacting the package maintainer
+first.  You can also use <code>find("functionname")</code> and
+<code>packageDescription("packagename")</code> to find this
+information. <b>Only</b> send such questions to R-help
+or R-devel if you get no reply or need further assistance.  This
+applies to both requests for help and to bug reports.
+
+<p>Don't say <em>`R crashed'</em>, which you may take to mean that R
+gave an error and terminated your piece of code, but most
+people will take to mean abnormal termination of the R
+program.  Say exactly what happened, including any error
+messages you received.
+
+<p><b>Examples:</b> Sometimes it helps to provide a <em>small</em>
+ example that someone can actually run.  For example:
+
+<pre>
+  If I have a matrix x as follows:
+  &gt; x &lt;- matrix(1:8, nrow=4, ncol=2,
+                dimnames=list(c("A","B","C","D"), c("x","y"))
+  &gt; x
+    x y
+  A 1 5
+  B 2 6
+  C 3 7
+  D 4 8
+  &gt;
+
+  how can I turn it into a dataframe with 8 rows, and three
+  columns named `row', `col', and `value', which have the
+  dimension names as the values of `row' and `col', like this:
+  &gt; x.df
+     row col value
+  1    A   x      1
+   ...
+  (To which the answer might be:
+  &gt; x.df &lt;- reshape(data.frame(row=rownames(x), x), direction="long",
+                    varying=list(colnames(x)), times=colnames(x),
+                    v.names="value", timevar="col", idvar="row")
+  )
+</pre>
+
+When providing examples, it is best to give an R command
+that constructs the data, as in the <code>matrix()</code>
+expression above.  For more complicated data structures,
+<code>dump("x", file=stdout())</code> will print an
+expression that will recreate the object <code>x</code>.
+
+<p><a name="further"><b>Further resources:</b></a> not
+always consulting these before posting is OK, except perhaps
+if you have a very general question and the topic of the
+document indicates immediate relevancy.  A response
+might just point you towards one of these.
+
+<ul>
+  <li><a
+href="http://cran.r-project.org/doc/manuals/R-exts.pdf">Writing
+R Extensions</a> covers packages, to and from C &amp; C++, R
+help files.
+
+  <li><a
+href="http://cran.r-project.org/doc/manuals/R-data.pdf">R
+Data Import/Export</a> covers reading from and exporting to other
+file formats
+
+  <li><a href="http://cran.r-project.org/doc/manuals/R-lang.pdf">R Language
+  Definition</a> (aka `R Language Manual') describes the R language, data
+  objects, etc.  This document specifies many details of R
+  that are not covered in the help pages or in "An
+  Introduction to R".
+
+  <li>The article `R Help Desk' by Uwe Ligges in the
+<a href="http://cran.r-project.org/doc/Rnews/Rnews_2003-1.pdf">R
+Newsletter Vol 3 No 1</a> has useful tips about where to find
+information about R.
+
+<li>Two books are often cited in answers to questions: <a
+href="http://www.stats.ox.ac.uk/pub/MASS4">Venables &amp;
+Ripley, 2002, Modern Applied Statistics with S (4th ed)</a>
+("MASS") and <a
+href="http://nlme.stat.wisc.edu/MEMSS">Pinheiro &amp; Bates,
+2000</a> (about lme in particular).  If you can get these
+books, look at them.  If you cannot, you might indicate this
+in your question.  Further books relevant to R are listed at
+<a
+href="http://www.r-project.org/doc/bib/R-publications.html">Publications</a>.
+
+<li>The <a
+href="http://cran.r-project.org/other-docs.html">Contributed
+Documentation</a> page lists a number of useful introductory
+and other documents available online.
+
+<li>The R-help archives (see under `Archives
+  and Search Facilities' at <a
+  href="http://www.r-project.org/mail.html">http://www.r-project.org/mail.html</a>)
+
+<li>The <a href="http://wiki.r-project.org/">R-Wiki</a> contains
+ documentation about R contributed by the R community, and Paul Johnson's
+ <a href="http://pj.freefaculty.org/R/Rtips.html">R tips</a>
+ page is a organized collection of how to do things in R,
+ with many questions and tips culled from R-help.
+
+<li>A Google search of the web in general or
+the r-project site specifically (put `site:r-project.org'
+at the beginning of the search terms)
+</ul>
+
+<p><b>Responding to other posts:</b>
+
+<ul>
+  <li>In general, respond both to the list and to the poster. This will result
+  in your response being archived and the poster will see your answer.
+  <li>Rudeness and ad hominem comments are not acceptable.  Brevity is OK.
+  <li>Take care when you quote other people's comments to respect their
+   rights, e.g., as summarized <a
+   href="http://www.jiscmail.ac.uk/policyandsecurity/copyrightissues.html">here</a>.
+   In particular:
+      <ul>
+	<li>Private messages should never be quoted without permission.
+	<li>The original authorship and meaning should always be clear.
+      </ul>
+   <li>It is common practice to quote prior messages in entirety.
+   <li>If you edit the quoted text from prior messages, include
+   sufficient context so that the content is clear even if your archived
+   message is referenced at a much later date and in isolation from other
+   messages.
+<li>When responding to a very simple question, use the following algorithm:
+    <ol>
+    <li> compose your response
+    <li> type <code>4*runif(1)</code> at the R prompt, and wait this many hours
+    <li> check for new posts to R-help; if no similar suggestion,
+        post your response
+    </ol>
+    (This is partly in jest, but if you know immediately why
+ it is suggested, you probably should use it!  Also, it's a
+ nice idea to replace 4 by the number of years you have been
+ using R or S-plus.)
+
+</ul>
+
+<b>Common posting mistakes:</b>
+
+<ul>
+
+<li>Missing or non-specific message subject
+
+<li>Not doing basic homework before posting a question
+
+<li>Not being more specific than `function xxx doesn't work'
+
+<li>Being overly specific and not stating your real goal.
+
+<li>Not including version and OS information in question regarding
+  unexpected behavior.
+
+<li>Finding a bug in an old version of R that has been fixed
+  in the most recent version.
+
+<li>Claiming that something is a bug when in fact the software
+  is working as intended and documented, just not in the way
+  you first expected.
+
+<li>Claiming that some commonly used function is not behaving
+  in a sensible manner (if you find the behavior odd, it's more
+  productive and polite to ask why it behaves the way
+  it does - after reading
+  the relevant documentation.)
+
+<li>Threatening not to use the software if you cannot get your question
+  answered. Even when intended as a statement of fact, this tends to
+  create negative attitudes.
+</ul>
+
+
+<b>Final words:</b>
+
+<p>
+It is a skill to ask good questions.  If at first you don't
+get the answers that are useful to you, don't get
+discouraged.  A response that is concise and technically
+accurate may be just that, and not an intended putdown.  If
+you feel insulted by some response to a post of yours, don't
+make any hasty response in return - you're more likely than not
+to regret it.  Read Eric Raymond's essay <a
+href="http://www.catb.org/~esr/faqs/smart-questions.html">How
+To Ask Questions The Smart Way</a> for more suggestions, and
+for insight into people's behavior on technical mailing
+lists (but don't try asking people at catb.org questions
+about R).
+</p>
+
+<p>
+Posters should be aware that the R lists are <em>public</em> discussion
+lists and anything you post will be <strong>archived and accessible</strong> via several
+websites for many years.
+<!-- to be done (see <a href="mailing-legalese.html"> link </a>). -->
+</p>
+
+<p><em><small>
+Compiled by Tony Plate (tplate at acm dot org), most recently updated
+July, 2013</small></em>
+</body>
+
+</html>

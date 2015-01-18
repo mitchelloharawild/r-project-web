@@ -1,0 +1,147 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html> 
+  <head> 
+    <meta http-equiv="Content-Type" content="text/html">
+    <title>
+      Google Summer of Code 2010 
+    </title>
+    <link rel=stylesheet type="text/css" href="../R.css"> 
+  </head> 
+ 
+  <body> 
+
+    <div align="center"><img src="2010soclogo.jpg" alt="GSoC 2010 logo"></div>
+ 
+    <h1>Projects 2010</h1>	
+    
+    <p>
+
+      As in <a href="../soc08/">2008</a> and
+      <a href="../soc09/">2009</a>,
+      the R Project has again participated in the
+      <a href="http://socghop.appspot.com/gsoc/org/show/google/gsoc2010/r_project">Google Summer of Code during 2010</a>. 
+    </p>
+
+    <p>
+      Based on 
+      <a href="http://rwiki.sciviews.org/doku.php?id=developers:projects:gsoc2010">ideas collected and disussed on the R Wiki</a>, 
+      the projects and students listed below (and sorted alphabetically by student) were selected for participation and have been 
+      sponsored by Google during the summer 2010.  
+
+    <p>
+      The finished projects are available via the 
+      <a href="http://code.google.com/p/google-summer-of-code-2010-r-project/">R / GSoC 2010 repository at Google Code</a>, and in
+      several cases also via their individual repos (see below).
+      Informal updates and final summaries on the work was also provided via the 
+      <a href="http://gsoc2010r.wordpress.com/">GSoC 2010 R group blog</a>. 
+    </p>
+	
+ 
+    <hr>
+    <h2>rdx - Automatic Differentiation in R</h2> 
+    <i>Chidambaram Annamalai, mentored by John Nash.</i> 
+ 
+    <p>
+      <strong>Proposal:</strong>
+      radx is a package to compute derivatives (of any order) of native R code for multivariate functions with vector outputs,
+      <code>f:R^m -> R^n</code>, through Automatic Differentiation (AD). Numerical evaluation of derivatives has widespread uses in many
+      fields. rdx will implement two modes for the computation of derivatives, the Forward and Reverse modes of AD, combining
+      which we can efficiently compute Jacobians and Hessians. Higher order derivatives will be evaluated through Univariate
+      Taylor Propagation.
+    </p> 
+    
+    <p>
+      <strong>Delivered:</strong>
+      Two packages 
+      <a href="http://github.com/quantumelixir/radx">radx: forward automatic differentiation in R</a> and
+      <a href="http://github.com/quantumelixir/tada">tada: templated automatic differentiation in C++</a> were created; see 
+      <a href="http://gsoc2010r.wordpress.com/2010/08/20/automatic-differentiation-in-r/">this blog post</a> for details.
+    </p> 
+
+ 
+    <hr> 
+    <h2>A GUI for Graphics using ggplot and Deducer</h2> 
+    <i>by Ian Fellows, mentored by Hadley Wickham.</i> 
+    
+    <p>
+      <strong>Proposal:</strong>
+      R puts the latest statistical techniques at one's fingertips through thousands of add-on packages available on the CRAN download
+      servers. The price for all of this power is complexity. Deducer is a cross-platform cross-console graphical user interface built
+      on top of R designed to reduce this complexity.
+
+      This project proposes to extend the scope of Deducer by creating an innovative yet intuitive system for generating statistical
+      graphics based on the ggplot2 package.
+    </p> 
+
+    <p>
+      <strong>Delivered:</strong>
+
+      All of the major features have been implemented, and are outlined in the video links in this 
+      <a href="http://gsoc2010r.wordpress.com/2010/08/04/ggplot2-gui-major-feature-set-complete/">blog post</a>.
+    </p> 
+ 
+    <hr> 
+    <h2>rgeos - an R wrapper for GEOS</h2> 
+    <i>by Colin Rundel, mentored by Roger Bivand.</i> 
+ 
+    <p>
+      <strong>Proposal:</strong>
+      At present there does not exist a robust geometry engine available to R, the tools that are available tend to be limited in
+      scope and do not easily integrate with existing spatial analysis tools. GEOS is a powerful open source geometry engine
+      written in C++ that implements spatial functions and operators from the OpenGIS Simple Features for SQL specification. rgeos
+      will make these tools available within R and will integrate with existing spatial data tools through the sp package.
+    </p> 
+
+    <p>
+      <strong>Delivered:</strong>
+      The <a href="https://r-forge.r-project.org/projects/rgeos/">rgeos</a> project on R-Forge; see the
+      final <a href="http://gsoc2010r.wordpress.com/2010/07/27/rgeos-update/">update blog post</a>. 
+    </p> 
+ 
+    <hr> 
+    <h2>Social Relations Analyses in R</h2> 
+    <i>by Felix Schoenbrodt, mentored by Stefan Schmukle.</i> 
+ 
+    <p>
+      <strong>Proposal:</strong>
+      Social Relations Analyses (SRAs; Kenny, 1994) are a <em>hot topic</em> both in personality and in social psychology. While more and
+      more research groups adopt the methodology, software solutions are lacking far behind - the main software for calculating
+      SRAs are two DOS programs from 1995, which have a lot of restrictions. My GSOC project will extend the functionality of
+      these existing programs and bring the power of SRAs into the R Environment for Statistical Computing as a state-of-the-art
+      package.
+    </p> 
+
+    <p>
+      <strong>Delivered:</strong>
+      The <a href="http://cran.r-project.org/web/packages/TripleR/index.html">TripleR</a> package is now on CRAN and hosted on RForge.Net; see this
+      <a href="http://gsoc2010r.wordpress.com/">blog post for updates</a>.
+    </p> 
+
+
+
+    <hr> 
+    <h2>NoSQL Interface for R</h2> 
+    <i>by Yasuhisa Yoshida, mentored by Dirk Eddelbuettel.</i> 
+ 
+    <p>
+      <strong>Proposal:</strong>
+      So-called NoSQL databases are becoming increasingly popular. They generally provide very efficient lookup of key/value pairs. I'll
+      provide several implementation of NoSQL interface for R. Beyond a sample interface package, I'll try to support generic
+      interface similar to what the DBI package does for SQL backends
+    </p> 
+
+    <p>
+      <strong>Status:</strong>
+      An initial prototype is available via <a href="http://github.com/syou6162/RTokyoCabinet">RTokyoCabinet on Github</a>.
+      No updates were made since June; no communication occurred with anybody 
+      related to the GSoC project since June and the project earned a fail.
+    </p> 
+
+    <hr> 
+    <p style="font-size:0.6em">
+<!-- hhmts start -->Last modified: September 22, 2010 by Friedrich Leisch
+<!-- hhmts end -->
+    </p>
+
+  </body> 
+</html> 
