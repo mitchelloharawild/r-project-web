@@ -2,7 +2,7 @@
 
 * [About R](/about.html)
 * [Contributors](/contributors.html)
-* [What's new?](/news.html)
+* [What's New?](/news.html)
 
 ## Download
 
@@ -10,7 +10,7 @@
 
 ## R Project
 
-* [Foundation](/foundation/main.html)
+* [Foundation](/foundation)
 * [Members & Donors](/foundation/memberlist.html)
 * [Mailing Lists](/mail.html)
 * [Bug Tracking](http://bugs.R-project.org)
