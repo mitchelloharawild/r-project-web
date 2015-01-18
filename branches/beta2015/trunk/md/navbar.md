@@ -9,7 +9,7 @@
 
 [CRAN](http://cran.r-project.org/mirrors.html)
 
-## R project
+## R Project
 
 * [About R](/about.html)
 * [Contributors](/contributors.html)
