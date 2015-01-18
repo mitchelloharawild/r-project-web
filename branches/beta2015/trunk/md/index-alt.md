@@ -40,7 +40,7 @@ Statistical Computing
 </tr>
 </table>
 
-Or install for your Linux distros: [Ubuntu](http://cran.rstudio.com/bin/linux/ubuntu/README.html), [Debian](http://cran.rstudio.com/bin/linux/debian/README.html), [Suse](http://cran.rstudio.com/bin/linux/suse/README.html), [RedHat](http://cran.rstudio.com/bin/linux/redhat/README).
+Or install for your Linux distro: [Ubuntu](http://cran.rstudio.com/bin/linux/ubuntu/README.html), [Debian](http://cran.rstudio.com/bin/linux/debian/README.html), [Suse](http://cran.rstudio.com/bin/linux/suse/README.html), [RedHat](http://cran.rstudio.com/bin/linux/redhat/README).
 
 ## What is R?
 
