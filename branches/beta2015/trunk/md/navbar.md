@@ -1,3 +1,5 @@
+![R](Rlogo.jpg)\ 
+
 ## About R
 
 * [What is R?](/about.html)
