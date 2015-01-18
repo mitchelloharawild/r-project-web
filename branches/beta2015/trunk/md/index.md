@@ -9,15 +9,46 @@ Statistical Computing
 
 **R version 3.1.2** (Pumpkin Helmet) was released on 2014-10-31. [Release notes](http://cran.rstudio.com/src/base/NEWS.html).
 
-Operating system  | Size | MD5
-------------------+------+------
-[Windows](http://cran.rstudio.com/bin/windows/base/R-3.1.2-win.exe)  | 54mb  | 9e3c0cd6311355e0d5f8e1085b288361
-[Mac OS 10.9+](http://cran.rstudio.com/bin/macosx/R-3.1.2-mavericks.pkg) | 55mb | d8fb6eaf80357dd058aa1691c684e091
-[Mac OS 10.6+](http://cran.rstudio.com/bin/macosx/R-3.1.2-snowleopard.pkg) | 68mb | 8a093200b567282932992decff5daf1d
-[Debian](http://cran.rstudio.com/bin/linux/ubuntu/README.html) | --- | ---
-[SUSE](http://cran.rstudio.com/bin/linux/suse/README.html) | --- | ---
-[RedHat](http://cran.rstudio.com/bin/linux/redhat/README) | --- | ---
-[Debian](http://cran.rstudio.com/bin/linux/debian/README.html) | --- | ---
+<table class="table">
+<thead>
+<tr class="header">
+<th align="left">Operating system</th>
+<th align="left">Size</th>
+<th align="left">MD5</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><a href="http://cran.rstudio.com/bin/windows/base/R-3.1.2-win.exe">Windows</a></td>
+<td align="left">54mb</td>
+<td align="left"><small>9e3c0cd6311355e0d5f8e1085b288361</small></td>
+</tr>
+<tr class="even">
+<td align="left"><a href="http://cran.rstudio.com/bin/macosx/R-3.1.2-mavericks.pkg">Mac OS 10.9+</a></td>
+<td align="left">55mb</td>
+<td align="left"><small>d8fb6eaf80357dd058aa1691c684e091</small></td>
+</tr>
+<tr class="odd">
+<td align="left"><a href="http://cran.rstudio.com/bin/macosx/R-3.1.2-snowleopard.pkg">Mac OS 10.6+</a></td>
+<td align="left">68mb</td>
+<td align="left"><small>8a093200b567282932992decff5daf1d</small></td>
+</tr>
+<tr class="even">
+<td align="left"><a href="http://cran.rstudio.com/bin/linux/ubuntu/README.html">Debian</a></td>
+<td align="left" colspan="2">—</td>
+</tr>
+<tr class="odd">
+<td align="left"><a href="http://cran.rstudio.com/bin/linux/suse/README.html">SUSE</a></td>
+<td align="left" colspan="2">—</td>
+</tr>
+<tr class="even">
+<td align="left"><a href="http://cran.rstudio.com/bin/linux/redhat/README">RedHat</a></td>
+<td align="left" colspan="2">—</td>
+</tr>
+<tr class="odd">
+<td align="left"><a href="http://cran.rstudio.com/bin/linux/debian/README.html">Debian</a></td>
+<td align="left" colspan="2">—</td>
+</table>
 
 ## What is R?
 

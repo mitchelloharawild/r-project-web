@@ -30,3 +30,7 @@ blockquote {
   padding-bottom: 0;
   padding-left: 1em;
 }
+
+table small {
+  color: #666;
+}
