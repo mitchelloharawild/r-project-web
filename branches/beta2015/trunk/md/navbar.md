@@ -1,4 +1,8 @@
+<div class="row">
+<div class="col-xs-4 col-sm-12">
+
 [![R](/Rlogo.jpg)](/)
+
 <small>[[Home]](/)</small>
 
 ## Download
@@ -15,6 +19,10 @@
 * [Conferences](/conferences.html)
 * [Search](/search.html)
 
+</div>
+
+<div class="col-xs-4 col-sm-12">
+
 ## R foundation
 
 * [Foundation](/foundation/)
@@ -22,7 +30,7 @@
 * [Members](/foundation/members.html)
 * [Donors](/foundation/donors.html)
 * [Donate](/foundation/donations.html)
- 
+
 ## Documentation
 
 * [Manuals](http://cran.r-project.org/manuals.html)
@@ -37,3 +45,5 @@
 * [Bioconductor](http://www.bioconductor.org)
 * [Related Projects](/other-projects.html)
 
+</div>
+</div>

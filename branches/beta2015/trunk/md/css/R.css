@@ -18,6 +18,9 @@ body {
   margin-top: 2em;
 }
 
+.sidebar {
+  margin-bottom: 3em;
+}
 .sidebar h2 {
   font-size: 1em;
   font-weight: bold;
