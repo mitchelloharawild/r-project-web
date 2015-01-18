@@ -45,7 +45,7 @@
 </div>
 <div class="col-xs-4 col-sm-12">
 
-## Misc
+## Links
  
 * [Bioconductor](http://www.bioconductor.org)
 * [Related Projects](/other-projects.html)
