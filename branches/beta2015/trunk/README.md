@@ -11,3 +11,11 @@ To preview the site, and automatically run make every second, run:
 devtools::install_github("yihui/servr")
 servr::httd("md")
 ```
+
+## Initial import
+
+```bash
+svn co https://svn.r-project.org/R-project-web/trunk/ html
+```
+
+Note that this repository contains files that only differ in case, so _must_ be checked out on a case-sensitive filing system.
