@@ -1,4 +1,4 @@
-## Board and Auditors
+# Board and Auditors
 
 Presidents:
 

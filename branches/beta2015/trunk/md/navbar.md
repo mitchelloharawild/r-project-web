@@ -1,21 +1,26 @@
 [![R](/Rlogo.jpg)](/)
 
-* [About R](/about.html)
-* [Contributors](/contributors.html)
-* [What's New?](/news.html)
-
 ## Download
 
 [CRAN](http://cran.r-project.org/mirrors.html)
 
-## R Project
+## R project
 
-* [Foundation](/foundation/)
-* [Members & Donors](/foundation/memberlist.html)
+* [About R](/about.html)
+* [Contributors](/contributors.html)
+* [What's New?](/news.html)
 * [Mailing Lists](/mail.html)
 * [Bug Tracking](http://bugs.R-project.org)
 * [Conferences](/conferences.html)
 * [Search](/search.html)
+
+## R foundation
+
+* [Foundation](/foundation/)
+* [Board](/foundation/board.html)
+* [Members](/foundation/members.html)
+* [Donors](/foundation/donors.html)
+* [Donate](/foundation/donations.html)
  
 ## Documentation
 

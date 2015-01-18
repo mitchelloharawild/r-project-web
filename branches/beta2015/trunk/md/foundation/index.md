@@ -1,9 +1,4 @@
-# The R foundation
-
-* [Board & Seat](board.html)
-* [Members](memberlist.html)
-* [Membership](membership.html)
-* [Donations](donations.html)
+# The R Foundation
 
 The R Foundation is a not for profit organization working in the public interest. It has been founded by the members of the R Development Core Team in order to
 

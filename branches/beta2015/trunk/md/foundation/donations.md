@@ -1,4 +1,4 @@
-## Donations to the R Foundation
+# Donate to the R Foundation
 
 If you want to donate money to the R Foundation, please fill out the [donation form](donation-form.pdf) and return it by fax or mail. All donors will be listed on the R project homepage and in one issue of [R News](http://cran.r-project.org/doc/Rnews/) per year (unless the respective donor prefers otherwise).
 
