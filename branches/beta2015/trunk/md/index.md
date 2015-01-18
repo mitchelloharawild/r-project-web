@@ -1,6 +1,8 @@
-# The R Project for Statistical Computing
+---
+title: The R Project for Statistical Computing
+---
 
-R is a language and environment for statistical computing, graphics and data analysis. R provides a wide variety of statistical (linear and nonlinear modelling, classical statistical tests, time-series analysis, classification, clustering, ...) and graphical techniques, and is highly extensible. R is available as Free Software under the terms of the [GNU General Public License v2](COPYING) in source code form. It compiles and runs on a wide variety platforms including Windows, Mac, and Linux.
+# The R Project for Statistical Computing
 
 ## Download R 
 
@@ -42,3 +44,5 @@ R is a **community**. R was first created by Ross Ihaka and Robert Gentleman at 
 
 -   [**useR! 2015**](http://www.r-project.org/useR-2015), will take
     place at the University of Aalborg, Denmark, June 30 - July 3, 2015.
+
+[More news](/news.html)

@@ -1,8 +1,6 @@
 [![R](/Rlogo.jpg)](/)
 
-## About R
-
-* [What is R?](/about.html)
+* [About R](/about.html)
 * [Contributors](/contributors.html)
 * [What's new?](/news.html)
 
