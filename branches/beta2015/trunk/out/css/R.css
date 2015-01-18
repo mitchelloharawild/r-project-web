@@ -1,0 +1,8 @@
+.sidebar h2 {
+  font-size: 1em;
+  font-weight: bold;
+}
+
+.sidebar ul {
+  padding-left: 0;
+}
