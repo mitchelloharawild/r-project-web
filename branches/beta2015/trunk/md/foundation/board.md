@@ -2,11 +2,11 @@
 
 Presidents:
 
-[Robert Gentleman](http://www.gene.com/scientists/our-scientists/robert-gentleman), [Ross Ihaka](https://www.stat.auckland.ac.nz/~ihaka/)
+[Duncan Murdoch](http://www.stats.uwo.ca/faculty/murdoch/), [Martyn Plummer](http://www.iarc.fr/en/staffdirectory/displaystaff.php?id=10118)
 
 Secretary General:
 
-[Friedrich Leisch](http://www.rali.boku.ac.at/leisch.html)
+[Martin Mächler](http://stat.ethz.ch/people/maechler)
 
 Treasurer:
 
@@ -14,9 +14,12 @@ Treasurer:
 
 Member at Large:
 
-[John Chambers](http://cm.bell-labs.com/cm/ms/departments/sia/jmc/index.html)
+[John Chambers](http://statweb.stanford.edu/~jmc4/) \
+[Brian Ripley](http://www.stats.ox.ac.uk/~ripley) \
+[Dirk Eddelbuettel](http://dirk.eddelbuettel.com)
 
-In addition, [Peter Dalgaard](http://www.biostat.ku.dk/~pd/) and [Martin Mächler](http://stat.ethz.ch/people/maechler) were elected as auditors.
+In addition, [Peter Dalgaard](http://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/pdmes)
+and [Roger Bivand](http://www.nhh.no/en/research-faculty/department-of-economics/sam/cv/bivand--roger-s.aspx) were elected as auditors.
 
 ## Seat and Address
 
