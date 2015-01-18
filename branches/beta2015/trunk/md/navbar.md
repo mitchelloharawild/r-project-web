@@ -23,7 +23,7 @@
 
 <div class="col-xs-4 col-sm-12">
 
-## R foundation
+## R Foundation
 
 * [Foundation](/foundation/)
 * [Board](/foundation/board.html)
