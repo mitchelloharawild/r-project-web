@@ -10,12 +10,12 @@ If you have questions about R like how to download and install the software, or 
 
 ## News                                                              
 
+-   [**The R Journal Volume 6/2**](http://journal.r-project.org) is available.                                                          
+
 -   **R version 3.1.2** (Pumpkin Helmet) has been released on 2014-10-31.                                                         
 
 -   **[useR! 2015](http://www.r-project.org/useR-2015)**, will take
     place at the University of Aalborg, Denmark, June 30 - July 3, 2015.
-
--   [**The R Journal Volume 6/1**](http://journal.r-project.org) is available.                                                          
 
 -   **[useR! 2014](http://www.r-project.org/useR-2014)**, took place at
     the University of California, Los Angeles, USA June 30 - July 3, 2014.                                                               
