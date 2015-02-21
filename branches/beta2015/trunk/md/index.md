@@ -10,9 +10,9 @@ If you have questions about R like how to download and install the software, or 
 
 ## News                                                              
 
--   [**R 3.2.0 (Full of Ingredients)**](http://cran.r-project.org/src/base-prerelease) prerelease versions will appear starting March 19. Final release is scheduled for April 16, 2015.                                           
+-   [**R 3.2.0 (Full of Ingredients) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting March 19. Final release is scheduled for April 16, 2015.                                           
 
--   [**R 3.1.3 (Smooth Sidewalk)**](http://cran.r-project.org/src/base-prerelease) prerelease versions will appear starting February 28. Final release is scheduled for March 9, 2015.                                           
+-   [**R 3.1.3 (Smooth Sidewalk) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting February 28. Final release is scheduled for March 9, 2015.                                           
 
 -   [**The R Journal Volume 6/2**](http://journal.r-project.org) is available.                                                          
 
