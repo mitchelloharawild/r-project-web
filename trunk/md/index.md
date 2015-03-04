@@ -10,16 +10,12 @@ If you have questions about R like how to download and install the software, or 
 
 ## News                                                              
 
--   [**R 3.2.0 (Full of Ingredients) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting March 19. Final release is scheduled for April 16, 2015.                                           
-
--   [**R 3.1.3 (Smooth Sidewalk) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting February 28. Final release is scheduled for March 9, 2015.                                           
-
--   [**The R Journal Volume 6/2**](http://journal.r-project.org) is available.                                                          
-
 -   **R version 3.1.2** (Pumpkin Helmet) has been released on 2014-10-31.                                                         
 
 -   **[useR! 2015](http://www.r-project.org/useR-2015)**, will take
     place at the University of Aalborg, Denmark, June 30 - July 3, 2015.
+
+-   [**The R Journal Volume 6/1**](http://journal.r-project.org) is available.                                                          
 
 -   **[useR! 2014](http://www.r-project.org/useR-2014)**, took place at
     the University of California, Los Angeles, USA June 30 - July 3, 2014.                                                               
