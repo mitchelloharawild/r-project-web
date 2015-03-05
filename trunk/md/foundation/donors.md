@@ -10,8 +10,6 @@ Annual membership fees for supporting members are:
 * Supporting institutions:      EUR 250
 * Supporting benefactors:       EUR 500
 
-To become a supporting member of the R Foundation, please fill out the [membership application form](membership-application.pdf) and return it by fax or mail. To renew your membership, please fill out the [membership renewal form](membership-renewal.pdf) and return it by fax or mail. All supporting members will be listed on the R project homepage and in one issue of [R News](http://cran.r-project.org/doc/Rnews/) per year (unless the respective member prefers otherwise).
-
 To become a supporting member of the R Foundation, please fill out the
 [membership application form](membership-application.pdf) and return it
 by fax or mail. To renew your membership, please fill out the
@@ -35,7 +33,7 @@ Benefactors
 -   HMS Analytical Software, Germany
 -   Institute of Mathematical Statistics (IMS), Ohio, USA
 -   Mango Solutions, Chippenliam, UK
--   Marc Schwartz, USA 
+-   Marc Schwartz, USA
 -   Merck and Co. Inc., USA
 -   Numbers Internation Pty Ltd,Australia
 -   OpenAnalytics, Belgium
