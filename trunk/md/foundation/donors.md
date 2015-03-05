@@ -32,7 +32,7 @@ Benefactors
 -   Greenwich Statistics, France
 -   HMS Analytical Software, Germany
 -   Institute of Mathematical Statistics (IMS), Ohio, USA
--   Mango Solutions, Chippenliam, UK
+-   Mango Solutions, UK
 -   Marc Schwartz, USA
 -   Merck and Co. Inc., USA
 -   Numbers Internation Pty Ltd,Australia
