@@ -10,9 +10,9 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
--   [**R 3.2.0 (Full of Ingredients) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting March 19. Final release is scheduled for April 16, 2015.
+-   [**R 3.2.0 (Full of Ingredients) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting March 19. Final release is scheduled for 2015-04-16.
 
--   [**R 3.1.3 (Smooth Sidewalk) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting February 28. Final release is scheduled for March 9, 2015.
+-   **R version 3.1.3** (Smooth Sidewalk) has been released on 2015-03-09.
 
 -   [**The R Journal Volume 6/2**](http://journal.r-project.org) is available.
 
@@ -24,4 +24,7 @@ If you have questions about R like how to download and install the software, or 
 -   **[useR! 2014](http://www.r-project.org/useR-2014)**, took place at
     the University of California, Los Angeles, USA June 30 - July 3, 2014.
 
--   **R version 3.0.3** (Warm Puppy) has been released on 2014-03-06.
+
+<!--- (Boilerplate for release run-in)
+-   [**R 3.1.3 (Smooth Sidewalk) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting February 28. Final release is scheduled for 2015-03-09.
+-->
