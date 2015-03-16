@@ -32,5 +32,5 @@ title: What's New?
 
 ## Changes in R
 
-New features and bug fixes of the latest release version of R are documented in the file [NEWS](http://cran.R-project.org/src/base/NEWS.html) (also contained in the R sources).
+New features and bug fixes of the latest release version of R are documented in the file [NEWS](http://cran.R-project.org/doc/manuals/r-release/NEWS.html) (also contained in the R sources).
 
