@@ -119,6 +119,7 @@ Donors
 -   Julian Stander (United Kingdom)
 -   Jeffrey R. Stevens (Germany)
 -   Stanford University, California (USA)
+-   Kevin Tappe (Germany)
 -   Transmitting Science (Spain)
 -   Università Cà Foscari Venezia (Italy)
 -   Université de Nantes (France)
@@ -150,6 +151,7 @@ Supporting Institutions
 -   Department of Biostatistics, Vanderbilt University School of
     Medicine, USA
 -   Department of Economics, Stockholm University, Sweden
+-   Department of Mathematical Sciences, Aalborg University, Denmark
 -   Department of Mathematics and Statistics, Utah State University,
     USA
 -   Department of Statistics, University of California at Los Angeles,
@@ -202,6 +204,7 @@ Supporting Institutions
 -   Marcel Baumgartner (Switzerland)
 -   Abdu Benheddi (Switzerland)
 -   Axel Benner (Germany)
+-   Michael Blanks (USA)
 -   Andrej Blejec (Slovenia)
 -   Simon Blomberg (Australia)
 -   Gordon Blunt (UK)
@@ -213,6 +216,7 @@ Supporting Institutions
 -   Roger J. Bos (USA)
 -   Jake Bowers (UK)
 -   Lance Brannmann (USA)
+-   Bernhard Brabec (Germany)
 -   Rollin Brant (Canada)
 -   Alessandra R. Brazzale (Italy)
 -   Julia Brettschneider (Canada)
@@ -260,6 +264,7 @@ Supporting Institutions
 -   Stephen Eglen (UK)
 -   Peter Ehlers (Canada)
 -   Martin Elff (Germany)
+-   Jay Emerson (USA)
 -   Werner Engl (Austria)
 -   Hubert Eser (Austria)
 -   Chris Evans (UK)
@@ -292,6 +297,7 @@ Supporting Institutions
 -   Balazs Györffy (Germany)
 -   Lorenz Gygax (Switzerland)
 -   Branimir K. Hackenberger (Croatia)
+-   Matthias Haeni (Switzerland)
 -   Florian Hahne (Germany)
 -   Frank Harrell (USA)
 -   Patrick Hausmann (Germany)
@@ -332,6 +338,7 @@ Supporting Institutions
 -   Ivan Kojadinovic (France)
 -   Katarzyna Kopczewska (Poland)
 -   Scott Kostyshak (USA)
+-   Jesse Krijthe (Netherlands)
 -   Diego Kuonen (Switzerland)
 -   Luca La Rocca (Italy)
 -   Mark J. van der Laan (USA)
@@ -358,6 +365,7 @@ Supporting Institutions
 -   Dieter Menne (Germany)
 -   Michael J. Messner (USA)
 -   Jacob J. Michaelson (USA)
+-   Hans Mielke (Germany)
 -   Alexander Miron (USA)
 -   Guido Möser (Germany)
 -   Fausto Molinari (Sweden)
@@ -367,6 +375,7 @@ Supporting Institutions
 -   Iago Mosqueira (Spain)
 -   Pavel Motuzenko (Czech Republic)
 -   Robert A. Muenchen (USA)
+-   Hannes Mühleisen (Netherlands)
 -   Marlene Müller (Germany)
 -   Katharine Mullen (Netherlands)
 -   Joris Muller (France)
