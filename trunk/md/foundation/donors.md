@@ -125,6 +125,7 @@ Donors
 -   Université de Nantes (France)
 -   Ravinderpal Vaid (USA)
 -   Boris Vaillant (Germany)
+-   Hrishikesh D. Vinod (USA)
 -   Ivo Welch
 -   Joshua Wiley (USA)
 -   Kevin Wright (USA)
