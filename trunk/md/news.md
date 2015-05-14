@@ -2,35 +2,39 @@
 title: What's New?
 ---
 
-## R-announce
-
-* [Archive of important announcements](https://stat.ethz.ch/pipermail/r-announce/2014/date.html#end) posted by the R Core Development team
-* [2013's R-announce messages](https://stat.ethz.ch/pipermail/r-announce/2013/date.html#end)
-* [2012's R-announce messages](https://stat.ethz.ch/pipermail/r-announce/2012/date.html#end)
-* [2011's R-announce messages](https://stat.ethz.ch/pipermail/r-announce/2011/date.html#end)
-* [2010's R-announce messages](https://stat.ethz.ch/pipermail/r-announce/2010/date.html#end)
-* [2009's R-announce messages](https://stat.ethz.ch/pipermail/r-announce/2009/date.html#end)
-* [2008's R-announce messages](https://stat.ethz.ch/pipermail/r-announce/2008/date.html#end)
-* [2007's R-announce messages](https://stat.ethz.ch/pipermail/r-announce/2007/date.html#end)
-* [2006's R-announce messages](https://stat.ethz.ch/pipermail/r-announce/2006/date.html#end)
-* [2005's R-announce messages](https://stat.ethz.ch/pipermail/r-announce/2005/date.html#end)
-* [2004's R-announce messages](https://stat.ethz.ch/pipermail/r-announce/2004/date.html#end)
-
-## R-packages
-
-* [Latest](https://stat.ethz.ch/pipermail/r-packages/2014/date.html#end) [Announcements](https://stat.ethz.ch/pipermail/r-packages/) of new or enhanced [contributed R packages](http://cran.R-project.org/src/contrib/), typically by the package authors.
-* [2013's announcements of R-packages](https://stat.ethz.ch/pipermail/r-packages/2013/date.html#end).
-* [2012's announcements of R-packages](https://stat.ethz.ch/pipermail/r-packages/2012/date.html#end).
-* [2011's announcements of R-packages](https://stat.ethz.ch/pipermail/r-packages/2011/date.html#end).
-* [2010's announcements of R-packages](https://stat.ethz.ch/pipermail/r-packages/2010/date.html#end).
-* [2009's announcements of R-packages](https://stat.ethz.ch/pipermail/r-packages/2009/date.html#end).
-* [2008's announcements of R-packages](https://stat.ethz.ch/pipermail/r-packages/2008/date.html#end).
-* [2007's announcements of R-packages](https://stat.ethz.ch/pipermail/r-packages/2007/date.html#end).
-* [2006's announcements of R-packages](https://stat.ethz.ch/pipermail/r-packages/2006/date.html#end).
-* [2005's announcements of R-packages](https://stat.ethz.ch/pipermail/r-packages/2005/date.html#end).
-* [2004's announcements of R-packages](https://stat.ethz.ch/pipermail/r-packages/2004/date.html#end).
-
 ## Changes in R
 
 New features and bug fixes of the latest release version of R are documented in the file [NEWS](http://cran.R-project.org/doc/manuals/r-release/NEWS.html) (also contained in the R sources).
 
+## R-announce
+
+Important announcements posted by the R Core Development team:
+
+* [R-announce messages 2015](https://stat.ethz.ch/pipermail/r-announce/2015/date.html#end)
+* [R-announce messages 2014](https://stat.ethz.ch/pipermail/r-announce/2014/date.html#end)
+* [R-announce messages 2013](https://stat.ethz.ch/pipermail/r-announce/2013/date.html#end)
+* [R-announce messages 2012](https://stat.ethz.ch/pipermail/r-announce/2012/date.html#end)
+* [R-announce messages 2011](https://stat.ethz.ch/pipermail/r-announce/2011/date.html#end)
+* [R-announce messages 2010](https://stat.ethz.ch/pipermail/r-announce/2010/date.html#end)
+* [R-announce messages 2009](https://stat.ethz.ch/pipermail/r-announce/2009/date.html#end)
+* [R-announce messages 2008](https://stat.ethz.ch/pipermail/r-announce/2008/date.html#end)
+* [R-announce messages 2007](https://stat.ethz.ch/pipermail/r-announce/2007/date.html#end)
+* [R-announce messages 2006](https://stat.ethz.ch/pipermail/r-announce/2006/date.html#end)
+* [R-announce messages 2005](https://stat.ethz.ch/pipermail/r-announce/2005/date.html#end)
+* [R-announce messages 2004](https://stat.ethz.ch/pipermail/r-announce/2004/date.html#end)
+
+## R-packages
+
+[Announcements](https://stat.ethz.ch/pipermail/r-packages/) of new or enhanced contributed R packages typically by the package authors:
+
+* [R-packages messages 2015](https://stat.ethz.ch/pipermail/r-packages/2015/date.html#end).
+* [R-packages messages 2014](https://stat.ethz.ch/pipermail/r-packages/2014/date.html#end).
+* [R-packages messages 2012](https://stat.ethz.ch/pipermail/r-packages/2012/date.html#end).
+* [R-packages messages 2011](https://stat.ethz.ch/pipermail/r-packages/2011/date.html#end).
+* [R-packages messages 2010](https://stat.ethz.ch/pipermail/r-packages/2010/date.html#end).
+* [R-packages messages 2009](https://stat.ethz.ch/pipermail/r-packages/2009/date.html#end).
+* [R-packages messages 2008](https://stat.ethz.ch/pipermail/r-packages/2008/date.html#end).
+* [R-packages messages 2007](https://stat.ethz.ch/pipermail/r-packages/2007/date.html#end).
+* [R-packages messages 2006](https://stat.ethz.ch/pipermail/r-packages/2006/date.html#end).
+* [R-packages messages 2005](https://stat.ethz.ch/pipermail/r-packages/2005/date.html#end).
+* [R-packages messages 2004](https://stat.ethz.ch/pipermail/r-packages/2004/date.html#end).
