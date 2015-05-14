@@ -1,6 +1,6 @@
 h1 {
   font-weight: bold;
-  margin-top: 0em;
+  margin-top: 0;
   margin-bottom: 0.8em;
   font-size: 2.5em;
 }
@@ -19,6 +19,8 @@ body {
   color: #444;
 }
 
+a:link {color: #3864BA;}
+
 .page {
   margin-top: 2em;
 }
@@ -26,6 +28,7 @@ body {
 .sidebar {
   margin-bottom: 3em;
 }
+
 .sidebar h2 {
   font-size: 1em;
   font-weight: bold;
