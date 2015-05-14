@@ -1,7 +1,7 @@
 <div class="row">
 <div class="col-xs-4 col-sm-12">
 
-[![R](/Rlogo.jpg)](/)
+<a href="/"><img src="/Rlogo.png" width="100" height="78" alt = "R" /></a>
 
 <small>[[Home]](/)</small>
 
