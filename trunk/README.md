@@ -8,5 +8,5 @@ To preview the site run:
 
 ```R
 # install.packages("servr")
-servr::httd("md")
+servr::make("md")
 ```
