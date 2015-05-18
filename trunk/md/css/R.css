@@ -69,3 +69,10 @@ table small {
   font-size: 90%;
   color: #666;
 }
+
+/* Current OS on home page */
+
+.selected a:link, .selected a:visited {
+  font-weight: bold;
+}
+.selected {background-color: #eee;}
