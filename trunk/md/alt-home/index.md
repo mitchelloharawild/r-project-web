@@ -21,7 +21,7 @@ title: The R Project for Statistical Computing
 <td align="left"><small>9e3c0cd6311355e0d5f8e1085b288361</small></td>
 </tr>
 <tr class="even" id="mac">
-<td align="left><a href="http://cran.r-project.org/bin/macosx/R-3.1.2-mavericks.pkg" data-path="bin/macosx/R-3.1.2-mavericks.pkg">Mac OS 10.9+</a></td>
+<td align="left"><a href="http://cran.r-project.org/bin/macosx/R-3.1.2-mavericks.pkg" data-path="bin/macosx/R-3.1.2-mavericks.pkg">Mac OS 10.9+</a></td>
 <td align="left">55&nbsp;<span class="initialism">MB</span></td>
 <td align="left"><small>d8fb6eaf80357dd058aa1691c684e091</small></td>
 </tr>
