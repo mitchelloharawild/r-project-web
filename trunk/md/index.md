@@ -10,8 +10,7 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
--
-    [**R 3.2.1 (World-Famous Astronaut) prerelease versions**](http://cran.r-project.org/src/base-prerelease)
+-   [**R 3.2.1 (World-Famous Astronaut) prerelease versions**](http://cran.r-project.org/src/base-prerelease)
     will appear starting June 8. Final release is scheduled for 2015-06-18. 
 
 -   **R version 3.2.0** (Full of Ingredients) has been released on 2015-04-16.
