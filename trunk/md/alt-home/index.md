@@ -4,7 +4,7 @@ title: The R Project for Statistical Computing
 
 ## Download R 
 
-**R version 3.2.0** (Pumpkin Helmet) was released on 2014-10-31. [Release notes](http://cran.r-project.org/doc/manuals/r-release/NEWS.html).
+**R version 3.2.0** (Pumpkin Helmet) was released on 2015-04-16. [Release notes](http://cran.r-project.org/doc/manuals/r-release/NEWS.html).
 
 <table class="table table-hover" id="rtable">
 <thead>
@@ -68,7 +68,7 @@ $.getJSON("mirrors.json", function(data) {
     return "<option value='" + key + "'>" + val + "</option>";
   });
   $("#rtable").
-    after("<p>CRAN mirror: <select id='mirror' name='mirror'>" + items.join("") + "</select></p>");
+    after("<p class='form-inline'>CRAN mirror: <select id='mirror' class='input-sm form-control' name='mirror'>" + items.join("") + "</select></p>");
   mirror = $("#mirror").
     change(function() {
       change_mirror();
@@ -100,15 +100,20 @@ R is a **community**. R was first created by Ross Ihaka and Robert Gentleman at 
 
 ## News
 
--   [**The R Journal Volume 6/1**](http://journal.r-project.org) is available.
+-   **R version 3.2.0** (Full of Ingredients) has been released on 2015-04-16.
 
--   [**useR! 2014**](http://www.r-project.org/useR-2014), took place at
-    the University of California, Los Angeles, USA June 30 - July 3,
-    2014.
+-   **R version 3.1.3** (Smooth Sidewalk) has been released on 2015-03-09.
 
--   **R version 3.0.3** (Warm Puppy) has been released on 2014-03-06.
+-   [**The R Journal Volume 6/2**](http://journal.r-project.org) is available.
 
--   [**useR! 2015**](http://www.r-project.org/useR-2015), will take
+-   **[useR! 2015](http://www.r-project.org/useR-2015)**, will take
     place at the University of Aalborg, Denmark, June 30 - July 3, 2015.
+
+-   **[useR! 2014](http://www.r-project.org/useR-2014)**, took place at
+    the University of California, Los Angeles, USA June 30 - July 3, 2014.
+
+<!--- (Boilerplate for release run-in)
+-   [**R 3.1.3 (Smooth Sidewalk) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting February 28. Final release is scheduled for 2015-03-09.
+-->
 
 [More news](/news.html)
