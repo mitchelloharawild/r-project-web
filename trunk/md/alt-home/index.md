@@ -18,28 +18,28 @@ R is a free software environment for statistical computing and graphics. It comp
 </thead>
 <tbody>
 <tr class="odd" id="win">
-<td align="left"><a href="http://cran.r-project.org/bin/windows/base/R-3.2.0-win.exe" data-path="bin/windows/base/R-3.2.0-win.exe">Windows</a></td>
+<td align="left"><a href="http://cran.r-project.org/bin/windows/base/R-3.2.0-win.exe">Windows</a></td>
 <td align="left">54&nbsp;<span class="initialism">MB</span></td>
 <td align="left"><small>9e3c0cd6311355e0d5f8e1085b288361</small></td>
 </tr>
 <tr class="even" id="mac">
-<td align="left"><a href="http://cran.r-project.org/bin/macosx/R-3.2.0-mavericks.pkg" data-path="bin/macosx/R-3.2.0-mavericks.pkg">Mac OS 10.9+</a></td>
+<td align="left"><a href="http://cran.r-project.org/bin/macosx/R-3.2.0-mavericks.pkg">Mac OS 10.9+</a></td>
 <td align="left">55&nbsp;<span class="initialism">MB</span></td>
 <td align="left"><small>d8fb6eaf80357dd058aa1691c684e091</small></td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="http://cran.r-project.org/bin/macosx/R-3.2.0-snowleopard.pkg" data-path="bin/macosx/R-3.2.0-snowleopard.pkg">Mac OS 10.6+</a></td>
+<td align="left"><a href="http://cran.r-project.org/bin/macosx/R-3.2.0-snowleopard.pkg">Mac OS 10.6+</a></td>
 <td align="left">68&nbsp;<span class="initialism">MB</span></td>
 <td align="left"><small>8a093200b567282932992decff5daf1d</small></td>
 </tr>
 <tr class="even" id="lin">
 <td align="left" colspan="3">
-<a href="http://cran.r-project.org/bin/linux/ubuntu/README.html" data-path="bin/linux/ubuntu/README.html">Ubuntu</a>,
-<a href="http://cran.r-project.org/bin/linux/debian/README.html" data-path="bin/linux/debian/README.html">Debian</a>, <a href="http://cran.r-project.org/bin/linux/suse/README.html" data-path="bin/linux/suse/README.html">Suse</a>, <a href="http://cran.r-project.org/bin/linux/redhat/README" data-path="bin/linux/redhat/README">RedHat</a>
+<a href="http://cran.r-project.org/bin/linux/ubuntu/README.html">Ubuntu</a>,
+<a href="http://cran.r-project.org/bin/linux/debian/README.html">Debian</a>, <a href="http://cran.r-project.org/bin/linux/suse/README.html">Suse</a>, <a href="http://cran.r-project.org/bin/linux/redhat/README">RedHat</a>
 </td>
 </tr>
 <tr class="odd">
-<td align="left"><a href="http://cran.r-project.org/src/base/R-3/R-3.2.0.tar.gz" data-path="src/base/R-3/R-3.2.0.tar.gz">Source</a></td>
+<td align="left"><a href="http://cran.r-project.org/src/base/R-3/R-3.2.0.tar.gz">Source</a></td>
 <td align="left">29&nbsp;<span class="initialism">MB</span></td>
 <td align="left"><small>7fe19567fdd32f1a86dd8bec13a666d2</small></td>
 </tr>
@@ -54,6 +54,12 @@ if (/Mac/.test(platform))
   $("#mac").addClass("selected");
 if (/Linux/.test(platform))
   $("#lin").addClass("selected");
+
+var cran = new RegExp("^http://cran.r-project.org/");
+$("#rtable a").each(function(i, x) {
+  if (x.href.match(cran))
+    x.dataset.path = x.href.replace(cran, "");
+})
 
 // From: http://diveintohtml5.info/storage.html
 function has_storage() {
