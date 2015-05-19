@@ -2,7 +2,7 @@
 title: The R Project for Statistical Computing
 ---
 
-R is an open source programming langage and software environment for data analysis, statistical computing and visualisation. It compiles and runs on Windows, Mac OS and a wide variety of linuxes. 
+R is an open source programming langage and software environment for data analysis, statistical computing, and visualisation. It compiles and runs on Windows, Mac OS, and a wide variety of linuxes. 
 
 ## Download R 
 
