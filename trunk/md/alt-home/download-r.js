@@ -1,3 +1,5 @@
+// Add class to current platform ----------------------------------
+
 var platform = window.navigator.platform;
 if (/Windows/.test(platform))
   $("#win").addClass("selected");
@@ -5,6 +7,8 @@ if (/Mac/.test(platform))
   $("#mac").addClass("selected");
 if (/Linux/.test(platform))
   $("#lin").addClass("selected");
+
+// Update CRAN links to selected mirror ---------------------------
 
 var cran = new RegExp("^http://cran.r-project.org/");
 $("#rtable a").each(function(i, x) {
@@ -24,13 +28,6 @@ function has_storage() {
   }
 }
 
-function change_mirror() {
-  $("#rtable a").each(function(i, x) {
-    x.href = mirror.val() + x.dataset.path;
-  });
-}
-
-var mirror;
 $.getJSON("mirrors.json", function(data) {
   var items = $.map(data, function(key, val){
     return "<option value='" + key + "'>" + val + "</option>";
@@ -38,13 +35,18 @@ $.getJSON("mirrors.json", function(data) {
   
   $("#rtable").
     after("<p class='form-inline'>CRAN mirror: <select id='mirror' class='input-sm form-control' name='mirror'>" + items.join("") + "</select></p>");
-  
-  mirror = $("#mirror").
-    change(function() {
-      change_mirror();
-      if (has_storage())
-        localStorage.mirror = mirror.val();
+
+  var mirror = $("#mirror");
+  function change_mirror() {
+    $("#rtable a").each(function(i, x) {
+      x.href = mirror.val() + x.dataset.path;
     });
+  }
+  mirror.on("change", function() {
+    change_mirror();
+    if (has_storage())
+      localStorage.mirror = mirror.val();
+  });
   if (has_storage() && localStorage.mirror !== undefined)
     mirror.val(localStorage.mirror);
   change_mirror();
