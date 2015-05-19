@@ -2,6 +2,8 @@
 title: The R Project for Statistical Computing
 ---
 
+R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. 
+
 ## Download R 
 
 **R version 3.2.0** (Pumpkin Helmet) was released on 2015-04-16. [Release notes](http://cran.r-project.org/doc/manuals/r-release/NEWS.html).
@@ -31,6 +33,12 @@ title: The R Project for Statistical Computing
 <td align="left"><small>8a093200b567282932992decff5daf1d</small></td>
 </tr>
 <tr class="even" id="lin">
+<td align="left" colspan="3">
+<a href="http://cran.r-project.org/bin/linux/ubuntu/README.html" data-path="bin/linux/ubuntu/README.html">Ubuntu</a>,
+<a href="http://cran.r-project.org/bin/linux/debian/README.html" data-path="bin/linux/debian/README.html">Debian</a>, <a href="http://cran.r-project.org/bin/linux/suse/README.html" data-path="bin/linux/suse/README.html">Suse</a>, <a href="http://cran.r-project.org/bin/linux/redhat/README" data-path="bin/linux/redhat/README">RedHat</a>
+</td>
+</tr>
+<tr class="odd">
 <td align="left"><a href="http://cran.r-project.org/src/base/R-3/R-3.2.0.tar.gz" data-path="src/base/R-3/R-3.2.0.tar.gz">Source</a></td>
 <td align="left">29&nbsp;<span class="initialism">MB</span></td>
 <td align="left"><small>7fe19567fdd32f1a86dd8bec13a666d2</small></td>
@@ -82,21 +90,7 @@ $.getJSON("mirrors.json", function(data) {
 </script>
 
 
-Or install for your Linux distro: [Ubuntu](http://cran.r-project.org/bin/linux/ubuntu/README.html), [Debian](http://cran.r-project.org/bin/linux/debian/README.html), [Suse](http://cran.r-project.org/bin/linux/suse/README.html), [RedHat](http://cran.r-project.org/bin/linux/redhat/README).
-
-## What is R?
-
-R is **data analysis software**: data scientists, statisticians, analysts, quants, and others who need to make sense of data use R for statistical analysis, data visualization, and predictive modeling.
-
-R is a **programming language**: you do data analysis in R by writing scripts and functions in the R programming language. R is a complete, interactive, object-oriented language: designed by statisticians, for statisticians. The language provides objects, operators and functions that make it easy to explore, model, and visualize data.
-
-R is an **environment for statistical analysis**: functions for virtually every data manipulation, statistical model, or chart you could ever need are available in base-R or a contributed package. Most cutting-edge research in statistics and predictive modeling is done in R, so the latest techniques are usually available first in the R.
-
-R is [GPL](COPYING) **open-source software**: not only does this mean that you can download and use R for free, but the source code is also open for inspection and modification to anyone who wants to see how the methods and algorithms work. Like other successful open-source projects such as Linux and MySQL, R has benefited for over 15 years from the “many-eyes” approach to code improvement, and as a result has an extremely high standard of quality and numerical accuracy. Also, as with all open-source systems R has open interfaces, meaning that it readily integrates with other applications and systems. 
-
-R is a **community**. R was first created by Ross Ihaka and Robert Gentleman at the University of Auckland in 1993, and since then the [project leadership](contributors.html) has grown to include more than 20 leading statisticians and computer scientists from around the world. In addition, thousands of others have contributed additional functionality to the R language by creating add-on “packages” for use by the 2 million users of R worldwide. As a result, there is a strong and vibrant community of R users on-line.
-
-(Contributed by David Smith)
+If you have questions about R, like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
 
