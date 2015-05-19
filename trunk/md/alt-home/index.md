@@ -46,54 +46,7 @@ R is a free software environment for statistical computing and graphics. It comp
 </table>
 
 <script src="jquery-1.11.3.min.js"></script>
-<script>
-var platform = window.navigator.platform;
-if (/Windows/.test(platform))
-  $("#win").addClass("selected");
-if (/Mac/.test(platform))
-  $("#mac").addClass("selected");
-if (/Linux/.test(platform))
-  $("#lin").addClass("selected");
-
-var cran = new RegExp("^http://cran.r-project.org/");
-$("#rtable a").each(function(i, x) {
-  if (x.href.match(cran))
-    x.dataset.path = x.href.replace(cran, "");
-})
-
-// From: http://diveintohtml5.info/storage.html
-function has_storage() {
-  try {
-    return 'localStorage' in window && window['localStorage'] !== null;
-  } catch (e) {
-    return false;
-  }
-}
-
-function change_mirror() {
-  $("#rtable a").each(function(i) {
-    this.href = mirror.val() + this.dataset.path;
-  });
-}
-
-var mirror;
-$.getJSON("mirrors.json", function(data) {
-  var items = $.map(data, function(key, val){
-    return "<option value='" + key + "'>" + val + "</option>";
-  });
-  $("#rtable").
-    after("<p class='form-inline'>CRAN mirror: <select id='mirror' class='input-sm form-control' name='mirror'>" + items.join("") + "</select></p>");
-  mirror = $("#mirror").
-    change(function() {
-      change_mirror();
-      if (has_storage())
-        localStorage["mirror"] = mirror.val();
-    });
-  if (has_storage() && localStorage["mirror"] !== undefined)
-    mirror.val(localStorage["mirror"]);
-  change_mirror();
-});
-</script>
+<script src="download-r.js"></script>
 
 
 If you have questions about R, like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
