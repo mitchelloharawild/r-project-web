@@ -2,11 +2,11 @@
 title: The R Project for Statistical Computing
 ---
 
-R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. 
+R is an open source programming langage and software environment for data analysis, statistical computing and visualisation. It compiles and runs on Windows, Mac OS and a wide variety of linuxes. 
 
 ## Download R 
 
-**R version 3.2.0** (Pumpkin Helmet) was released on 2015-04-16. [Release notes](http://cran.r-project.org/doc/manuals/r-release/NEWS.html).
+**R version 3.2.0** (Full of Ingredients) was released on 2015-04-16. [Release notes](http://cran.r-project.org/doc/manuals/r-release/NEWS.html).
 
 <table class="table table-hover" id="rtable">
 <thead>

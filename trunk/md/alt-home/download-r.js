@@ -25,8 +25,8 @@ function has_storage() {
 }
 
 function change_mirror() {
-  $("#rtable a").each(function(i) {
-    this.href = mirror.val() + this.dataset.path;
+  $("#rtable a").each(function(i, x) {
+    x.href = mirror.val() + x.dataset.path;
   });
 }
 
@@ -35,8 +35,10 @@ $.getJSON("mirrors.json", function(data) {
   var items = $.map(data, function(key, val){
     return "<option value='" + key + "'>" + val + "</option>";
   });
+  
   $("#rtable").
     after("<p class='form-inline'>CRAN mirror: <select id='mirror' class='input-sm form-control' name='mirror'>" + items.join("") + "</select></p>");
+  
   mirror = $("#mirror").
     change(function() {
       change_mirror();
