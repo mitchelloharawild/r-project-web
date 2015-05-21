@@ -20,7 +20,7 @@ There have been two, now three widely used mailing lists for questions and discu
 Questions likely to prompt discussion unintelligible to non-programmers should rather
 go to R-devel than R-help.
 Questions about _package development_, however, e.g., passing `R CMD check` should go
-to `R-package-devel` rather than `R-devel`.
+to `R-package-devel` rather than R-devel.
 For example, questions involving C, C++, etc. code should go to R-devel. More general
 questions involving pure R code and questions likely to be of interest to
 the large and diverse set of subscribers to R-help should go to R-help.\
