@@ -3,9 +3,9 @@ title: Mailing Lists
 ---
 
 
-**Please** read the [instructions](#instructions) below and the [posting guide](posting-guide.html) *before* sending anything to any mailing list! 
+**Please** read the [instructions](#instructions) below and the [posting guide](posting-guide.html) *before* sending anything to any mailing list!
 
-Thanks to Martin Maechler (and ETH Zurich), there are four general mailing lists devoted to *R*.
+Thanks to Martin Maechler (and ETH Zurich), there are five general mailing lists devoted to *R*.
 
 ## R-announce
 
@@ -27,7 +27,7 @@ There may be some overlap of topics with the `R-devel` mailing list, as before t
 
 ## R-devel
 
-This list is intended for questions and discussion about code development in *R*.  Questions likely to prompt discussion unintelligible to non-programmers or topics that are too technical for R-help's audience should go to R-devel, *unless* they are specifically about problems in R package development where the `R-package-devel` list is appropriate, see also [the posting guide section](posting-guide.html#which_list).  The list is also for proposals of new functionality for *R*, and pre-testing of new versions.  It is meant particularly for those who maintain an active position in the development of *R*. 
+This list is intended for questions and discussion about code development in *R*.  Questions likely to prompt discussion unintelligible to non-programmers or topics that are too technical for R-help's audience should go to R-devel, *unless* they are specifically about problems in R package development where the `R-package-devel` list is appropriate, see also [the posting guide section](posting-guide.html#which_list).  The list is also for proposals of new functionality for *R*, and pre-testing of new versions.  It is meant particularly for those who maintain an active position in the development of *R*.
 
 If you don't want to receive more than a daily message, you can subscribe and choose digests (in plain or MIME format). Use the [web interface](http://stat.ethz.ch/mailman/listinfo/r-devel) for information, subscription, archives, etc.
 
@@ -43,13 +43,13 @@ Note that the list is *moderated*. However, CRAN package authors (and others, si
 
 Additionally, there are several specific ***S**pecial **I**nterest **G**roup* (=: SIG) mailing lists; however do post to *only one* list at time ('SIG' or general one), cross-posting is considered to be impolite.
 
-* [`R-SIG-Mac`](https://stat.ethz.ch/mailman/listinfo/r-sig-mac): 
+* [`R-SIG-Mac`](https://stat.ethz.ch/mailman/listinfo/r-sig-mac):
   R Special Interest Group on Mac ports of R
 
 * [`R-SIG-DB`](https://stat.ethz.ch/mailman/listinfo/r-sig-db):
   R SIG on Database Interfaces
 
-* [`R-SIG-Debian`](https://stat.ethz.ch/mailman/listinfo/r-sig-debian): 
+* [`R-SIG-Debian`](https://stat.ethz.ch/mailman/listinfo/r-sig-debian):
   R Special Interest Group for Debian ports of R
 
 * [`R-SIG-dynamic-models`](https://stat.ethz.ch/mailman/listinfo/r-sig-dynamic-models):
@@ -100,7 +100,7 @@ Additionally, there are several specific ***S**pecial **I**nterest **G**roup* (=
 * [`R-SIG-QA`](https://stat.ethz.ch/mailman/listinfo/r-sig-qa):
   R SIG on Quality Assurance & Validation
 
-* [`R-SIG-Robust`](https://stat.ethz.ch/mailman/listinfo/r-sig-robust): 
+* [`R-SIG-Robust`](https://stat.ethz.ch/mailman/listinfo/r-sig-robust):
   R SIG on Robust Statistics
 
 * [`R-SIG-teaching`](https://stat.ethz.ch/mailman/listinfo/r-sig-teaching):
