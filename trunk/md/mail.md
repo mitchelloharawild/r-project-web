@@ -13,23 +13,31 @@ This list is for *major* announcements about the development of *R* and the avai
 
 Note that the list is *moderated* to be used for announcements mainly by the R Core Development Team. Use the [web interface](http://stat.ethz.ch/mailman/listinfo/r-announce) for information, subscription, archives, etc.
 
-## R-packages
-
-This list is for *announcements* as well, usually on the availability of new or enhanced contributed packages (on [CRAN](http://cran.r-project.org/), typically).
-
-Note that the list is *moderated*. However, CRAN package authors (and others, similarly qualified) can freely post. As with R-announce, all messages to `R-packages` are automatically forwarded to the main `R-help` mailing list; we still recommend to subscribe to R-packages if you read R-help only in digest form. Use the [web interface](http://stat.ethz.ch/mailman/listinfo/r-packages) for information, subscription, archives, etc.
-
 ## R-help
 
 The ‘main’ *R* mailing list, for discussion about problems and solutions using *R*, announcements (not covered by ‘R-announce’ or ‘R-packages’, see above), about the availability of new functionality for *R* and documentation of *R*, comparison and compatibility with *S-plus*, and for the posting of nice examples and benchmarks. Do read the [posting guide](posting-guide.html) *before* sending anything!
 
 This has become quite an active list with dozens of messages per day. An alternative is to subscribe and choose daily digests (in plain or MIME format). Use the [web interface](http://stat.ethz.ch/mailman/listinfo/r-help) for information, subscription, archives, etc.
 
+## R-package-devel
+
+is to get help about *package development* in R, i.e., to provide a forum for learning about the package development process,  a community of R package developers who can help each other solve problems, and reduce some of the burden on the [CRAN](http://cran.r-project.org/) maintainers. If you are having problems developing a package or passing R CMD check, this is the place to ask!
+
+There may be some overlap of topics with the `R-devel` mailing list, as before the existence of `R-package-devel`, many package developers had used `R-devel` instead. Beware that *cross-posting* to both lists is generally considered as *impolite*.  For subscription and more, please read and use the [web interface](http://stat.ethz.ch/mailman/listinfo/r-package-devel).
+
 ## R-devel
 
-This list is intended for questions and discussion about code development in *R*. Questions likely to prompt discussion unintelligible to non-programmers or topics that are too technical for R-help's audience should go to R-devel, see [the posting guide section](posting-guide.html#which_list). The list is also for proposals of new functionality for *R*, and pre-testing of new versions. It is meant particularly for those who maintain an active position in the development of *R*. Therefore, it also receives all (filtered, i.e. non-spam!) bug reports from [R-bugs](http://bugs.R-project.org/).
+This list is intended for questions and discussion about code development in *R*.  Questions likely to prompt discussion unintelligible to non-programmers or topics that are too technical for R-help's audience should go to R-devel, *unless* they are specifically about problems in R package development where the `R-package-devel` list is appropriate, see also [the posting guide section](posting-guide.html#which_list).  The list is also for proposals of new functionality for *R*, and pre-testing of new versions.  It is meant particularly for those who maintain an active position in the development of *R*. 
 
 If you don't want to receive more than a daily message, you can subscribe and choose digests (in plain or MIME format). Use the [web interface](http://stat.ethz.ch/mailman/listinfo/r-devel) for information, subscription, archives, etc.
+
+
+## R-packages
+
+This list is for *announcements* as well, usually on the availability of new or enhanced contributed packages (on [CRAN](http://cran.r-project.org/), typically).
+
+Note that the list is *moderated*. However, CRAN package authors (and others, similarly qualified) can freely post. As with R-announce, all messages to `R-packages` are automatically forwarded to the main `R-help` mailing list; we still recommend to subscribe to R-packages if you read R-help only in digest form. Use the [web interface](http://stat.ethz.ch/mailman/listinfo/r-packages) for information, subscription, archives, etc.
+
 
 ## Special Interest Groups
 
