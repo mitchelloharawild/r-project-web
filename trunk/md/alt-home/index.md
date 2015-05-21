@@ -2,52 +2,32 @@
 title: The R Project for Statistical Computing
 ---
 
-R is an open source programming langage and software environment for data analysis, statistical computing, and visualisation. It compiles and runs on Windows, Mac OS, and a wide variety of linuxes. 
+R is an open source programming langage and software environment for data analysis, statistical computing, and visualisation. It compiles and runs on Windows, Mac OS, and a wide variety of Linuxes. 
 
 ## Download R 
 
-**R version 3.2.0** (Full of Ingredients) was released on 2015-04-16. [Release notes](http://cran.r-project.org/doc/manuals/r-release/NEWS.html).
+<div class="downloads">
+<p><strong>R version 3.2.0</strong> (Full of Ingredients) was <a href="http://cran.r-project.org/doc/manuals/r-release/NEWS.html">released on</a> on 2015-04-16.</p>
 
-<table class="table table-hover" id="rtable">
-<thead>
-<tr class="header">
-<th align="left">Operating system</th>
-<th align="left">Size</th>
-<th align="left">MD5</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd" id="win">
-<td align="left"><a href="http://cran.r-project.org/bin/windows/base/R-3.2.0-win.exe">Windows</a></td>
-<td align="left">54&nbsp;<span class="initialism">MB</span></td>
-<td align="left"><small>9e3c0cd6311355e0d5f8e1085b288361</small></td>
-</tr>
-<tr class="even" id="mac">
-<td align="left"><a href="http://cran.r-project.org/bin/macosx/R-3.2.0-mavericks.pkg">Mac OS 10.9+</a></td>
-<td align="left">55&nbsp;<span class="initialism">MB</span></td>
-<td align="left"><small>d8fb6eaf80357dd058aa1691c684e091</small></td>
-</tr>
-<tr class="odd">
-<td align="left"><a href="http://cran.r-project.org/bin/macosx/R-3.2.0-snowleopard.pkg">Mac OS 10.6+</a></td>
-<td align="left">68&nbsp;<span class="initialism">MB</span></td>
-<td align="left"><small>8a093200b567282932992decff5daf1d</small></td>
-</tr>
-<tr class="even" id="lin">
-<td align="left" colspan="3">
-<a href="http://cran.r-project.org/bin/linux/ubuntu/README.html">Ubuntu</a>,
-<a href="http://cran.r-project.org/bin/linux/debian/README.html">Debian</a>, <a href="http://cran.r-project.org/bin/linux/suse/README.html">Suse</a>, <a href="http://cran.r-project.org/bin/linux/redhat/README">RedHat</a>
-</td>
-</tr>
-<tr class="odd">
-<td align="left"><a href="http://cran.r-project.org/src/base/R-3/R-3.2.0.tar.gz">Source</a></td>
-<td align="left">29&nbsp;<span class="initialism">MB</span></td>
-<td align="left"><small>7fe19567fdd32f1a86dd8bec13a666d2</small></td>
-</tr>
-</table>
+<ul id="rtable">
+<li id="win"><span><a href="http://cran.r-project.org/bin/windows/base/R-3.2.0-win.exe">Download Windows installer</a>.</span></li>
+
+<li id="mac"><span><a href="http://cran.r-project.org/bin/macosx/R-3.2.0-mavericks.pkg">Download Mac OS 10.9+ installer</a> <small>(or installer for <a href="http://cran.r-project.org/bin/macosx/R-3.2.0-snowleopard.pkg">10.6 and above</a>)</small>.</span></li>
+
+<li id="linux"><span>Read Linux install instructions: <a href="http://cran.r-project.org/bin/linux/ubuntu/README.html">Ubuntu</a>,
+<a href="http://cran.r-project.org/bin/linux/debian/README.html">Debian</a>, <a href="http://cran.r-project.org/bin/linux/suse/README.html">Suse</a>, <a href="http://cran.r-project.org/bin/linux/redhat/README">RedHat</a>.</span></li>
+
+<li><span>Build from <a href="http://cran.r-project.org/sources.html">source</a>.</span></li>
+
+</ul>
+
+<div id="mirror"></div>
+
+</div>
+
 
 <script src="jquery-1.11.3.min.js"></script>
 <script src="download-r.js"></script>
-
 
 If you have questions about R, like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
 

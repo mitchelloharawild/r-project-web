@@ -33,8 +33,11 @@ $.getJSON("mirrors.json", function(data) {
     return "<option value='" + key + "'>" + val + "</option>";
   });
   
-  $("#rtable").
-    after("<p class='form-inline'>CRAN mirror: <select id='mirror' class='input-sm form-control' name='mirror'>" + items.join("") + "</select></p>");
+  $("#mirror").append(
+    "Using CRAN mirror: <select id='mirror' name='mirror'>" + 
+    items.join("") + 
+    "</select>"
+  );
 
   var mirror = $("#mirror");
   function change_mirror() {
