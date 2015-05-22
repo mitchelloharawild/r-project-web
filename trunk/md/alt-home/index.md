@@ -2,7 +2,7 @@
 title: The R Project for Statistical Computing
 ---
 
-R is an open source programming langage and software environment for data analysis, statistical computing, and visualisation. It compiles and runs on Windows, Mac OS, and a wide variety of Linuxes. 
+R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS.
 
 ## Download R 
 
@@ -12,7 +12,7 @@ R is an open source programming langage and software environment for data analys
 <ul id="rtable">
 <li id="win"><span><a href="http://cran.r-project.org/bin/windows/base/R-3.2.0-win.exe">Download Windows installer</a>.</span></li>
 
-<li id="mac"><span><a href="http://cran.r-project.org/bin/macosx/R-3.2.0-mavericks.pkg">Download Mac OS 10.9+ installer</a> <small>(or installer for <a href="http://cran.r-project.org/bin/macosx/R-3.2.0-snowleopard.pkg">10.6 and above</a>)</small>.</span></li>
+<li id="mac"><span><a href="http://cran.r-project.org/bin/macosx/R-3.2.0-mavericks.pkg">Download Mac OS installer</a> <small>(10.9 and above)</small>.</span></li>
 
 <li id="linux"><span>Read Linux install instructions: <a href="http://cran.r-project.org/bin/linux/ubuntu/README.html">Ubuntu</a>,
 <a href="http://cran.r-project.org/bin/linux/debian/README.html">Debian</a>, <a href="http://cran.r-project.org/bin/linux/suse/README.html">Suse</a>, <a href="http://cran.r-project.org/bin/linux/redhat/README">RedHat</a>.</span></li>
