@@ -10,7 +10,7 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
--   [**R 3.2.1 (World-Famous Astronaut)**](http://cran.r-project.org/src/base/R-3)
+-   [**R version 3.2.1 (World-Famous Astronaut)**](http://cran.r-project.org/src/base/R-3)
     has been released on 2015-06-18. 
 
 -   [**R version 3.1.3 (Smooth Sidewalk)**](http://cran.r-project.org/src/base/R-3) has been released on 2015-03-09.
