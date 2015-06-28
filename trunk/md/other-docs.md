@@ -20,7 +20,7 @@ R guides and documentation not contained in the [contributed documentation](http
 -   Sigal Blay maintains a web page with [“Technical Notes on the R Programming Language”](http://www.sfu.ca/~sblay/R/).
 -   Wei-Chen Chen maintains a web page with notes on [“The Exploration of Statistic Software R”](http://www.math.ncu.edu.tw/~chenwc/R_note/).
 -   Peter E. Rossi has written a tutorial on [“Making R Packages Under Windows”](http://gsbwww.uchicago.edu/fac/peter.rossi/research/bayes%20book/bayesm/Making%20R%20Packages%20Under%20Windows.pdf), see also the associated [test package zip file](http://gsbwww.uchicago.edu/fac/peter.rossi/research/bayes%20book/bayesm/test.zip).
--   David Rossiter maintains a web page with several [R applications related to natural resources management](http://www.itc.nl/personal/rossiter/pubs/list.html#pubs_m_R).
+-   David Rossiter maintains a web page with several [R applications related to natural resources management](http://www.css.cornell.edu/faculty/dgr2/pubs/list.html#pubs_m_R).
 -   David Hiebeler maintains a tutorial [“Matlab/R Reference”](http://germain.umemat.maine.edu/faculty/hiebeler/comp/matlabR.html) in PDF with some Matlab functions.
 -   K. A. Garrett et al have written several papers on ["Ecology and epidemiology in the R programming environment"](http://www.apsnet.org/edcenter/advanced/topics/EcologyAndEpidemiologyInR/Pages/default.aspx) published as part of the [The Plant Health Instructor](http://www.apsnet.org/) (URL change on 2011-02-01).
 -   Benjamin Yakir has written a book named [“Introduction to Statistical Thinking (With R, Without Calculus)”](http://pluto.huji.ac.il/~msby/StatThink/index.html). Both the PDF document and data sets are available from the webpage.
@@ -39,7 +39,7 @@ R guides and documentation not contained in the [contributed documentation](http
 
 ### German
 
--   [“Einführung in die Statistik mit R”](http://www.wiwi.uni-bielefeld.de/~frohn/Mitarbeiter/Handl/stagrund.html), lecture notes by Andreas Handl.
+-   [“Einführung in die Statistik mit R”](http://www.wiwi.uni-bielefeld.de/lehrbereiche/emeriti/jfrohn/skripten/Ueberblick_Handl#Grundausbildung), lecture notes by Andreas Handl.
 
 ### Russian
 

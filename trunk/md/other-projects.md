@@ -67,7 +67,7 @@ allows to run R programs and display results (graphics, text) within [Mediawiki]
 ### PowerShell R Interop Cmdlet
 <http://powershellrinterop.codeplex.com>
 
-A [PowerShell](http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx) Cmdlet providing smooth integration of R via the [R-(D)COM Server](%0A%20%20%20%20%20%20http://www.sciviews.org/_rgui/projects/RDcom.html) into the PowerShell environment. Data can be piped from other PowerShell Cmdlets into R. Results from R can be piped into PowerShell Cmdlets. As R-(D)COM supports invocation of functions generating graphical output, Powershell 2 Interop Cmdlet can be used to easily create plots.
+A [PowerShell](http://www.microsoft.com/windowsserver2003/technologies/management/powershell/default.mspx) Cmdlet providing smooth integration of R via the [R-(D)COM Server](http://www.sciviews.org/_rgui/projects/RDcom.html) into the PowerShell environment. Data can be piped from other PowerShell Cmdlets into R. Results from R can be piped into PowerShell Cmdlets. As R-(D)COM supports invocation of functions generating graphical output, Powershell 2 Interop Cmdlet can be used to easily create plots.
 
 ### TANGO/ALGENCAN
 <http://www.ime.usp.br/~egbirgin/tango/>
