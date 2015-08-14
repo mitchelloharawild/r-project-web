@@ -7,7 +7,6 @@ The current R is the result of a collaborative effort with contributions from al
 -   Douglas Bates
 -   John Chambers
 -   Peter Dalgaard
--   Seth Falcon
 -   Robert Gentleman
 -   Kurt Hornik
 -   Ross Ihaka
@@ -26,7 +25,8 @@ The current R is the result of a collaborative effort with contributions from al
 -   Luke Tierney
 -   Simon Urbanek
 
-plus Heiner Schwarte up to October 1999, Guido Masarotto up to June 2003 and Stefano Iacus up to July 2014.
+plus Heiner Schwarte up to October 1999, Guido Masarotto up to June 2003,
+Stefano Iacus up to July 2014 and Seth Falcon up to August 2015.
 
 R would not be what it is today without the invaluable help of these people, who contributed by donating code, bug fixes and documentation:
 
