@@ -11,7 +11,6 @@ __Treasurer:__ [Kurt Hornik](http://statmath.wu-wien.ac.at/~hornik/)
 __Members at Large:__
 
 * [John Chambers](http://statweb.stanford.edu/~jmc4/)
-* [Brian Ripley](http://www.stats.ox.ac.uk/~ripley)
 * [Dirk Eddelbuettel](http://dirk.eddelbuettel.com)
 
 In addition, [Peter Dalgaard](http://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/pdmes) and [Roger Bivand](http://www.nhh.no/en/research-faculty/department-of-economics/sam/cv/bivand--roger-s.aspx) were elected as auditors.
