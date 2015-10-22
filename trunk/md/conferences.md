@@ -6,6 +6,8 @@ The R project actively supports two conference series, organized regularly by me
 
 R-related conferences are coordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of [Torsten Hothorn (Universität Zürich)](http://www.biostat.uzh.ch/aboutus/people/hothorn.html) and [Achim Zeileis (Universität Innsbruck)](http://statmath.wu.ac.at/~zeileis/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at `R-conferences@r-project.org`.
 
+The R Foundation has a policy requiring [codes of conduct at R conferences](/behaviour.html).
+
 ## useR! - International R User Conference
 
 ![useR logo](useR.png)\ 
