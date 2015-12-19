@@ -4,9 +4,9 @@ title: Documentation
 
 ## Document Collections, Journals and Proceedings
 
-In addition to the [manuals](http://cran.r-project.org/manuals.html), [FAQs](http://cran.r-project.org/faqs.html), and [R News](http://cran.r-project.org/doc/Rnews) the following sites may be of interest to R users:
+In addition to the [manuals](http://cran.r-project.org/manuals.html), [FAQs](http://cran.r-project.org/faqs.html), the [R Journal](http://journal.r-project.org) and its predecessor [R News](http://cran.r-project.org/doc/Rnews/), the following sites may be of interest to R users:
 
--   Browsable HTML versions of the[manuals, help pages and NEWS](http://stat.ethz.ch/R-manual/) for the developing versions of R “*R-patched*” and “*R-devel*”, updated daily.
+-   Browsable HTML versions of the [manuals, help pages and NEWS](http://stat.ethz.ch/R-manual/) for the developing versions of R “*R-patched*” and “*R-devel*”, updated daily.
 -   CRAN has a growing list of [contributed documentation](http://cran.r-project.org/other-docs.html) in a variety of languages.
 -   A list of [books](doc/bib/R-books.html) and [other publications](doc/bib/R-other.html) related to R.
 -   The [Journal of Statistical Software](http://www.jstatsoft.org) features R-related articles like package guides on a regular basis.
