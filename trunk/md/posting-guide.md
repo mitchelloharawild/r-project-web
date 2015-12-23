@@ -94,10 +94,12 @@ When providing examples, it is best to give an R command that constructs the dat
 -   [R Data Import/Export](http://cran.r-project.org/doc/manuals/R-data.pdf) covers reading from and exporting to other file formats
 -   [R Language Definition](http://cran.r-project.org/doc/manuals/R-lang.pdf) (aka \`R Language Manual') describes the R language, data objects, etc. This document specifies many details of R that are not covered in the help pages or in "An Introduction to R".
 -   The article \`R Help Desk' by Uwe Ligges in the [R Newsletter Vol 3 No 1](http://cran.r-project.org/doc/Rnews/Rnews_2003-1.pdf) has useful tips about where to find information about R.
--   Two books are often cited in answers to questions: [Venables & Ripley, 2002, Modern Applied Statistics with S (4th ed)](http://www.stats.ox.ac.uk/pub/MASS4) ("MASS") and [Pinheiro & Bates, 2000](http://nlme.stat.wisc.edu/MEMSS) (about lme in particular). If you can get these books, look at them. If you cannot, you might indicate this in your question. Further books relevant to R are listed at [Publications](http://www.r-project.org/doc/bib/R-publications.html).
+-   Two books are often cited in answers to questions: [Venables & Ripley, 2002, Modern Applied Statistics with S (4th ed)](http://www.stats.ox.ac.uk/pub/MASS4) ("MASS") and
+ [Pinheiro & Bates, 2000](http://link.springer.com/book/10.1007%2Fb98882)
+<!-- this is DOI:10.1007/b98882 -->
+ (about lme in particular). If you can get these books, look at them. If you cannot, you might indicate this in your question. Further books relevant to R are listed at [Publications](http://www.r-project.org/doc/bib/R-publications.html).
 -   The [Contributed Documentation](http://cran.r-project.org/other-docs.html) page lists a number of useful introductory and other documents available online.
 -   The R-help archives (see under \`Archives and Search Facilities' at <http://www.r-project.org/mail.html>)
--   The [R-Wiki](http://wiki.r-project.org/) contains documentation about R contributed by the R community, and Paul Johnson's [R tips](http://pj.freefaculty.org/R/Rtips.html) page is a organized collection of how to do things in R, with many questions and tips culled from R-help.
 -   A Google search of the web in general or the r-project site specifically (put \`site:r-project.org' at the beginning of the search terms)
 
 **Responding to other posts:**
