@@ -10,10 +10,10 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+-   [**The R Journal Volume 7/2**](http://journal.r-project.org) is available.
+
 -   [**R version 3.2.3 (Wooden Christmas-Tree)**](http://cran.r-project.org/src/base/R-3)
     has been released on 2015-12-10.> 
-
--   [**The R Journal Volume 7/1**](http://journal.r-project.org) is available.
 
 -   [**R version 3.1.3 (Smooth Sidewalk)**](http://cran.r-project.org/src/base/R-3) has been released on 2015-03-09.
 
