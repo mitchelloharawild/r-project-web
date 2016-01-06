@@ -2,7 +2,7 @@
 title: R Logo
 ---
 
-The R logo is Copyright (C) 2015 The R Foundation.
+The R logo is Copyright (C) 2016 The R Foundation.
 
 * [High resolution png](Rlogo.png)
 * [SVG](Rlogo.svg)
@@ -30,6 +30,5 @@ apply when using the GPL-2 license for the logo or when incorporating
 it into works licensed under GPL-3 . In particular, the GPL includes
 the concept of *source*, which is defined as "the preferred form of
 the work for making modifications to it". We consider the
-high-resolution version of the R logo in PNG format (INSERT DIMENSIONS
-HERE) to be the source by this definition.
+vector version of the R logo in SVG format to be the source by this definition.
 
