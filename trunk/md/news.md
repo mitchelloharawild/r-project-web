@@ -10,6 +10,7 @@ New features and bug fixes of the latest release version of R are documented in 
 
 Important announcements posted by the R Core Development team:
 
+* [R-announce messages 2016](https://stat.ethz.ch/pipermail/r-announce/2016/date.html#end)
 * [R-announce messages 2015](https://stat.ethz.ch/pipermail/r-announce/2015/date.html#end)
 * [R-announce messages 2014](https://stat.ethz.ch/pipermail/r-announce/2014/date.html#end)
 * [R-announce messages 2013](https://stat.ethz.ch/pipermail/r-announce/2013/date.html#end)
@@ -27,6 +28,7 @@ Important announcements posted by the R Core Development team:
 
 [Announcements](https://stat.ethz.ch/pipermail/r-packages/) of new or enhanced contributed R packages typically by the package authors:
 
+* [R-packages messages 2016](https://stat.ethz.ch/pipermail/r-packages/2016/date.html#end).
 * [R-packages messages 2015](https://stat.ethz.ch/pipermail/r-packages/2015/date.html#end).
 * [R-packages messages 2014](https://stat.ethz.ch/pipermail/r-packages/2014/date.html#end).
 * [R-packages messages 2012](https://stat.ethz.ch/pipermail/r-packages/2012/date.html#end).
