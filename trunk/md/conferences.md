@@ -19,11 +19,9 @@ This is the main meeting of the R user and developer community, its program cons
 
 Usually, no proceedings are published for useR! conferences.
 
-<!-- TODO:
-* [useR! 2016](http://www.R-project.org/useR-2016/), Stanford, CA, USA. -->
-* [useR! 2016](http://user2016.org/), Stanford, CA, USA.
-
 <!-- NB: Not in SVN: Rather server-side "rewrites" and server-only copies : -->
+
+* [useR! 2016](http://www.R-project.org/useR-2016/), Stanford, CA, USA.
 
 * [useR! 2015](http://www.R-project.org/useR-2015/), Aalborg, Denmark.
 
