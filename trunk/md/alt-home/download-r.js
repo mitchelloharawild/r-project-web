@@ -11,7 +11,9 @@ if (/Linux/.test(platform))
 // Update CRAN links to selected mirror ---------------------------
 
 var cran = new RegExp("^http://cran.r-project.org/");
-$("#rtable a").each(function(i, x) {
+
+var cran_links = $("#rtable a");
+cran_links.each(function(i, x) {
   if (x.href.match(cran))
     x.dataset.path = x.href.replace(cran, "");
 });
@@ -34,14 +36,14 @@ $.getJSON("mirrors.json", function(data) {
   });
   
   $("#mirror").append(
-    "Using CRAN mirror: <select id='mirror' name='mirror'>" + 
+    "Using CRAN mirror: <select id='mirror-sel' name='mirror'>" + 
     items.join("") + 
     "</select>"
   );
 
-  var mirror = $("#mirror");
+  var mirror = $("#mirror-sel");
   function change_mirror() {
-    $("#rtable a").each(function(i, x) {
+    cran_links.each(function(i, x) {
       x.href = mirror.val() + x.dataset.path;
     });
   }
@@ -49,6 +51,7 @@ $.getJSON("mirrors.json", function(data) {
     change_mirror();
     if (has_storage())
       localStorage.mirror = mirror.val();
+    return(true);
   });
   if (has_storage() && localStorage.mirror !== undefined)
     mirror.val(localStorage.mirror);
