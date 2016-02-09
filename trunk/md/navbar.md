@@ -12,7 +12,7 @@
 ## R Project
 
 * [About R](/about.html)
-<!-- * [Logo](/logo/) -->
+* [Logo](/logo/)
 * [Contributors](/contributors.html)
 * [What's New?](/news.html)
 * [Mailing Lists](/mail.html)
