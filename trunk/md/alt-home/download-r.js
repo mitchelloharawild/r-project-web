@@ -12,7 +12,7 @@ if (/Linux/.test(platform))
 
 var cran = new RegExp("^http://cran.r-project.org/");
 
-var cran_links = $("#rtable a");
+var cran_links = $("#downloads a");
 cran_links.each(function(i, x) {
   if (x.href.match(cran))
     x.dataset.path = x.href.replace(cran, "");
