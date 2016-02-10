@@ -10,6 +10,9 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+-   The [**R Logo**](http://www.r-project.org/logo) is available for download
+    in high-resolution PNG or SVG formats.
+    
 -   **[useR! 2016](http://www.r-project.org/useR-2016)**,
 	will take
     place at Stanford University, CA, USA, June 27 - June 30, 2016.
