@@ -10,6 +10,11 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+-   [**R version 3.2.4 (Very Secure Dishes) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Monday 2016-02-29. Final release is scheduled for Thursday 2016-03-10. 
+
+-   [**R version 3.3.0 (Supposedly Educational) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Monday 2016-03-14. Final release is scheduled for Thursday 2016-04-14. 
+
+
 -   The [**R Logo**](http://www.r-project.org/logo) is available for download
     in high-resolution PNG or SVG formats.
     
