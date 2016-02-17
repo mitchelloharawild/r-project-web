@@ -12,6 +12,7 @@ The following licenses are in use for R or associated software such as packages.
 -   [The "GNU Lesser General Public License" version 2.1](LGPL-2.1)
 -   [The "GNU Lesser General Public License" version 3](LGPL-3)
 -   [The "MIT License"](MIT)
+-   [The "Creative Commons Attribution-ShareAlike International License" version 4.0](CC-BY-SA-4.0)
 
 R as a package is licensed under `GPL-2 | GPL-3`. File `doc/COPYING` is the same as [`GPL-2`](GPL-2).
 
