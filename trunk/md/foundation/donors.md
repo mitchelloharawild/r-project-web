@@ -22,12 +22,15 @@ Benefactors
 -----------
 
 -   Joseph J. Allaire, Rstudio Inc., USA
+-   Annuitas, USA
+-   b-data, Switzerland
 -   Burns Statistics Ltd., London, U.K.
 -   Cybaea Limited, U.K.
 -   Department of Statistics, Brigham Young University, Utah, USA
 -   Dsquare, Germany
 -   Paul von Eikeren, USA
 -   eoda, Germany
+-   ESRI, USA
 -   Giannasca Corrado & Montagna Maria, Italy
 -   Greenwich Statistics, France
 -   HMS Analytical Software, Germany
@@ -35,6 +38,7 @@ Benefactors
 -   Mango Solutions, UK
 -   Marc Schwartz, USA
 -   Merck and Co. Inc., USA
+-   Mirai Solutions, Switzerland
 -   Numbers Internation Pty Ltd,Australia
 -   OpenAnalytics, Belgium
 -   Prediction Company, Santa Fe, New Mexico, USA
@@ -68,6 +72,7 @@ Donors
 -   Dianne Cook (USA)
 -   Yves DeVille (France)
 -   Department of Economics, University of Milano (Italy)
+-   Department of Mathematics and Statistics, University of Vaasa (Finland)
 -   Dipartimento di Scienze Statistiche e Matematiche di Palermo
     (Italy)
 -   Emanuele De Rinaldis (Italy)
@@ -86,7 +91,9 @@ Donors
 -   Nassim Haddad (Belgium)
 -   Helsana Versicherungen AG (Switzerland)
 -   Hort Research Institute (New Zealand)
+-   Rick Hubbard (USA)
 -   Geoffrey S Hubona, The Georgia R School (USA)
+-   Ilustat (Portugal)
 -   Owen Jones, Robert Maillardet and Andrew Robinson (Royalties for the
     book “Scientific Programming and Simulation Using R”)
 -   Kansai University, Faculty Commerce (Japan)
@@ -107,6 +114,7 @@ Donors
 -   Stavros Panidis (Greece)
 -   Norm Phillips (Canada)
 -   Bill Pikounis (USA)
+-   Jens Pongratz (Switzerland)
 -   Joanne M Potts, The Analytical Edge (Australia)
 -   Quan Development LLC (USA)
 -   Jim Robinson-Cox, Montana State University (USA)
@@ -174,6 +182,7 @@ Supporting Institutions
      Wilhelms-Universität Münster, Germany
 -   Lehrstuhl für Rechnerorientierte Statistik und Datenanalyse,
     University of Augsburg, Germany
+-   MEI Research Ltd, USA
 -   MPI for Demographic Research, Rostock, Germany
 -   Marine Scotland Science, UK
 -   Massachusetts General Hospital Biostatistics Center, Boston, USA
@@ -265,6 +274,7 @@ Supporting Institutions
 -   Stephen Eglen (UK)
 -   Peter Ehlers (Canada)
 -   Martin Elff (Germany)
+-   Stephen L. R. Ellison (UK)
 -   Jay Emerson (USA)
 -   Werner Engl (Austria)
 -   Hubert Eser (Austria)
@@ -285,6 +295,7 @@ Supporting Institutions
 -   Laurent Gautier (Singapore)
 -   John Gavin (UK)
 -   Jeff Gentry (USA)
+-   Jakob Geipel (Germany)
 -   Marco Geraci (UK)
 -   John R. Gleason (USA)
 -   Darlene Goldstein (Switzerland)
@@ -334,7 +345,9 @@ Supporting Institutions
 -   Marjatta Kari (Finland)
 -   Osmo Kari (Finland)
 -   Christian Keller (Switzerland)
+-   Felix M. Kluxen (Germany)
 -   Sebastian Köhler (Germany)
+-   Richard König (Austria)
 -   Matthias Kohl (Germany)
 -   Ivan Kojadinovic (France)
 -   Katarzyna Kopczewska (Poland)
@@ -345,6 +358,7 @@ Supporting Institutions
 -   Mark J. van der Laan (USA)
 -   Peter Lauf (Germany)
 -   Philippe Baril Lecavalier (Canada)
+-   Kee-Won Lee (South Korea)
 -   Bernhard Lehnert (Germany)
 -   Ralph Leonhardt (Germany)
 -   Xiaochun Li (USA)
@@ -434,6 +448,8 @@ Supporting Institutions
 -   Kenneth S. Spriggs (USA)
 -   Julian Stander (UK)
 -   Arthur J. Stock (Canada)
+-   Martin Studer (Switzerland)
+-   Michael Sulik (USA)
 -   Thomas Telkamp (Netherlands)
 -   Klaus Thul (Taiwan)
 -   Michael Tiefelsdorf (USA)
@@ -455,6 +471,7 @@ Supporting Institutions
 -   Wen Hsiang Wie (Taiwan)
 -   Joshua Wiley (USA)
 -   Matthew Wilkes (UK)
+-   Andy Wills (USA)
 -   Mathe W. Woodyard (USA)
 -   Kevin Wright (USA)
 -   Zhijin (Jean) Wu (USA)
