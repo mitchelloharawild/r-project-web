@@ -17,6 +17,7 @@
 * [What's New?](/news.html)
 * [Mailing Lists](/mail.html)
 * [Bug Tracking](http://bugs.R-project.org)
+* [Development Site](http://developer.R-project.org)
 * [Conferences](/conferences.html)
 * [Search](/search.html)
 
