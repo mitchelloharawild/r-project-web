@@ -9,6 +9,8 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
+-   Beta test period for version 3.3.0 has been extended to accommodate new
+    Windows toolchain for CRAN. Final release rescheduled for Tuesday 2016-05-03.
 
 -   **Notice XQuartz users (Mac OS X)** A security issue has been detected with
     the Sparkle update mechanism used by XQuartz. Avoid updating over
