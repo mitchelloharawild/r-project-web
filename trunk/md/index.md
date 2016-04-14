@@ -9,6 +9,10 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
+-   [**R version 3.2.5 (Very, Very Secure Dishes)**](http://cran.r-project.org/src/base/R-3)
+    has been released on 2016-04-14. This is a rebadging of the
+    quick-fix release 3.2.4-revised.
+
 -   Beta test period for version 3.3.0 has been extended to accommodate new
     Windows toolchain for CRAN. Final release rescheduled for Tuesday 2016-05-03.
 
