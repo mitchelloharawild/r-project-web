@@ -9,6 +9,8 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
+-   [**R version 3.3.1 (Bug in Your Hair) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Saturday 2016-06-11. Final release is scheduled for Tuesday 2016-06-21. 
+
 -   [**R version 3.3.0 (Supposedly Educational)**](http://cran.r-project.org/src/base/R-3)
     has been released on 2016-05-03.
 
