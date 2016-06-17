@@ -38,7 +38,9 @@ R guides and documentation not contained in the [contributed documentation](http
 
 ### German
 
--   [“Einführung in die Statistik mit R”](http://www.wiwi.uni-bielefeld.de/lehrbereiche/emeriti/jfrohn/skripten/Ueberblick_Handl#Grundausbildung), lecture notes by Andreas Handl.
+-   [“Eine kleine Einführung in R”](http://www.kuhlenkasper.de/Einfuehrung_R.pdf),  and
+-   [“Einführung in die Statistik mit R”](http://www.kuhlenkasper.de/Statistik.pdf);
+	lecture notes originally by Andreas Handl, maintained by Torben Kuhlenkasper.
 
 ### Russian
 
