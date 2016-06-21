@@ -10,7 +10,8 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 -   [**R version 3.3.1 (Bug in Your Hair)**](http://cran.r-project.org/src/base/R-3)
-    has been released on Tuesday 2016-06-21.
+	has been released on Tuesday 2016-06-21.
+
 -   [**R version 3.2.5 (Very, Very Secure Dishes)**](http://cran.r-project.org/src/base/R-3)
     has been released on 2016-04-14. This is a rebadging of the
     quick-fix release 3.2.4-revised.
