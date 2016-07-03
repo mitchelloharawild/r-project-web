@@ -2,16 +2,17 @@
 title: Board and Auditors
 ---
 
-__Presidents:__ [Duncan Murdoch](http://www.stats.uwo.ca/faculty/murdoch/), [Martyn Plummer](http://www.iarc.fr/en/staffdirectory/displaystaff.php?id=10118)
+__Presidents:__ [Simon Urbanek](http://urbanek.info) & [Martyn Plummer](http://www.iarc.fr/en/staffdirectory/displaystaff.php?id=10118)
 
 __Secretary General:__ [Martin Mächler](http://stat.ethz.ch/people/maechler)
 
-__Treasurer:__ [Kurt Hornik](http://statmath.wu-wien.ac.at/~hornik/)
+__Treasurer:__ [Torsten Hothorn](http://user.math.uzh.ch/hothorn/)
 
 __Members at Large:__
 
 * [John Chambers](http://statweb.stanford.edu/~jmc4/)
 * [Dirk Eddelbuettel](http://dirk.eddelbuettel.com)
+* [Heather Turner](http://www.heatherturner.net)
 
 In addition, [Peter Dalgaard](http://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/pdmes) and [Roger Bivand](http://www.nhh.no/en/research-faculty/department-of-economics/sam/cv/bivand--roger-s.aspx) were elected as auditors.
 
