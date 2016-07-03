@@ -42,15 +42,20 @@ If your issue doesn't fall into any of these categories - if it's R running slow
 
 If your problem is definitely a bug - either because it falls into one of the bug categories above, or because you've asked people for help and they've confirmed it's an issue - it's time to submit a report so that it can be fixed.
 
-Depending on the problem, you might need to submit bug reports in different places. The first step is to see which package the function with a bug comes from. The R Core team only maintains the core language (the “base” package) and the compiler, datasets, graphics, grDevices, grid, methods, parallel, splines, stats, stats4 and tcltk packages. If your bug is in a different package, you should submit your report to the package maintainer. The `bug.report` function directs you to the right place for a given package, either opening the relevant bug tracking web page or helping you to compose an email to the package maintainer. However this function is disabled in IDEs such as RStudio to avoid misuse, therefore the following describes how to identify the right place to submit a report.
+Depending on the problem, you might need to submit bug reports in different places. The first step is to see which package the function with a bug comes from. The R Core team only maintains the core language and the R packages
+labelled with `Maintainer: R Core Team <R-core@r-project.org>`. You can see
+this label by running something like `packageDescription("graphics")` in R.
 
-In the case of a contributed package, you should look at the package description, either via R help, or by looking at the relevant webpage of the package repository, e.g. [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html) or [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software). Some packages have a bug submission page, such as an issue tracker on GitHub, listed under the `BugReports` field in the package description. If you follow this link you may find your bug has already been reported, otherwise you can submit your report there, following the guidelines on bug reporting discussed below. If there is no bug submission page, you should email your bug report to the package maintainer via the address in the package description.
+If your bug is in `somePkg` and that is not maintained by the R Core team, you should submit your report to the package maintainer. Running `bug.report(package = "somePkg")` 
+directs you to the right place,
+either opening the relevant bug tracking web page or helping you to compose an email to the package maintainer. (This function is disabled in IDEs such as RStudio to avoid misuse; the following describes how to identify the right place to submit a report.)
+
+Start by looking at the output of `packageDescription("somePkg")`,
+or look at the R help for the package, or look at the relevant webpage of the package repository, e.g. [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html) or [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software). Some packages have a bug submission page, such as an issue tracker on GitHub, listed under the `BugReports` field in the package description. If you follow this link you may find your bug has already been reported, otherwise you can submit your report there, following the guidelines on bug reporting discussed below. If there is no bug submission page, you should email your bug report to the package `Maintainer` via the address in the package description.
 
 If your bug is in the language, though, or the Core-supported packages, you should submit your report to R's [Bugzilla](https://bugs.r-project.org/bugzilla3/). It is important to try to make sure that the report isn't extraneous. The easiest way to do this is to first look at the [upcoming changes in R](https://svn.r-project.org/R/trunk/doc/NEWS.Rd), to see if the bug has already been patched (just not released yet), and to [browse the latest bug reports](https://bugs.r-project.org/bugzilla/buglist.cgi?bug_file_loc_type=allwordssubstr&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=UNCONFIRMED&bugidtype=include&chfieldto=Now&cmdtype=doit&emailassigned_to1=1&emailassigned_to2=1&emailcc2=1&emailreporter2=1&emailtype1=substring&emailtype2=substring&field0-0-0=noop&long_desc_type=substring&order=bugs.delta_ts%20desc&query_format=advanced&short_desc_type=allwordssubstr&type0-0-0=noop) or [search for the bug](https://bugs.r-project.org/bugzilla/query.cgi) in Bugzilla to see if (even if it hasn't been patched yet) it has been reported. If your bug has not yet been reported or fixed, you can report the bug following the guidelines in the section [Writing a good bug report](#writing-a-good-bug-report). If you have a patch accompanying your bug, see the section [How to submit patches](#how-to-submit-patches).
 
 If you wish to submit a feature request, rather than a bug report, your best bet is to ask about it first on the [r-devel](https://stat.ethz.ch/mailman/listinfo/r-devel) mailing list. If the feedback is positive, you can submit your suggestion using the bug reporting form on Bugzilla, where you should select `Wishlist` in the `Component` field and start your summary with `Wishlist:`.
-
-Issues related to the Windows port of R should be sent to [R-windows@R-project.org](mailto:R-windows@R-project.org).
 
 Issues related to message translations should be sent to the last translator or to the relevant [translation team](https://developer.r-project.org/TranslationTeams.html). To find the last translator, you will need to look at the comments at the top of the relevant `.po` file in the R source code, for example German translations of messages in the base package are in `src/library/base/po/R-de.po`. You can download the R source code from CRAN, or otherwise [browse the R-devel sources](https://svn.r-project.org/R/trunk/) or [their mirror on GitHub](https://github.com/wch/r-source).
 
@@ -74,18 +79,22 @@ Sometimes you'll find a bug and also see, from looking at the code, how to fix i
 
 To prepare a patch, you're going to need the latest developer version of R. This is maintained in a [Subversion](http://subversion.apache.org/) (SVN) repository. Once you've got SVN installed on your system, open the command line and type:
 
-    svn checkout https://svn.r-project.org/R/trunk/
+    svn checkout https://svn.r-project.org/R/trunk/ R-devel
 
-This should create a directory, `trunk`, in your current working directory. This contains the source code for the newest version of R.
+This should create a directory, `R-devel`, in your current working directory. This contains the source code for the newest version of R.
 
-Go through and make the changes you need to make in order to patch the bug - try to keep to whatever coding style and conventions the functions you're changing use, just to make things easier. Once you're done, go to the trunk directory in your terminal and type:
+Go through and make the changes you need to make in order to patch the bug - try to keep to whatever coding style and conventions the functions you're changing use, just to make things easier. Once you're done, go to the `R-devel` directory in your terminal and type:
 
+    svn update
     svn diff > patch.diff
 
-This creates a new file, `patch.diff`, that contains the changes between the latest version of R, and your alterations. And that's a patch! Just attach that to the bug report you're writing, note in the report that there's an associated patch, and you're done.
+This updates the code then creates a new file, `patch.diff`, that contains the changes between the latest version of R, and your alterations. And that's a patch! Just attach that to the bug report you're writing, note in the report that there's an associated patch, and you're done.
 
 ## What to do if there's an issue
 
 In an ideal world you write an informative bug report (and maybe submit a patch), someone comes along promptly and fixes it, and everyone is happy. In the world we've got, the people maintaining R have a lot of responsibilities, and all of them are doing this work as volunteers. This means that, practically speaking, bugs may take a very long time to get fixed, accidentally get missed, or result in an unexpected or unpleasant outcome - not out of any maliciousness but simply because the people responsible for the software can get pretty stressed.
 
-If you experience technical issues with R's Bugzilla that do not resolve themselves after a period of time, you should contact the current maintainer:  [simon.urbanek@R-project.org](mailto:simon.urbanek@R-project.org). If you feel like your bug has been missed, or has been assessed wrongly, you should contact the R core team: [r-core@r-project.org](mailto:r-core@r-project.org). Note the R-core mailing list is primarily for internal R-core discussions, so should only be used in rare cases. Thus if you are personally acquainted with members of R core it would be more appropriate to contact them directly.
+If you experience technical issues with R's Bugzilla that do not resolve themselves after a period of time, you should contact the current maintainer:  [simon.urbanek@R-project.org](mailto:simon.urbanek@R-project.org). If you feel like your bug has been missed (e.g. because a new release of R has come out, and it was not fixed), you can bring attention to it by simply adding a comment like "This is still present in the x.y.z release" on Bugzilla.  
+Even better would be to install a pre-release alpha or beta version to confirm it is still present, and report that.
+
+If you feel it has been assessed wrongly, you can leave a comment to that effect on Bugzilla.  If you are personally acquainted with a member of R Core you could contact them directly.  In either case, present your case clearly, and respect that fact that the R Core members may judge the importance of the issue (or even whether it is a bug or not) differently than you do.
