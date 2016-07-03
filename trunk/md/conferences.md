@@ -4,7 +4,7 @@ title: Conferences
 
 The R project actively supports two conference series, organized regularly by members from the R community: useR! - providing a forum to the R user community - and DSC - a platform for developers of statistical software. A rough outline of the format for the respective conferences is given below; both conference formats were developed by the [Austrian Association for Statistical Computing (AASC)](http://www.aasc.or.at/) in cooperation with the [R Foundation for Statistical Computing](https://www.r-project.org/foundation).
 
-R-related conferences are coordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of [Torsten Hothorn (Universität Zürich)](http://user.math.uzh.ch/hothorn/) and [Achim Zeileis (Universität Innsbruck)](http://statmath.wu.ac.at/~zeileis/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at `R-conferences@r-project.org`.
+R-related conferences are coordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of [Torsten Hothorn (Universität Zürich)](http://user.math.uzh.ch/hothorn/) and [Achim Zeileis (Universität Innsbruck)](http://statmath.wu.ac.at/~zeileis/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at <R-conferences@r-project.org>.
 
 The R Foundation has a policy requiring [codes of conduct at R conferences](/behaviour.html).
 
