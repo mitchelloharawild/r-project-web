@@ -10,7 +10,7 @@ The R Foundation has a policy requiring [codes of conduct at R conferences](/beh
 
 ## useR! - International R User Conference
 
-![useR logo](useR.png) 
+![useR logo](useR.png)\ 
 
 This is the main meeting of the R user and developer community, its program consisting of both invited and user-contributed presentations:
 
@@ -55,7 +55,7 @@ Usually, no proceedings are published for useR! conferences.
 
 ## DSC - Directions in Statistical Computing
 
-![DSC logo](dsc.png) 
+![DSC logo](dsc.png)\ 
 
 DSC is a conference for the developers of statistical software and researchers in statistical computing which is somewhat focused on but not exclusively devoted to R. It aims at providing a platform for exchanging ideas about developments in statistical computing (rather than \`only' the usage of statistical software for applications). As the associated papers are often technical and difficult to publish even in computational statistical journals, the DSC publishes post-conference proceedings of the papers that were accepted for publication.
 
