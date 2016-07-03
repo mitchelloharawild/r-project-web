@@ -57,24 +57,25 @@ Usually, no proceedings are published for useR! conferences.
 
 ![DSC logo](dsc.png) DSC is a conference for the developers of statistical software and researchers in statistical computing which is somewhat focused on but not exclusively devoted to R. It aims at providing a platform for exchanging ideas about developments in statistical computing (rather than \`only' the usage of statistical software for applications). As the associated papers are often technical and difficult to publish even in computational statistical journals, the DSC publishes post-conference proceedings of the papers that were accepted for publication.
 
-* [DSC 1999](http://www.ci.tuwien.ac.at/Conferences/DSC-1999), Vienna, Austria
-  ([local copy](https://www.r-project.org/conferences/DSC-1999)).
-
-* [DSC 2001](http://www.ci.tuwien.ac.at/Conferences/DSC-2001), Vienna, Austria
-  ([local copy](https://www.r-project.org/conferences/DSC-2001),
-  [proceedings](https://www.r-project.org/conferences/DSC-2001/Proceedings/index.html)).
-
-* [DSC 2003](http://www.ci.tuwien.ac.at/Conferences/DSC-2003), Vienna, Austria
-  ([local copy](https://www.r-project.org/conferences/DSC-2003),
-  [proceedings](https://www.r-project.org/conferences/DSC-2003/Proceedings/index.html)).
-
-* [DSC 2005](http://depts.washington.edu/dsc2005), Seattle, USA
-  ([local copy](https://www.r-project.org/conferences/DSC-2005)).
+* [DSC 2009](https://www.r-project.org/dsc-2009/), Copenhagen, Denmark
+  ([local copy](https://www.r-project.org/conferences/DSC-2009)).
 
 * [DSC 2007](http://www.stat.auckland.ac.nz/dsc-2007/), Auckland, New Zealand
   ([local copy](https://www.r-project.org/conferences/DSC-2007), proceedings have
   been published as issue
   [24/2 of Computational Statistics](http://www.springerlink.com/content/0943-4062)).
 
-* [DSC 2009](https://www.r-project.org/dsc-2009/), Copenhagen, Denmark
-  ([local copy](https://www.r-project.org/conferences/DSC-2009)).
+* [DSC 2005](http://depts.washington.edu/dsc2005), Seattle, USA
+  ([local copy](https://www.r-project.org/conferences/DSC-2005)).
+
+* [DSC 2003](http://www.ci.tuwien.ac.at/Conferences/DSC-2003), Vienna, Austria
+  ([local copy](https://www.r-project.org/conferences/DSC-2003),
+  [proceedings](https://www.r-project.org/conferences/DSC-2003/Proceedings/index.html)).
+
+* [DSC 2001](http://www.ci.tuwien.ac.at/Conferences/DSC-2001), Vienna, Austria
+  ([local copy](https://www.r-project.org/conferences/DSC-2001),
+  [proceedings](https://www.r-project.org/conferences/DSC-2001/Proceedings/index.html)).
+
+* [DSC 1999](http://www.ci.tuwien.ac.at/Conferences/DSC-1999), Vienna, Austria
+  ([local copy](https://www.r-project.org/conferences/DSC-1999)).
+
