@@ -16,7 +16,7 @@
 * [Contributors](/contributors.html)
 * [What's New?](/news.html)
 * [Mailing Lists](/mail.html)
-* [Bug Tracking](http://bugs.R-project.org)
+* [Reporting Bugs](/bugs.html)
 * [Development Site](http://developer.R-project.org)
 * [Conferences](/conferences.html)
 * [Search](/search.html)
