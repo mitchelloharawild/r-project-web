@@ -10,7 +10,7 @@ This document explains what to do if you find a bug in the R project, or have a 
  4. How to submit patches;
  5. What to do if something goes wrong.
 
-The intent is to make the most of your time and the R developers' time, by ensuring that bug reports are clear-cut, easy for the user to submit, and easy for the developers to respond to.
+The intent is to make the most of your time and the R developers' time, by ensuring that bug reports are clear-cut and easy for the developers to respond to.
 
 ## Making sure it's a bug
 
@@ -27,7 +27,7 @@ Other examples of obvious bugs are situations where code does not do what the do
 
 Code doing something *unexpected* is not necessarily a bug - make sure to carefully review the documentation for the function you are calling to see if the behaviour it exhibits is what it was designed to do, even if it's not what you want. Similarly, issues with [seemingly-identical numbers not being equal](https://cran.r-project.org/doc/FAQ/R-FAQ.html#Why-doesn_0027t-R-think-these-numbers-are-equal_003f) are known, documented and intractable problems - not bugs.
 
-In all cases, if you think it might be a bug, try launching R from the command line with the `--vanilla` option, to make sure it's a clean session, and see if the bug still appears then.
+In all cases, if you think it might be a bug, try launching R from the command line with the `--vanilla` option, to make sure it's a clean session, and see if the bug still appears then. Reduce your code to the minimum required to run the function call where the bug occurred, in particular, only attaching packages required by that call (if any).
 
 If, rather than a bug, you have a suggestion for a new feature in R, you can submit this to the same place you would submit a bug, see the next section.
 
@@ -44,7 +44,7 @@ If your problem is definitely a bug - either because it falls into one of the bu
 
 Depending on the problem, you might need to submit bug reports in different places. The first step is to see which package the function with a bug comes from. The R Core team only maintains the core language and the R packages
 labelled with `Maintainer: R Core Team <R-core@r-project.org>`. You can see
-this label by running something like `packageDescription("graphics")` in R.
+this label by running e.g. `maintainer("graphics")` in R.
 
 If your bug is in `somePkg` and that is not maintained by the R Core team, you should submit your report to the package maintainer. Running `bug.report(package = "somePkg")` 
 directs you to the right place,
