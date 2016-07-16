@@ -1,0 +1,403 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8"/>
+<title>Backwards-compatible customization of atomic vectors in R</title>
+<meta name="author" content="(Gabriel Becker - Genentech, Inc.)"/>
+<style type="text/css">
+.underline { text-decoration: underline; }
+</style>
+<link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/reveal.css"/>
+
+<link rel="stylesheet" href="http://cdn.jsdelivr.net/reveal.js/3.0.0/css/theme/solarized.css" id="theme"/>
+
+
+<!-- If the query includes 'print-pdf', include the PDF print sheet -->
+<script>
+    if( window.location.search.match( /print-pdf/gi ) ) {
+        var link = document.createElement( 'link' );
+        link.rel = 'stylesheet';
+        link.type = 'text/css';
+        link.href = 'http://cdn.jsdelivr.net/reveal.js/3.0.0/css/print/pdf.css';
+        document.getElementsByTagName( 'head' )[0].appendChild( link );
+    }
+</script>
+</head>
+<body>
+<div class="reveal">
+<div class="slides">
+<section id="sec-title-slide"><h1 class="title">Backwards-compatible customization of atomic vectors in R</h1><h2 class="author">Gabriel Becker - Genentech, Inc.</h2><p class="date">Created: 2016-07-11 Mon 11:08</p>
+</section>
+<section>
+<section id="slide-orgheadline2">
+<h2 id="orgheadline2"><span class="section-number-2">1</span> Vectors</h2>
+<div class="outline-text-2" id="text-1">
+</div></section>
+<section id="slide-orgheadline1">
+<h3 id="orgheadline1"><span class="section-number-3">1.1</span> Now</h3>
+<div class="org-src-container">
+
+<pre  class="src src-c"><span style="color: #808080;">#define</span> <span style="color: #006699;">DATAPTR</span>(<span style="color: #BA36A5;">x</span>)      (((<span style="color: #6434A3;">SEXPREC_ALIGN</span> *) (x)) + 1)
+</pre>
+</div>
+
+</section>
+</section>
+<section>
+<section id="slide-orgheadline5">
+<h2 id="orgheadline5"><span class="section-number-2">2</span> Customization approaches</h2>
+<div class="outline-text-2" id="text-2">
+</div></section>
+<section id="slide-orgheadline3">
+<h3 id="orgheadline3"><span class="section-number-3">2.1</span> S4 dispatch</h3>
+<ul>
+<li>The "everything should be a generic" method
+<ul>
+<li>Used to great effect in Bioconductor</li>
+
+</ul></li>
+<li>Pros
+<ul>
+<li>No touching the header or internals</li>
+<li>Object-oriented</li>
+
+</ul></li>
+<li>Cons
+<ul>
+<li>Performance</li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-orgheadline4">
+<h3 id="orgheadline4"><span class="section-number-3">2.2</span> Rcpp</h3>
+<ul>
+<li>The "lets just build something entirely new" approach
+<ul>
+<li>Used to great effect in many CRAN/Bioc packages</li>
+
+</ul></li>
+<li>Pros
+<ul>
+<li>Performant, clean API, many conveniences, behave like atomic vectors</li>
+
+</ul></li>
+<li>Cons
+<ul>
+<li>Not <b>actually</b> atomic vectors, not compatible directly with internals</li>
+
+</ul></li>
+
+</ul>
+
+
+</section>
+</section>
+<section>
+<section id="slide-orgheadline10">
+<h2 id="orgheadline10"><span class="section-number-2">3</span> Proposal</h2>
+<div class="outline-text-2" id="text-3">
+</div></section>
+<section id="slide-orgheadline6">
+<h3 id="orgheadline6"><span class="section-number-3">3.1</span> The header has a spare bit</h3>
+<div class="org-src-container">
+
+<pre  class="src src-c"><span style="color: #8D8D84;">//</span><span style="color: #8D8D84; font-style: italic;">...</span>
+    <span style="color: #6434A3;">unsigned</span> <span style="color: #6434A3;">int</span> <span style="color: #BA36A5;">debug</span> :  1;
+    <span style="color: #6434A3;">unsigned</span> <span style="color: #6434A3;">int</span> <span style="color: #BA36A5;">trace</span> :  1;  <span style="color: #8D8D84;">/* </span><span style="color: #8D8D84; font-style: italic;">functions and memory tracing </span><span style="color: #8D8D84;">*/</span>
+    <span style="color: #6434A3;">unsigned</span> <span style="color: #6434A3;">int</span> <span style="color: #BA36A5;">spare</span> :  1;  <span style="color: #8D8D84;">/* </span><span style="color: #8D8D84; font-style: italic;">currently unused </span><span style="color: #8D8D84;">*/</span>
+    <span style="color: #6434A3;">unsigned</span> <span style="color: #6434A3;">int</span> <span style="color: #BA36A5;">gcgen</span> :  1;  <span style="color: #8D8D84;">/* </span><span style="color: #8D8D84; font-style: italic;">old generation number </span><span style="color: #8D8D84;">*/</span>
+    <span style="color: #6434A3;">unsigned</span> <span style="color: #6434A3;">int</span> <span style="color: #BA36A5;">gccls</span> :  3;  <span style="color: #8D8D84;">/* </span><span style="color: #8D8D84; font-style: italic;">node class </span><span style="color: #8D8D84;">*/</span>
+}
+</pre>
+</div>
+</section>
+<section id="slide-orgheadline7">
+<h3 id="orgheadline7"><span class="section-number-3">3.2</span> Use it to offer customization interface for SEXP data storage</h3>
+<div class="org-src-container">
+
+<pre  class="src src-c"><span style="color: #8D8D84;">/* </span><span style="color: #8D8D84; font-style: italic;">if the custom vector bit is set, use its accessor. Otherwise, vector data</span>
+<span style="color: #8D8D84; font-style: italic;">   is contiguous with header, same as it always was </span><span style="color: #8D8D84;">*/</span>
+<span style="color: #808080;">#define</span> <span style="color: #006699;">DATAPTR</span>(<span style="color: #BA36A5;">x</span>)      ((<span style="color: #6434A3;">void</span> *) (IS_CUSTVEC(x) ?
+                         (CUSTAPI_PTR(x)-&gt;dataptr(x)) :
+                         ((<span style="color: #6434A3;">SEXPREC_ALIGN</span> *) (x)) + 1))
+</pre>
+</div>
+
+</section>
+<section id="slide-orgheadline8">
+<h3 id="orgheadline8"><span class="section-number-3">3.3</span> A note about dataptr</h3>
+<ul>
+<li>Custom vectors don't need to have their data contiguous in memory <b>anywhere</b> when created</li>
+<li>Only need a pointer when <code>dataptr</code> is actually called
+<ul>
+<li>e.g., store vector as Rle, unpack only when it hits <code>DATAPTR</code></li>
+
+</ul></li>
+
+</ul>
+
+</section>
+<section id="slide-orgheadline9">
+<h3 id="orgheadline9"><span class="section-number-3">3.4</span> We need one more thing</h3>
+<ul>
+<li>Duplication code needs to handle these new vector implementations</li>
+
+</ul>
+<div class="org-src-container">
+
+<pre  class="src src-c"><span style="color: #808080;">#define</span> <span style="color: #006699;">DUPLICATE_ATOMIC_VECTOR</span>(<span style="color: #BA36A5;">type</span>, <span style="color: #BA36A5;">fun</span>, <span style="color: #BA36A5;">to</span>, <span style="color: #BA36A5;">from</span>, <span style="color: #BA36A5;">deep</span>) <span style="color: #0000FF;">do</span> { \
+      <span style="color: #0000FF;">if</span>( CUSTAPI_PTR(from) ) \
+          PROTECT(to = CUSTAPI_PTR(from)-&gt;dup_vector( to, from, deep)); \
+      <span style="color: #0000FF;">else</span> DUPLICATE_TRAD_ATOMIC_VECTOR(type, fun, to, from, deep);     \
+} <span style="color: #0000FF;">while</span> (0)
+</pre>
+</div>
+
+
+</section>
+</section>
+<section>
+<section id="slide-orgheadline21">
+<h2 id="orgheadline21"><span class="section-number-2">4</span> The vector implementation API</h2>
+<div class="outline-text-2" id="text-4">
+</div></section>
+<section id="slide-orgheadline11">
+<h3 id="orgheadline11"><span class="section-number-3">4.1</span> Creating the vector</h3>
+<div class="org-src-container">
+
+<pre  class="src src-c"><span style="color: #0000FF;">typedef</span> <span style="color: #0000FF;">struct</span> <span style="color: #6434A3;">api_impl</span> {
+    <span style="color: #6434A3;">R_allocator_t</span> *<span style="color: #BA36A5;">allocator</span>;
+    <span style="color: #6434A3;">void</span> *(*<span style="color: #006699;">dataptr</span>)(SEXP);
+    <span style="color: #6434A3;">void</span> (*<span style="color: #006699;">set_dataptr</span>)(SEXP, <span style="color: #6434A3;">void</span>*);
+    SEXP (*dup_vector)(SEXP, SEXP, Rboolean);
+</pre>
+</div>
+
+</section>
+<section id="slide-orgheadline12">
+<h3 id="orgheadline12"><span class="section-number-3">4.2</span> dataptr</h3>
+<ul>
+<li>can retrieve <i>or create</i> a pointer to a C-array</li>
+<li>Share memory with
+<ul>
+<li>Other systems - MonetDB, Apache Arrow</li>
+<li>Other R vectors - windowing operations without copying</li>
+
+</ul></li>
+<li>Store data in different form with an escape valve
+<ul>
+<li>intervals of integers stored as just start and length</li>
+<li>Rles, other forms of compressed representation</li>
+
+</ul></li>
+
+</ul>
+</section>
+<section id="slide-orgheadline13">
+<h3 id="orgheadline13"><span class="section-number-3">4.3</span> Accessing the vector</h3>
+<div class="org-src-container">
+
+<pre  class="src src-c">SEXP (*subvector)(SEXP, R_xlen_t, R_xlen_t); 
+SEXP (*set_subvector) (SEXP, SEXP, <span style="color: #6434A3;">int</span>);
+SEXP (*get)(SEXP, <span style="color: #6434A3;">int</span>);
+SEXP (*set)(SEXP, SEXP, <span style="color: #6434A3;">int</span>);
+</pre>
+</div>
+
+</section>
+<section id="slide-orgheadline14">
+<h3 id="orgheadline14"><span class="section-number-3">4.4</span> Access benefits</h3>
+<p>
+Allow C code to use custom vectors without needing to create the C array 
+representation
+</p>
+
+</section>
+<section id="slide-orgheadline15">
+<h3 id="orgheadline15"><span class="section-number-3">4.5</span> That means</h3>
+<ul>
+<li>Only need two values for continuous intervals</li>
+<li>Let databases retrieve and set values however they want</li>
+<li>Rles and other compressed vector types</li>
+
+</ul>
+
+</section>
+<section id="slide-orgheadline16">
+<h3 id="orgheadline16"><span class="section-number-3">4.6</span> Querying the vector for properties</h3>
+<div class="org-src-container">
+
+<pre  class="src src-c">Rboolean (*is_sorted)(SEXP);
+<span style="color: #6434A3;">void</span> (*<span style="color: #006699;">set_sorted</span>)(SEXP, Rboolean);
+Rboolean (*is_contigous)(SEXP); <span style="color: #8D8D84;">//</span><span style="color: #8D8D84; font-style: italic;">is it a contiguous sequence of integers?;</span>
+<span style="color: #6434A3;">void</span> (*<span style="color: #006699;">set_contiguous</span>)(SEXP, Rboolean);
+Rboolean (*contains)(SEXP, SEXP);
+Rboolean (*noNAs)(SEXP); <span style="color: #8D8D84;">//</span><span style="color: #8D8D84; font-style: italic;">does the vector "know" that it has no NAs?</span>
+SEXP (*set_noNAs)(SEXP, Rboolean);
+</pre>
+</div>
+
+</section>
+<section id="slide-orgheadline17">
+<h3 id="orgheadline17"><span class="section-number-3">4.7</span> So</h3>
+<ul>
+<li>sort a no-op after the first time</li>
+<li>if we know a vector is contiguous interval of integers, we can create a</li>
+
+</ul>
+<p>
+window of the parent when it is used to subset
+</p>
+<ul>
+<li>Matching can be silently faster if sortedness known
+<ul>
+<li>set operations, merging data, grouping</li>
+
+</ul></li>
+
+</ul>
+
+</section>
+<section id="slide-orgheadline18">
+<h3 id="orgheadline18"><span class="section-number-3">4.8</span> specialized lookup and matching</h3>
+<div class="org-src-container">
+
+<pre  class="src src-c">Rboolean (*contains)(SEXP, SEXP);
+<span style="color: #6434A3;">R_xlen_t</span> (*<span style="color: #006699;">index_of</span>)(SEXP, SEXP);
+</pre>
+</div>
+
+</section>
+<section id="slide-orgheadline19">
+<h3 id="orgheadline19"><span class="section-number-3">4.9</span> Benefits</h3>
+<ul>
+<li>scan sorted vectors in <code>O(log n)</code></li>
+<li>Let databases, Rles, etc do matching without full scan</li>
+
+</ul>
+
+</section>
+<section id="slide-orgheadline20">
+<h3 id="orgheadline20"><span class="section-number-3">4.10</span> miscellaneous other stuff</h3>
+<div class="org-src-container">
+
+<pre  class="src src-c"><span style="color: #6434A3;">void</span> *(*<span style="color: #006699;">scratch</span>)(SEXP); <span style="color: #8D8D84;">//</span><span style="color: #8D8D84; font-style: italic;">retrieve scratch space for SEXP, if any;</span>
+<span style="color: #8D8D84;">/* </span><span style="color: #8D8D84; font-style: italic;">init is called after the SEXP is allocated via the allocator</span>
+<span style="color: #8D8D84; font-style: italic;">   It can be a no-op, or can allocate the actual data storage, or</span>
+<span style="color: #8D8D84; font-style: italic;">   set the data storage to an existing pointer, etc. </span>
+<span style="color: #8D8D84; font-style: italic;">   3rd argument can be a SEXP, but doesn't need to be (e.g. when</span>
+<span style="color: #8D8D84; font-style: italic;">   constructing a custom vector directly from C). </span><span style="color: #8D8D84;">*/</span>
+SEXP (*init)(SEXP, size_t, <span style="color: #6434A3;">void</span>*); 
+<span style="color: #0000FF;">const</span> <span style="color: #6434A3;">char</span> *<span style="color: #BA36A5;">impl_descr</span>;
+</pre>
+</div>
+
+
+</section>
+</section>
+<section>
+<section id="slide-orgheadline25">
+<h2 id="orgheadline25"><span class="section-number-2">5</span> My current plan is to offer 3 custom vector impls</h2>
+<div class="outline-text-2" id="text-5">
+</div></section>
+<section id="slide-orgheadline22">
+<h3 id="orgheadline22"><span class="section-number-3">5.1</span> Basic data decoupling impl</h3>
+<ul>
+<li>Data stored in C-array, but not contiguous with SEXP header
+<ul>
+<li>Shallow duplication of atomic vectors!</li>
+
+</ul></li>
+<li>Has sortedness, noNA, etc support.</li>
+
+</ul>
+
+</section>
+<section id="slide-orgheadline23">
+<h3 id="orgheadline23"><span class="section-number-3">5.2</span> Vector view impl</h3>
+<ul>
+<li>Copyless window into existing R vector</li>
+<li>Inherit sortedness, etc info from parent</li>
+<li>Keep parent as attribute to protect from GC</li>
+
+</ul>
+
+</section>
+<section id="slide-orgheadline24">
+<h3 id="orgheadline24"><span class="section-number-3">5.3</span> R functions impl</h3>
+<ul>
+<li>Allow users use R closures in VFT</li>
+<li>Shoutout to DTL's RGraphicsDevice</li>
+<li>Poor performance but great for prototyping/less advanced users</li>
+
+</ul>
+
+
+</section>
+</section>
+<section>
+<section id="slide-orgheadline28">
+<h2 id="orgheadline28"><span class="section-number-2">6</span> Challenges</h2>
+<div class="outline-text-2" id="text-6">
+</div></section>
+<section id="slide-orgheadline26">
+<h3 id="orgheadline26"><span class="section-number-3">6.1</span> LONGJMPs everywhere</h3>
+<ul>
+<li>Data access macros can now cause allocation, which means they can fail.</li>
+
+</ul>
+
+</section>
+<section id="slide-orgheadline27">
+<h3 id="orgheadline27"><span class="section-number-3">6.2</span> Some people are bad programmers</h3>
+<ul>
+<li>If exposed to package authors, easy for them to wreak havoc
+<ul>
+<li>This is true of packages with C code anyway&#x2026;</li>
+
+</ul></li>
+
+</ul>
+</section>
+</section>
+</div>
+</div>
+<script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/head.min.js"></script>
+<script src="http://cdn.jsdelivr.net/reveal.js/3.0.0/js/reveal.js"></script>
+
+<script>
+// Full list of configuration options available here:
+// https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+
+controls: true,
+progress: true,
+history: false,
+center: true,
+slideNumber: 'c',
+rollingLinks: false,
+keyboard: true,
+overview: true,
+
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'default', // default/cube/page/concave/zoom/linear/fade/none
+transitionSpeed: 'default',
+multiplex: {
+    secret: '', // null if client
+    id: '', // id, obtained from socket.io server
+    url: '' // Location of socket.io server
+},
+
+// Optional libraries used to extend on reveal.js
+dependencies: [
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/lib/js/classList.js', condition: function() { return !document.body.classList; } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/zoom-js/zoom.js', async: true, condition: function() { return !!document.body.classList; } },
+ { src: 'http://cdn.jsdelivr.net/reveal.js/3.0.0/plugin/notes/notes.js', async: true, condition: function() { return !!document.body.classList; } }]
+});
+</script>
+</body>
+</html>
