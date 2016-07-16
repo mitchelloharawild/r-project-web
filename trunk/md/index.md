@@ -9,6 +9,9 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
+-   The **useR! 2017** conference will take place in Brussels, July 4 - 7, 2017, 
+	and details will be appear here in due course.
+
 -   [**R version 3.3.1 (Bug in Your Hair)**](http://cran.r-project.org/src/base/R-3)
 	has been released on Tuesday 2016-06-21.
 
@@ -22,10 +25,9 @@ If you have questions about R like how to download and install the software, or 
 
 -   The [**R Logo**](http://www.r-project.org/logo) is available for download
     in high-resolution PNG or SVG formats.
-    
+
 -   **[useR! 2016](http://www.r-project.org/useR-2016)**,
-	will take
-    place at Stanford University, CA, USA, June 27 - June 30, 2016.
+	hase taken place at Stanford University, CA, USA, June 27 - June 30, 2016.
 
 -   [**The R Journal Volume 7/2**](http://journal.r-project.org) is available.
 
@@ -36,5 +38,5 @@ If you have questions about R like how to download and install the software, or 
 
 
 <!--- (Boilerplate for release run-in)
--   [**R version 3.1.3 (Smooth Sidewalk) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting February 28. Final release is scheduled for 2015-03-09. 
+-   [**R version 3.1.3 (Smooth Sidewalk) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting February 28. Final release is scheduled for 2015-03-09.
 -->
