@@ -74,7 +74,10 @@ Bugzilla is maintained by a small number of people, so it's best to make sure yo
  4. Identify the platform, architecture, and version of R where you found this bug. You can retrieve that from within R by typing `R.version`.
  5. Just focus on the facts of what happened, rather than on your theories of what the bug is and where it comes from.
 
-At that point, you've written a good bug report! Sit back and wait for a developer to respond to it. If you run into any problems with that response, see the section [What to do if there's an issue](#what-to-do-if-there's-an-issue).
+At that point, you've written a good bug report! Sit back and wait for a
+developer to respond to it. If you run into any problems with that
+response, see the section
+[What to do if there's an issue](#what-to-do-if-there-is-an-issue).
 
 ## How to submit patches
 
@@ -93,7 +96,7 @@ Go through and make the changes you need to make in order to patch the bug - try
 
 This updates the code then creates a new file, `patch.diff`, that contains the changes between the latest version of R, and your alterations. And that's a patch! Just attach that to the bug report you're writing, note in the report that there's an associated patch, and you're done.
 
-## What to do if there's an issue
+## What to do if there is an issue
 
 In an ideal world you write an informative bug report (and maybe submit a patch), someone comes along promptly and fixes it, and everyone is happy. In the world we've got, the people maintaining R have a lot of responsibilities, and all of them are doing this work as volunteers. This means that, practically speaking, bugs may take a very long time to get fixed, accidentally get missed, or result in an unexpected or unpleasant outcome - not out of any maliciousness but simply because the people responsible for the software can get pretty stressed.
 
