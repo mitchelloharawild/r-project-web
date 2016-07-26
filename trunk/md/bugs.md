@@ -1,6 +1,6 @@
 ---
 title: Bug Reporting in R
---- 
+---
 
 This document explains what to do if you find a bug in the R project, or have a patch that you'd like to submit. It covers:
 
@@ -46,17 +46,17 @@ Depending on the problem, you might need to submit bug reports in different plac
 labelled with `Maintainer: R Core Team <R-core@r-project.org>`. You can see
 this label by running e.g. `maintainer("graphics")` in R.
 
-If your bug is in `somePkg` and that is not maintained by the R Core team, you should submit your report to the package maintainer. Running `bug.report(package = "somePkg")` 
+If your bug is in `somePkg` and that is not maintained by the R Core team, you should submit your report to the package maintainer. Running `bug.report(package = "somePkg")`
 directs you to the right place,
-either opening the relevant bug tracking web page or helping you to compose an email to the package maintainer. 
+either opening the relevant bug tracking web page or helping you to compose an email to the package maintainer.
 
 The `bug.report` function is disabled in some IDEs (e.g. RStudio) to avoid misuse; to identify the right place to submit a report yourself, start by looking at the output of `packageDescription("somePkg")`,
 the R help for the package, or the webpage for the package from the relevant repository, e.g. [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html) or [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software). Some packages have a bug submission page, such as an issue tracker on GitHub, listed under the `BugReports` field in the package description. If you follow this link you may find your bug has already been reported, otherwise you can submit your report there, following the guidelines on bug reporting discussed below. If there is no bug submission page, you should email your bug report to the package `Maintainer` via the address in the package description.
 
-If your bug is in the language, though, or the Core-supported packages, you should submit your report to R's [Bugzilla](https://bugs.r-project.org/bugzilla3/). It is important to try to make sure that the report isn't extraneous. The easiest way to do this is to first look at the [upcoming changes in R](https://svn.r-project.org/R/trunk/doc/NEWS.Rd), to see if the bug has already been patched (just not released yet), and to [browse the latest bug reports](https://bugs.r-project.org/bugzilla/buglist.cgi?bug_file_loc_type=allwordssubstr&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=UNCONFIRMED&bugidtype=include&chfieldto=Now&cmdtype=doit&emailassigned_to1=1&emailassigned_to2=1&emailcc2=1&emailreporter2=1&emailtype1=substring&emailtype2=substring&field0-0-0=noop&long_desc_type=substring&order=bugs.delta_ts%20desc&query_format=advanced&short_desc_type=allwordssubstr&type0-0-0=noop) or [search for the bug](https://bugs.r-project.org/bugzilla/query.cgi) in Bugzilla to see if (even if it hasn't been patched yet) it has been reported. If your bug has not yet been reported or fixed, you can report the bug following the guidelines in the section [Writing a good bug report](#writing-a-good-bug-report). If you have a patch accompanying your bug, see the section [How to submit patches](#how-to-submit-patches).
+If your bug is in the language, though, or the Core-supported packages, you should submit your report to R's [Bugzilla](https://bugs.r-project.org/bugzilla3/).  
+**NOTE: due to abuse by spammers, since 2016-07-09 only users who have previously submitted bugs can submit new ones on R's Bugzilla.  We're working on a better system...**  
+It is important to try to make sure that the report isn't extraneous. The easiest way to do this is to first look at the [upcoming changes in R](https://svn.r-project.org/R/trunk/doc/NEWS.Rd), to see if the bug has already been patched (just not released yet), and to [browse the latest bug reports](https://bugs.r-project.org/bugzilla/buglist.cgi?bug_file_loc_type=allwordssubstr&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=UNCONFIRMED&bugidtype=include&chfieldto=Now&cmdtype=doit&emailassigned_to1=1&emailassigned_to2=1&emailcc2=1&emailreporter2=1&emailtype1=substring&emailtype2=substring&field0-0-0=noop&long_desc_type=substring&order=bugs.delta_ts%20desc&query_format=advanced&short_desc_type=allwordssubstr&type0-0-0=noop) or [search for the bug](https://bugs.r-project.org/bugzilla/query.cgi) in Bugzilla to see if (even if it hasn't been patched yet) it has been reported. If your bug has not yet been reported or fixed, you can report the bug following the guidelines in the section [Writing a good bug report](#writing-a-good-bug-report). If you have a patch accompanying your bug, see the section [How to submit patches](#how-to-submit-patches).
 
-NOTE:  due to abuse by spammers, only users who have previously submitted bugs can submit new ones on R's Bugzilla.  We're working on 
-a better system...
 
 If you wish to submit a feature request, rather than a bug report, your best bet is to ask about it first on the [r-devel](https://stat.ethz.ch/mailman/listinfo/r-devel) mailing list. If the feedback is positive, you can submit your suggestion using the bug reporting form on Bugzilla, where you should select `Wishlist` in the `Component` field and start your summary with `Wishlist:`.
 
