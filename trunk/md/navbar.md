@@ -15,13 +15,12 @@
 * [Logo](/logo/)
 * [Contributors](/contributors.html)
 * [What's New?](/news.html)
-* [Mailing Lists](/mail.html)
 * [Reporting Bugs](/bugs.html)
 * [Development Site](http://developer.R-project.org)
 * [Conferences](/conferences.html)
 * [Search](/search.html)
-
 </div>
+
 <div class="col-xs-6 col-sm-12">
 
 ## R Foundation
@@ -31,6 +30,10 @@
 * [Members](/foundation/members.html)
 * [Donors](/foundation/donors.html)
 * [Donate](/foundation/donations.html)
+
+## Help With R
+
+* [Getting Help](/help.html)
 
 ## Documentation
 
@@ -42,7 +45,7 @@
 * [Other](/other-docs.html)
 
 ## Links
- 
+
 * [Bioconductor](http://www.bioconductor.org)
 * [Related Projects](/other-projects.html)
 
