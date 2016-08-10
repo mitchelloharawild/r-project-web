@@ -13,11 +13,11 @@ engines can also prove useful ([see below](#r-help-on-the-internet)).
 ### R Help: `help()` and `?`
 
 The `help()` function and `?` help operator in R provide access to the
-documentation pages for R functions, data sets, and other objects, both for
-packages in the standard R distribution and for CRAN packages. To access
-documentation for the standard `lm` (linear model) function, for example,
-enter the command `help(lm)` or `help("lm")`, or `?lm` or `?"lm"` (i.e.,
-the quotes are optional).
+documentation pages for R functions, data sets, and other objects,
+both for packages in the standard R distribution and for contributed
+packages. To access documentation for the standard `lm` (linear model)
+function, for example, enter the command `help(lm)` or `help("lm")`,
+or `?lm` or `?"lm"` (i.e., the quotes are optional).
 
 To access help for a function in a package that's *not* currently loaded,
 specify in addition the name of the package: For example, to obtain
@@ -39,16 +39,17 @@ Help pages for functions usually include a section with executable examples
 illustrating how the functions work. You can execute these examples in the
 current R session via the `example()` command: e.g., `example(lm)`.
 
-### Vignettes and Code Demonstrations: `vignette()` and `demo()`
+### Vignettes and Code Demonstrations: `browseVignettes()`, `vignette()` and `demo()`
 
-Many packages include *vignettes*, which are discursive documents meant to
-illustrate and explain facilities in the package. You can discover
-vignettes by accessing the help page for a package, or via the `vignette()`
-function: The command `vignette()` displays a list of vignettes in *all* of
-the packages in your library, while `vignette(package=package-name)` (e.g.,
-`vignette(package="survival")`) shows the vignettes, if any, for a
-particular package. `browseVignettes()` is employed similarly, but opens a
-list of vignettes in your default web browser.
+Many packages include *vignettes*, which are discursive documents
+meant to illustrate and explain facilities in the package. You can
+discover vignettes by accessing the help page for a package, or via
+the `browseVignettes()` function: the command `browseVignettes()`
+opens a list of vignettes from *all* of your installed packages in
+your browser, while `browseVignettes(package=package-name)` (e.g.,
+`browseVignettes(package="survival")`) shows the vignettes, if any,
+for a particular package. `vignette()` is employed similarly, but
+displays a list of vignettes in text form.
 
 You can also use the `vignette("vignette-name")` command to view a vignette
 (possibly specifying the name of the package in which the vignette resides,
@@ -173,16 +174,15 @@ on Stack Overflow.
 ### Stack Overflow
 
 [Stack Overflow](http://stackoverflow.com) is a well organized and
-formatted site for help and discussions about programming. Topics are
-tagged, and
-["r" is a very popular tag on the site](http://stackoverflow.com/tags/r/info)
-with almost 150,000 questions (as of summer 2016).  The site has better
-searchability than an email-based system. To go directly to R-related
-topics, visit
+formatted site for help and discussions about programming. It has
+excellent searchability. Topics are tagged, and ["r" is a very popular
+tag on the site](http://stackoverflow.com/tags/r/info) with almost
+150,000 questions (as of summer 2016).  To go directly to R-related
+topics, visit 
 [http://stackoverflow.com/questions/tagged/r](http://stackoverflow.com/questions/tagged/r).
-For an example both of the value of the site's organization and information
-that is very useful to R users, see
-["How to make a great R reproducible example?"](http://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example),
+For an example both of the value of the site's organization and
+information that is very useful to R users, see 
+["How to make a great R reproducible example?"](http://stackoverflow.com/questions/5963269/how-to-make-a-great-r-reproducible-example), 
 which is also mentioned above.
 
 
@@ -202,5 +202,5 @@ list for developers of CRAN packages; lists for announcements about
 variety of more specialized lists. Before posing a question on one of these
 lists, please read the
 [R mailing list instructions](https://www.r-project.org/mail.html) and the
-[posting guide](https://www.r-project.org/posting-guide.html)
+[posting guide](https://www.r-project.org/posting-guide.html).
 
