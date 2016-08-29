@@ -64,7 +64,7 @@ Usually, no proceedings are published for useR! conferences.
 
 DSC is a conference for the developers of statistical software and researchers in statistical computing which is somewhat focused on but not exclusively devoted to R. It aims at providing a platform for exchanging ideas about developments in statistical computing (rather than \`only' the usage of statistical software for applications). As the associated papers are often technical and difficult to publish even in computational statistical journals, the DSC publishes post-conference proceedings of the papers that were accepted for publication.
 
-* [DSC 2016](conferences/dsc/2016), Stanford, USA.
+* [DSC 2016](dsc/2016), Stanford, USA.
 
 * [DSC 2014](http://www.huber.embl.de/dsc/), Bressanone-Brixen, Italy.
 
