@@ -22,7 +22,7 @@ The ordinary members are elected by a majority vote of the general assembly. New
 * Stefano Iacus (Italy)
 * Ross Ihaka (New Zealand)
 * Julie Josse (France)
-* Tomas Kalibera (USA)
+* Tomas Kalibera (Czech Republic)
 * Michael Lawrence (USA)
 * Friedrich Leisch (Austria)
 * Uwe Ligges (Germany)
