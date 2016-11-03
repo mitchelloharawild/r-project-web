@@ -10,6 +10,8 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+-   The R Foundation welcomes five new ordinary members: Jennifer Bryan, Diane Cook, Julie Josse, Tomas Kalibera, and Balasubramanian Narasimhan.
+
 -   [**R version 3.3.2 (Sincere Pumpkin Patch)**](http://cran.r-project.org/src/base/R-3)
 has been released on Monday 2016-10-31.
 
