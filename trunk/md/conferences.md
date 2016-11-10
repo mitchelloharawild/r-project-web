@@ -62,10 +62,14 @@ Usually, no proceedings are published for useR! conferences.
 
 ![DSC logo](dsc.png)\ 
 
-DSC is a conference for the developers of statistical software and researchers in statistical computing which is somewhat focused on but not exclusively devoted to R. It aims at providing a platform for exchanging ideas about developments in statistical computing (rather than \`only' the usage of statistical software for applications). As the associated papers are often technical and difficult to publish even in computational statistical journals, the DSC publishes post-conference proceedings of the papers that were accepted for publication.
+DSC is a conference for the developers of statistical software and researchers in statistical computing which is somewhat focused on but not exclusively devoted to R. It aims at providing a platform for exchanging ideas about developments in statistical computing (rather than \`only' the usage of statistical software for applications).
+
+DSC has had two different incarnations. The first was a biennial conference series from 1999 to 2009 with open registration, an open call for papers and peer-reviewed conference proceedings. After a 5 year hiatus, DSC resumed in 2014 as an annual conference coinciding with the General Assembly of the R Foundation. In its current form, participation in DSC is by invitation only.
 
 * [DSC 2016](dsc/2016), Stanford, USA.
 
+* [R Summit 2015](http://info.cbs.dk/rsummit2015), Copenhagen, Denmark
+  
 * [DSC 2014](http://www.huber.embl.de/dsc/), Bressanone-Brixen, Italy.
 
 * [DSC 2009](https://www.r-project.org/dsc-2009/), Copenhagen, Denmark
@@ -76,7 +80,7 @@ DSC is a conference for the developers of statistical software and researchers i
   been published as issue
   [24/2 of Computational Statistics](http://www.springerlink.com/content/0943-4062)).
 
-* [DSC 2005](http://depts.washington.edu/dsc2005), Seattle, USA
+* DSC 2005, Seattle, USA
   ([local copy](https://www.r-project.org/conferences/DSC-2005)).
 
 * [DSC 2003](http://www.ci.tuwien.ac.at/Conferences/DSC-2003), Vienna, Austria
