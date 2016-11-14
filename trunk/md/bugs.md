@@ -5,7 +5,7 @@ title: Bug Reporting in R
 This document explains what to do if you find a bug in the R project, or have a patch that you'd like to submit. It covers:
 
  1. Making sure your problem is a bug;
- 2. Where to submit bug reports;
+ 2. Where to submit bug reports (see spam protection **Note**!)
  3. How to write useful and productive bug reports;
  4. How to submit patches;
  5. What to do if something goes wrong.
@@ -54,7 +54,7 @@ The `bug.report` function is disabled in some IDEs (e.g. RStudio) to avoid misus
 the R help for the package, or the webpage for the package from the relevant repository, e.g. [CRAN](https://cran.r-project.org/web/packages/available_packages_by_name.html) or [Bioconductor](https://www.bioconductor.org/packages/release/BiocViews.html#___Software). Some packages have a bug submission page, such as an issue tracker on GitHub, listed under the `BugReports` field in the package description. If you follow this link you may find your bug has already been reported, otherwise you can submit your report there, following the guidelines on bug reporting discussed below. If there is no bug submission page, you should email your bug report to the package `Maintainer` via the address in the package description.
 
 If your bug is in the language, though, or the Core-supported packages, you should submit your report to R's [Bugzilla](https://bugs.r-project.org/bugzilla3/).  
-**NOTE: due to abuse by spammers, since 2016-07-09 only users who have previously submitted bugs can submit new ones on R's Bugzilla.  We're working on a better system...**  
+**NOTE: due to abuse by spammers, since 2016-07-09 only users who have previously submitted bugs can submit new ones on R's Bugzilla.  We're working on a better system...  In the mean time, post (e-mail) to `R-devel` or ask an R Core member to add you manually to R's Bugzilla members.**  
 It is important to try to make sure that the report isn't extraneous. The easiest way to do this is to first look at the [upcoming changes in R](https://svn.r-project.org/R/trunk/doc/NEWS.Rd), to see if the bug has already been patched (just not released yet), and to [browse the latest bug reports](https://bugs.r-project.org/bugzilla/buglist.cgi?bug_file_loc_type=allwordssubstr&bug_status=NEW&bug_status=ASSIGNED&bug_status=REOPENED&bug_status=UNCONFIRMED&bugidtype=include&chfieldto=Now&cmdtype=doit&emailassigned_to1=1&emailassigned_to2=1&emailcc2=1&emailreporter2=1&emailtype1=substring&emailtype2=substring&field0-0-0=noop&long_desc_type=substring&order=bugs.delta_ts%20desc&query_format=advanced&short_desc_type=allwordssubstr&type0-0-0=noop) or [search for the bug](https://bugs.r-project.org/bugzilla/query.cgi) in Bugzilla to see if (even if it hasn't been patched yet) it has been reported. If your bug has not yet been reported or fixed, you can report the bug following the guidelines in the section [Writing a good bug report](#writing-a-good-bug-report). If you have a patch accompanying your bug, see the section [How to submit patches](#how-to-submit-patches).
 
 
@@ -100,7 +100,7 @@ This updates the code then creates a new file, `patch.diff`, that contains the c
 
 In an ideal world you write an informative bug report (and maybe submit a patch), someone comes along promptly and fixes it, and everyone is happy. In the world we've got, the people maintaining R have a lot of responsibilities, and all of them are doing this work as volunteers. This means that, practically speaking, bugs may take a very long time to get fixed, accidentally get missed, or result in an unexpected or unpleasant outcome - not out of any maliciousness but simply because the people responsible for the software can get pretty stressed.
 
-If you experience technical issues with R's Bugzilla that do not resolve themselves after a period of time, you should contact the current maintainer:  [simon.urbanek@R-project.org](mailto:simon.urbanek@R-project.org). If you feel like your bug has been missed (e.g. because a new release of R has come out, and it was not fixed), you can bring attention to it by simply adding a comment like "This is still present in the x.y.z release" on Bugzilla.  
+If you experience technical issues with R's Bugzilla that do not resolve themselves after a period of time, you should contact the current maintainer:  [simon.urbanek@R-project.org](mailto:simon.urbanek@R-project.org). If you feel like your bug has been missed (e.g. because a new release of R has come out, and it was not fixed), you can bring attention to it by simply adding a comment like "This is still present in the x.y.z release" on Bugzilla.
 Even better would be to install a pre-release alpha or beta version to confirm it is still present, and report that.
 
 If you feel it has been assessed wrongly, you can leave a comment to that effect on Bugzilla.  If you are personally acquainted with a member of R Core you could contact them directly.  In either case, present your case clearly, and respect the fact that the R Core members may judge the importance of the issue (or even whether it is a bug or not) differently than you do.
