@@ -42,7 +42,7 @@ for details. See [below](#contrib_pkgs) for questions on *contributed packages*.
 -   If the function is from a package accompanying a book, e.g., the MASS package, consult the book before posting
 -   The R Wiki has a [section on finding functions and documentation](http://rwiki.sciviews.org/doku.php?id=getting-started:reference-cards:getting-help)
 
-**Technical details of posting**: See [General Instructions](http://www.r-project.org/mail.html#instructions) for more details of the following:
+**Technical details of posting**: See [General Instructions](mail.html#instructions) for more details of the following:
 
 -   No HTML posting (harder to detect spam) (note that this is the default in some mail clients - you may have to turn it off). Note that chances have become relatively high for 'HTMLified' e-mails to be completely intercepted (without notice to the sender).
 -   No binary attachments except for PS, PDF, and some image and archive formats (others are automatically stripped off because they can contain malicious software). Files in other formats and larger ones should rather be put on the web and have only their URLs posted. This way a reader has the option to download them or not.
@@ -97,7 +97,7 @@ When providing examples, it is best to give an R command that constructs the dat
 -   Two books are often cited in answers to questions: [Venables & Ripley, 2002, Modern Applied Statistics with S (4th ed)](http://www.stats.ox.ac.uk/pub/MASS4) ("MASS") and
  [Pinheiro & Bates, 2000](http://link.springer.com/book/10.1007%2Fb98882)
 <!-- this is DOI:10.1007/b98882 -->
- (about lme in particular). If you can get these books, look at them. If you cannot, you might indicate this in your question. Further books relevant to R are listed at [Publications](http://www.r-project.org/doc/bib/R-publications.html).
+ (about lme in particular). If you can get these books, look at them. If you cannot, you might indicate this in your question. Further books relevant to R are listed at [Publications](doc/bib/R-publications.html).
 -   The [Contributed Documentation](http://cran.r-project.org/other-docs.html) page lists a number of useful introductory and other documents available online.
 -   The R-help archives (see under \`Archives and Search Facilities' at <http://www.r-project.org/mail.html>)
 -   A Google search of the web in general or the r-project site specifically (put \`site:r-project.org' at the beginning of the search terms)
