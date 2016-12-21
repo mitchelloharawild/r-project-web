@@ -10,6 +10,11 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+-	**useR! 2017** (July 4 - 7 in Brussels) has opened registration and
+	more at http://user2017.brussels/
+
+-   Tomas Kalibera has joined the R core team.
+
 -   The R Foundation welcomes five new ordinary members: Jennifer Bryan, Dianne Cook, Julie Josse, Tomas Kalibera, and Balasubramanian Narasimhan.
 
 -   [**R version 3.3.2 (Sincere Pumpkin Patch)**](http://cran.r-project.org/src/base/R-3)
@@ -17,7 +22,7 @@ has been released on Monday 2016-10-31.
 
 -   [**The R Journal Volume 8/1**](http://journal.r-project.org) is available.
 
--   The **useR! 2017** conference will take place in Brussels, July 4 - 7, 2017, and details will be appear here in due course.
+-   The **useR! 2017** conference will take place in Brussels, July 4 - 7, 2017.
 
 -   [**R version 3.3.1 (Bug in Your Hair)**](http://cran.r-project.org/src/base/R-3)
 	has been released on Tuesday 2016-06-21.
