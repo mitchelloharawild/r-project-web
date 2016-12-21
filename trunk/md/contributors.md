@@ -10,6 +10,7 @@ The current R is the result of a collaborative effort with contributions from al
 -   Robert Gentleman
 -   Kurt Hornik
 -   Ross Ihaka
+-   Tomas Kalibera
 -   Michael Lawrence
 -   Friedrich Leisch
 -   Uwe Ligges
