@@ -10,6 +10,8 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+-   [**R version 3.3.3 (Another Canoe) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Friday 2017-02-24. Final release is scheduled for Monday 2017-03-06. 
+
 -	**useR! 2017** (July 4 - 7 in Brussels) has opened registration and
 	more at http://user2017.brussels/
 
