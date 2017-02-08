@@ -35,11 +35,12 @@ Benefactors
 -   Greenwich Statistics, France
 -   HMS Analytical Software, Germany
 -   Institute of Mathematical Statistics (IMS), Ohio, USA
+-   INWT Statistics, Germany
 -   Mango Solutions, UK
 -   Marc Schwartz, USA
 -   Merck and Co. Inc., USA
 -   Mirai Solutions, Switzerland
--   Numbers Internation Pty Ltd,Australia
+-   Numbers Internation Pty Ltd, Australia
 -   OpenAnalytics, Belgium
 -   Prediction Company, Santa Fe, New Mexico, USA
 -   Revolution Analytics, USA
@@ -58,6 +59,7 @@ Benefactors
 Donors
 ------
 
+-   Radosav Andric, in memory of Ramiro Zurkowski, (Canada)
 -   AT&T Research (USA)
 -   Agrocampus Ouest (France)
 -   Vies Animales (France)
@@ -86,6 +88,7 @@ Donors
 -   David Freedman (USA)
 -   Manfred Georg (USA)
 -   Google Inc., Mountain View, California (USA)
+-   Greater Good (Netherlands)
 -   Greenwich Statistics (France)
 -   Grupo Usuarios R — Madrid (Spain)
 -   Nassim Haddad (Belgium)
@@ -109,7 +112,9 @@ Donors
 -   Merck and Co., Inc. (USA)
 -   Telecom New Zealand (New Zealand)
 -   Minato Nakazawa (Japan)
+-   Koen-Woong Moon (Korea)
 -   Network Theory Ltd, Bristol (United Kingdom)
+-   Daniel Neumann (Germany)
 -   Packt Publishing Limited (United Kingdom)
 -   Stavros Panidis (Greece)
 -   Norm Phillips (Canada)
@@ -121,8 +126,10 @@ Donors
 -   Rstudio Inc. (USA)
 -   Saxo Bank (Denmark)
 -   SBW Consulting (USA)
+-   Schukat Electronic Vertriebs GmbH (Germany)
 -   Phil Shepherd (New Zealand)
 -   Jogat Sheth (USA)
+-   Somewhat Retired (USA)
 -   N. Srinivasan (USA)
 -   Julian Stander (United Kingdom)
 -   Jeffrey R. Stevens (Germany)
@@ -134,6 +141,7 @@ Donors
 -   Ravinderpal Vaid (USA)
 -   Boris Vaillant (Germany)
 -   Hrishikesh D. Vinod (USA)
+-   Richard Vlasimsky, IMIDEX (USA)
 -   Ivo Welch
 -   Joshua Wiley (USA)
 -   Kevin Wright (USA)
@@ -178,6 +186,7 @@ Supporting Institutions
 -   Ef-prime Inc., Tokyo, Japan
 -   European Bioinformatics Inst., UK
 -   Hygeia Associates, California, USA
+-   Inference Technlologies, Czech Republic
 -   Institute for Geoinformatics, Westfälische
      Wilhelms-Universität Münster, Germany
 -   Lehrstuhl für Rechnerorientierte Statistik und Datenanalyse,
@@ -200,6 +209,7 @@ Supporting Institutions
 -   Klaus Abberger (Germany)
 -   Claudio Agostinelli (Italy)
 -   Stephan Robert Aichele (USA)
+-   Ayala S. Allon (Israel)
 -   Micah Altman (USA)
 -   Luc Anselin (USA)
 -   Carlos Enrique Carleos Artime (Spain)
@@ -311,6 +321,7 @@ Supporting Institutions
 -   Branimir K. Hackenberger (Croatia)
 -   Matthias Haeni (Switzerland)
 -   Florian Hahne (Germany)
+-   Michael Hahsler (USA)
 -   Frank Harrell (USA)
 -   Patrick Hausmann (Germany)
 -   O. Maurice Haynes (USA)
@@ -349,6 +360,7 @@ Supporting Institutions
 -   Sebastian Köhler (Germany)
 -   Richard König (Austria)
 -   Matthias Kohl (Germany)
+-   Christian Kohlberg (Germany)
 -   Ivan Kojadinovic (France)
 -   Katarzyna Kopczewska (Poland)
 -   Scott Kostyshak (USA)
@@ -395,6 +407,7 @@ Supporting Institutions
 -   Katharine Mullen (Netherlands)
 -   Joris Muller (France)
 -   Rashid Nassar (USA)
+-   Wojciech Niemczyk (Poland)
 -   Christian A. Oberst (Germany)
 -   Jens Oehlschlägel (Germany)
 -   Vadim Ogranovich (USA)
