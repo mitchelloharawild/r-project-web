@@ -2,7 +2,7 @@
 title: Donate to the R foundation
 ---
 
-There are two ways to give money to the R foundation. You can either give a one off donation of any amount, or you can become a supporting member of the R foundation.
+There are two ways to give money to the R foundation. You can either become a supporting member of the R foundation, or you can give a one off donation of any amount.
 
 ## Supporting member
 
