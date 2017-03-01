@@ -15,7 +15,7 @@ To become a supporting member of the R Foundation, please fill out the
 by fax or mail. To renew your membership, please fill out the
 [membership renewal form](membership-renewal.pdf) and return it by fax
 or mail. All supporting members will be listed on the R project homepage
-and in one issue of [R News](http://cran.r-project.org/doc/Rnews/) per
+and in one issue of [The R Journal](http://journal.r-project.org/) per
 year (unless the respective member prefers otherwise).
 
 Benefactors
