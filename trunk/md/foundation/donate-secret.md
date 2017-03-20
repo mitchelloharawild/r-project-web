@@ -4,7 +4,8 @@ title: Donate to the R Foundation
 
 There are two ways to give money to the R Foundation.  You can either become
 a supporting member of the R foundation with an annual donation, or you can
-give a one off donation of any amount.
+give a one off donation of any amount. If you have questions, please contact
+<treasurer@R-project.org>.
 
 ## Supporting Member
 
