@@ -8,7 +8,7 @@ give a one off donation of any amount.
 
 ## Supporting Member
 
-To become a supporting member of the R Foundation, please fill out online
+To become a supporting member of the R Foundation, please fill out this online
 form. To renew your membership, please fill out the same form.
 
 <script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/rproject-member?hide_donation_meter=true" height="685px" width="100%" style="max-width:500px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>
@@ -16,9 +16,11 @@ form. To renew your membership, please fill out the same form.
 ## One-off Donation
 
 If you want to donate money to the R Foundation, please fill out the online
-form.  All donors will be listed on the R project homepage and in one issue
+form below. All donors will be listed on the R project homepage and in one issue
 of [the R Journal](http://journal.r-project.org) per year (unless the
-respective donor prefers otherwise).
+respective donor prefers otherwise).  If you want to donate money to the R
+Foundation offline, please fill out the [PDF donation
+form](donation-form.pdf) and return it by fax or mail.
 
 <script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/rproject-donate?hide_donation_meter=true" height="685px" width="100%" style="max-width:500px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>
 
