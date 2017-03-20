@@ -1,8 +1,10 @@
 ---
-title: R Foundation Members & Supporters
+title: R Foundation Supporting Members & Donors
 ---
 
-Any person or legal entity may become a supporting member of the R foundation. Supporting members promote the organization primarily by paying membership fees.
+Any person or legal entity may become a supporting member of the R
+foundation. Supporting members promote the organization primarily by paying
+membership fees.
 
 Annual membership fees for supporting members are:
 
@@ -10,13 +12,14 @@ Annual membership fees for supporting members are:
 * Supporting institutions:      EUR 250
 * Supporting benefactors:       EUR 500
 
-To become a supporting member of the R Foundation, please fill out the
-[membership application form](membership-application.pdf) and return it
-by fax or mail. To renew your membership, please fill out the
-[membership renewal form](membership-renewal.pdf) and return it by fax
-or mail. All supporting members will be listed on the R project homepage
-and in one issue of [The R Journal](http://journal.r-project.org/) per
-year (unless the respective member prefers otherwise).
+To become a new supporting member or renew your existing supporting membership of the R
+Foundation, please fill out the online [membership application form](donations.html).  
+All supporting members will be listed on the R project homepage and 
+in one issue of [The R Journal](http://journal.r-project.org/) 
+per year (unless the respective member prefers otherwise).
+
+For one-off donations to the R Foundation, please fill out the 
+online [donation form](donations.html).
 
 Benefactors
 -----------
