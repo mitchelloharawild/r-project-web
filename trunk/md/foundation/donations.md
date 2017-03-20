@@ -26,9 +26,9 @@ form](donation-form.pdf) and return it by fax or mail.
 
 <script src="https://donorbox.org/widget.js" type="text/javascript"></script><iframe src="https://donorbox.org/embed/rproject-donate?hide_donation_meter=true" height="685px" width="100%" style="max-width:500px; min-width:310px" seamless="seamless" id="dbox-form-embed" name="donorbox" frameborder="0" scrolling="no"></iframe>
 
-##### Notes for non-Europeans
+##### Note for US Taxpayers
 
--   USA: The R Foundation is not registered as a charitable
+-   The R Foundation is not registered as a charitable
 organisation in the USA. The Society of Indian Academics in America (SIAA) has
 kindly offered to fund R Foundation activities if donations to it are
 earmarked for this use, and these donations may be tax deductible.  For
