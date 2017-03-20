@@ -12,11 +12,10 @@ Annual membership fees for supporting members are:
 * Supporting institutions:      EUR 250
 * Supporting benefactors:       EUR 500
 
-To become a new supporting member or renew your existing supporting membership of the R
-Foundation, please fill out the online [membership application form](donations.html).  
-All supporting members will be listed on the R project homepage and 
-in one issue of [The R Journal](http://journal.r-project.org/) 
-per year (unless the respective member prefers otherwise).
+To become a new supporting member or renew your existing supporting
+membership of the R Foundation, please fill out the online [membership application form](donations.html).  All supporting members will be listed on
+the R project homepage and in one issue of [The R Journal](http://journal.r-project.org/) per year (unless the respective
+member prefers otherwise).
 
 For one-off donations to the R Foundation, please fill out the 
 online [donation form](donations.html).
