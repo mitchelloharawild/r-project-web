@@ -57,6 +57,7 @@ Benefactors
 -   Statisticon AB, Uppsala, Sweden
 -   Tibco Software Inc., Palo Alto, USA
 -   The Generations Network, San Francisco, USA
+-   Transmitting Science (Spain)
 
 Donors
 ------
@@ -137,7 +138,6 @@ Donors
 -   Jeffrey R. Stevens (Germany)
 -   Stanford University, California (USA)
 -   Kevin Tappe (Germany)
--   Transmitting Science (Spain)
 -   Università Cà Foscari Venezia (Italy)
 -   Université de Nantes (France)
 -   Ravinderpal Vaid (USA)
