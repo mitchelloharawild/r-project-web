@@ -57,7 +57,7 @@ Benefactors
 -   Statisticon AB, Uppsala, Sweden
 -   Tibco Software Inc., Palo Alto, USA
 -   The Generations Network, San Francisco, USA
--   Transmitting Science (Spain)
+-   Transmitting Science, Spain
 
 Donors
 ------
