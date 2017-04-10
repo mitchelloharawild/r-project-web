@@ -26,6 +26,8 @@ Usually, no proceedings are published for useR! conferences.
 
 <!-- NB: Not in SVN: Rather server-side "rewrites" and server-only copies : -->
 
+* [useR! 2017](https://user2017.brussels/), Brussels, Belgium.
+
 * [useR! 2016](https://www.r-project.org/useR-2016/), Stanford, CA, USA.
 
 * [useR! 2015](https://www.r-project.org/useR-2015/), Aalborg, Denmark.
