@@ -1,3 +1,4 @@
+
 ---
 title: R Foundation Supporting Members & Donors
 ---
@@ -20,85 +21,66 @@ member prefers otherwise).
 For one-off donations to the R Foundation, please fill out the 
 online [donation form](donations.html).
 
-Benefactors
+
+
+Donors (after March 2017)
 -----------
 
--   Joseph J. Allaire, Rstudio Inc., USA
--   Annuitas, USA
--   b-data, Switzerland
--   Burns Statistics Ltd., London, U.K.
--   Cybaea Limited, U.K.
--   Department of Statistics, Brigham Young University, Utah, USA
--   Dsquare, Germany
--   Paul von Eikeren, USA
--   eoda, Germany
--   ESRI, USA
--   Giannasca Corrado & Montagna Maria, Italy
--   Greenwich Statistics, France
--   HMS Analytical Software, Germany
--   Institute of Mathematical Statistics (IMS), Ohio, USA
--   INWT Statistics, Germany
--   Mango Solutions, UK
--   Marc Schwartz, USA
--   Merck and Co. Inc., USA
--   Mirai Solutions, Switzerland
--   Numbers Internation Pty Ltd, Australia
--   OpenAnalytics, Belgium
--   Prediction Company, Santa Fe, New Mexico, USA
--   Revolution Analytics, USA
--   Quantide, Italy
--   Quartz Bio, Switzerland
--   Ritter and Danielson Consulting, Belgium
--   Saxo Bank, Denmark
--   Saorstat Limited, Ireland
--   Schröder Investment Management Ltd., London, UK
--   InterContinental Hotels Group, USA
--   Shell Statistics and Chemometrics, Chester, UK
--   Statisticon AB, Uppsala, Sweden
--   Tibco Software Inc., Palo Alto, USA
--   The Generations Network, San Francisco, USA
--   Transmitting Science, Spain
 
-Donors
-------
+-   Radosav Andric (in memory of Ramiro Zurkowski) (Canada)
+-   Emilio Ciccone (Italy)
+-   Guillaume Coqueret (France)
+-   Yves Deville (France)
+-   David Feedman (United States)
+-   Ken Ikeda (Japan)
+-   Daniel Neumann (Germany)
+-   Kem Phillips (United States)
+-   Thomas Roth (Germany)
+-   Christopher W. Ryan (United States)
+-   Richard Vlasimsky (United States)
+-   Daniel Wollschläger (Germany)
+-   Martin Worm-Leonhard (Denmark)
+-   Stefan Wyder (Switzerland)
+-   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
+-   Estonian Genome Center, Tartu (Estonia)
+-   Google Inc., Mountain View (United States)
+-   Greater Good, Maastricht (Nederlands)
+-   Schukat Electronic Vertriebs GmbH, Monheim (Germany)
 
--   Radosav Andric, in memory of Ramiro Zurkowski, (Canada)
--   AT&T Research (USA)
+Donors (before March 2017)
+-----------
+
+
+-   AT&T Research (United States)
 -   Agrocampus Ouest (France)
 -   Vies Animales (France)
 -   Austrian Association for Statistical Computing (Austria)
 -   Adelchi Azzalini (Italy)
 -   BC Cancer Agency, Vancouver (Canada)
 -   Fabian Barth (Germany)
--   Biostatistics and Research Decision Sciences, Merck Research
-    Laboratories (USA)
--   Brian Caffo (USA)
--   David W. Crawford (USA)
--   Dianne Cook (USA)
--   Yves DeVille (France)
+-   Brian Caffo (United States)
+-   David W. Crawford (United States)
+-   Dianne Cook (United States)
 -   Department of Economics, University of Milano (Italy)
 -   Department of Mathematics and Statistics, University of Vaasa (Finland)
 -   Dipartimento di Scienze Statistiche e Matematiche di Palermo
     (Italy)
 -   Emanuele De Rinaldis (Italy)
--   Zubin Dowlaty (USA)
+-   Zubin Dowlaty (United States)
 -   Faculty of Economics, University of Groningen (Netherlands)
 -   Faculty of Psychology, University of Barcelona (Spain)
 -   Ilker Esener (Switzerland)
--   Jaimison Fargo (USA)
--   Jason Fisher (USA)
--   Peter L. Flom (USA)
--   David Freedman (USA)
--   Manfred Georg (USA)
--   Google Inc., Mountain View, California (USA)
--   Greater Good (Netherlands)
+-   Jaimison Fargo (United States)
+-   Jason Fisher (United States)
+-   Peter L. Flom (United States)
+-   Manfred Georg (United States)
 -   Greenwich Statistics (France)
 -   Grupo Usuarios R — Madrid (Spain)
 -   Nassim Haddad (Belgium)
 -   Helsana Versicherungen AG (Switzerland)
 -   Hort Research Institute (New Zealand)
--   Rick Hubbard (USA)
--   Geoffrey S Hubona, The Georgia R School (USA)
+-   Rick Hubbard (United States)
+-   Geoffrey S Hubona, The Georgia R School (United States)
 -   Ilustat (Portugal)
 -   Owen Jones, Robert Maillardet and Andrew Robinson (Royalties for the
     book “Scientific Programming and Simulation Using R”)
@@ -106,397 +88,130 @@ Donors
 -   Kristian Kieselman (Sweden)
 -   Korean R Users Group (Korea)
 -   Olaf Krenz (Germany)
--   Jonathan M. Lees (USA)
--   J. Brian Loria (USA)
+-   Jonathan M. Lees (United States)
+-   J. Brian Loria (United States)
 -   Peeter Luikmel (Estland)
 -   Vittorio de Martino (Italy)
 -   Shigeru Mase (Japan)
--   Peter M Maksymuk (USA)
--   Merck and Co., Inc. (USA)
+-   Peter M Maksymuk (United States)
+-   Merck and Co., Inc. (United States)
 -   Telecom New Zealand (New Zealand)
 -   Minato Nakazawa (Japan)
 -   Koen-Woong Moon (Korea)
 -   Network Theory Ltd, Bristol (United Kingdom)
--   Daniel Neumann (Germany)
 -   Packt Publishing Limited (United Kingdom)
 -   Stavros Panidis (Greece)
 -   Norm Phillips (Canada)
--   Bill Pikounis (USA)
+-   Bill Pikounis (United States)
 -   Jens Pongratz (Switzerland)
 -   Joanne M Potts, The Analytical Edge (Australia)
--   Quan Development LLC (USA)
--   Jim Robinson-Cox, Montana State University (USA)
--   Rstudio Inc. (USA)
+-   Quan Development LLC (United States)
+-   Jim Robinson-Cox, Montana State University (United States)
+-   Rstudio Inc. (United States)
 -   Saxo Bank (Denmark)
--   SBW Consulting (USA)
--   Schukat Electronic Vertriebs GmbH (Germany)
+-   SBW Consulting (United States)
 -   Phil Shepherd (New Zealand)
--   Jogat Sheth (USA)
--   Somewhat Retired (USA)
--   N. Srinivasan (USA)
+-   Jogat Sheth (United States)
+-   Somewhat Retired (United States)
+-   N. Srinivasan (United States)
 -   Julian Stander (United Kingdom)
 -   Jeffrey R. Stevens (Germany)
--   Stanford University, California (USA)
+-   Stanford University, California (United States)
 -   Kevin Tappe (Germany)
 -   Università Cà Foscari Venezia (Italy)
 -   Université de Nantes (France)
--   Ravinderpal Vaid (USA)
+-   Ravinderpal Vaid (United States)
 -   Boris Vaillant (Germany)
--   Hrishikesh D. Vinod (USA)
--   Richard Vlasimsky, IMIDEX (USA)
+-   Hrishikesh D. Vinod (United States)
 -   Ivo Welch
--   Joshua Wiley (USA)
--   Kevin Wright (USA)
--   Stefan Wyder (Switzerland)
+-   Joshua Wiley (United States)
+-   Kevin Wright (United States)
+
+Supporting Benefactors
+-----------
+
+
+-   Keon-Woong Moon (South Korea)
+-   Brigham Young University, Provo (United States)
+-   Transmitting Science, Barcelona (Spain)
 
 Supporting Institutions
------------------------
+-----------
 
--   SriSatish Ambati, USA
--   Astra Zeneca R&D Mölndal, Mölndal, Sweden
--   AT&T Labs, New Jersey, USA
--   Baxter AG, Vienna, Austria
--   Baxter Healthcare Corp., California, USA
--   BC Cancer Agency, Vancouver, Canada
--   Black Mesa Capital, Santa Fe, USA
--   Boehringer Ingelheim RCV GmbH & Co KG, Vienna, Austria
--   Breast Center at Baylor College of Medicine, Houston, Texas, USA
--   Center für digitale Systeme, Freie Universität Berlin, Germany
--   Chaire d'actuariat, Université Laval, Canada
--   Clinical Trial Unit, University Hospital Basel, Switzerland
--   Dana-Farber Cancer Institute, Boston, USA
--   Department of Biostatistics, Johns Hopkins University, Maryland,
-    USA
--   Department of Biostatistics, Vanderbilt University School of
-    Medicine, USA
--   Department of Economics, Stockholm University, Sweden
--   Department of Mathematical Sciences, Aalborg University, Denmark
--   Department of Mathematics and Statistics, Utah State University,
-    USA
--   Department of Statistics, University of California at Los Angeles,
-    USA
--   Department of Statistics, University of Warwick, Coventry, UK
--   Department of Statistics, University of Wisconsin-Madison,
-    Wisconsin, USA
--   Department of Statistics, Iowa State University, USA
--   Department of Statistics & Actuarial Science, University of Iowa,
-    USA
--   DFG Research Group “Mind and Brain Dynamics”, Universität Potsdam,
-    Germany
--   Dipartimento di Statistica, Università Cà Foscari di Venezia, Italy
--   Division of Biostatistics, University of California, Berkeley, USA
--   Ef-prime Inc., Tokyo, Japan
--   European Bioinformatics Inst., UK
--   Hygeia Associates, California, USA
--   Inference Technlologies, Czech Republic
--   Institute for Geoinformatics, Westfälische
-     Wilhelms-Universität Münster, Germany
--   Lehrstuhl für Rechnerorientierte Statistik und Datenanalyse,
-    University of Augsburg, Germany
--   MEI Research Ltd, USA
--   MPI for Demographic Research, Rostock, Germany
--   Marine Scotland Science, UK
--   Massachusetts General Hospital Biostatistics Center, Boston, USA
--   National Public Health Institute, Helsinki, Finland
--   Norwegian Institute of Marine Research, Bergen, Norway
--   School of Economics and Finance, Victoria University of Wellington,
-    New Zealand
--   Syncfusion Inc, USA
--   TERRA Lab, University of Regina - Department of Geography, Canada
--   Universität für Bodenkultur, Austria
--   ViaLactia Biosciences (NZ) Ltd, Auckland, New Zealand
 
-### Supporting Members
+-   BC Cancer Agency, Vancouver (Canada)
+-   EMBL, Heidelberg (Germany)
+-   Inference Technologies, Roznov pod Radhostem (Poland)
+-   Institute of Mathematical Statistics, Beachwood (United States)
+-   Marine Laboratory, Torry (United Kingdom)
+-   University of Iowa, Iowa City (United States)
 
--   Klaus Abberger (Germany)
--   Claudio Agostinelli (Italy)
--   Stephan Robert Aichele (USA)
--   Ayala S. Allon (Israel)
--   Micah Altman (USA)
--   Luc Anselin (USA)
--   Carlos Enrique Carleos Artime (Spain)
--   Ricardo Azevedo (USA)
--   Adelchi Azzalini (Italy)
--   James Bachman (USA)
--   Pierluigi Ballabeni (Switzerland)
--   José Banda (USA)
--   Saghir Bashir (UK)
--   Robert M. Baskin (USA)
--   Annette Baumann (Germany)
--   Marcel Baumgartner (Switzerland)
--   Abdu Benheddi (Switzerland)
--   Axel Benner (Germany)
--   Michael Blanks (USA)
--   Andrej Blejec (Slovenia)
--   Simon Blomberg (Australia)
--   Gordon Blunt (UK)
--   Michael Bojanowski (NL)
--   Benjamin M. Bolstad (USA)
--   David Booth (USA)
--   Hans Werner Borchers (Germany)
--   Rafael Borges (Venezuela)
--   Roger J. Bos (USA)
--   Jake Bowers (UK)
--   Lance Brannmann (USA)
--   Bernhard Brabec (Germany)
--   Rollin Brant (Canada)
--   Alessandra R. Brazzale (Italy)
--   Julia Brettschneider (Canada)
--   Paul J. Brewer (Hong Kong)
--   Karl W. Broman (USA)
--   Christopher Brown (USA)
--   Caoimhin ua Buachalla (Ireland)
--   Peter Bühlmann (Switzerland)
--   Olaf Bürger (Germany)
--   Matthias Burger (Germany)
--   Robert Burrows (USA)
--   Federico Calboli (Italy)
--   Nicoleta Caragea (Romania)
--   Vince Carey (USA)
--   Olivier Celhay (France)
--   Masoud Charkhabi (Canada)
--   Alexandru Antoniade Ciprian (Romania)
--   Charles M. Cleland (USA)
--   Francois Collin (USA)
--   Dianne Cook (USA)
--   Ian M. Cook (USA)
--   Leslie Cope (USA)
--   Robin Crocket (UK)
--   Kapo Martin Coulibaly (USA)
--   James Curran (New Zealand)
--   Gergely Daroczi (Hungary)
--   James Davis (USA)
--   Javier de las Rivas (Spain)
--   Jorge de la Vega Góngora (Mexico)
--   Jan de Leeuw (USA)
--   Yves DeVille (France)
--   Marcel Dettling (USA)
--   Stephan Devriese (Belgium)
--   Tarundeep Dhot (Canada)
--   Beiying Ding (USA)
--   Ramón Díaz-Uriarte (Spain)
--   Ana Maria Dobre (Romania)
--   Dubravko Dolic (Germany)
--   Adrian A. Dragulescu (USA)
--   Sandrine Dudoit (USA)
--   Frans van Dunné (Netherlands)
--   Sandrah P. Eckel (USA)
--   Andreas Eckner (USA)
--   Dirk Eddelbuettel (USA)
--   Stephen Eglen (UK)
--   Peter Ehlers (Canada)
--   Martin Elff (Germany)
--   Stephen L. R. Ellison (UK)
--   Jay Emerson (USA)
--   Werner Engl (Austria)
--   Hubert Eser (Austria)
--   Chris Evans (UK)
--   Seth Falcon (USA)
--   Martin Fresow (Germany)
--   Davide Fiaschi (Italy)
--   John Field (Australia)
--   Jason Fisher (USA)
--   Charles Fleming (USA)
--   Romain Francois (France)
--   Laurence Frank (Netherlands)
--   Benjamin French (USA)
--   Jutta Gampe (Germany)
--   Jan Marvin Garbuszus (Germany)
--   Sarah "Mason" Garrison (USA)
--   Simon Gatehouse (Australia)
--   Laurent Gautier (Singapore)
--   John Gavin (UK)
--   Jeff Gentry (USA)
--   Jakob Geipel (Germany)
--   Marco Geraci (UK)
--   John R. Gleason (USA)
--   Darlene Goldstein (Switzerland)
--   Gregor Gorjanc (Slovenia)
--   Jerome Goudet (Switzerland)
--   Arthur W. Green (USA)
--   Philippe Grosjean (Belgium)
--   Susan Gruber (USA)
--   Stefano Guazzetti (Italy)
--   Leopoldo E. Guzman (USA)
--   Balazs Györffy (Germany)
--   Lorenz Gygax (Switzerland)
--   Branimir K. Hackenberger (Croatia)
--   Matthias Haeni (Switzerland)
--   Florian Hahne (Germany)
--   Michael Hahsler (USA)
--   Frank Harrell (USA)
--   Patrick Hausmann (Germany)
--   O. Maurice Haynes (USA)
--   Chel Hee Lee (Canada)
--   David Henderson (USA)
--   Kai Hendry (UK)
--   Arne Henningsen (Germany)
--   Pascal Heus (USA)
--   Paul Hewson (UK)
--   Anja von Heydebreck (Germany)
--   Giles Heywood (UK)
--   Eugène Horber (Switzerland)
--   Nicholas Horton (USA)
--   Ludwig Hothorn (Germany)
--   Torsten Hothorn (Germany)
--   Hui Huang (USA)
--   Wolfgang Huber (UK)
--   Karl Ove Hufthammer (Norway)
--   Brad Huntting (USA)
--   Johannes Hüsing (Germany)
--   Joe Ibrahim (USA)
--   Rafael Irizarry (USA)
--   Andrew Irwin (Canada)
--   Simon Jackman (USA)
--   David A. James (USA)
--   Owe Jessen (Germany)
--   Paulo Justiniano (Brasil)
--   Landon Jensen (USA)
--   Graham Jones (UK)
--   Hans-Michael Kaltenbach (Germany)
--   Stephen Kaluzny (USA)
--   Marjatta Kari (Finland)
--   Osmo Kari (Finland)
--   Christian Keller (Switzerland)
--   Felix M. Kluxen (Germany)
--   Sebastian Köhler (Germany)
--   Richard König (Austria)
--   Matthias Kohl (Germany)
--   Christian Kohlberg (Germany)
--   Ivan Kojadinovic (France)
--   Katarzyna Kopczewska (Poland)
--   Scott Kostyshak (USA)
--   Jesse Krijthe (Netherlands)
--   Diego Kuonen (Switzerland)
--   Luca La Rocca (Italy)
--   Mark J. van der Laan (USA)
--   Peter Lauf (Germany)
+Supporting Members
+-----------
+
+
+-   Abdulrahman Al-Qasem (Saudi Arabia)
 -   Philippe Baril Lecavalier (Canada)
--   Kee-Won Lee (South Korea)
--   Bernhard Lehnert (Germany)
--   Ralph Leonhardt (Germany)
--   Xiaochun Li (USA)
--   Andy Liaw (USA)
--   Manuel Castéjon Limas (Spain)
--   Mu-Yen Lin (Taiwan)
--   Sam Lin (New Zealand)
--   Jeffrey Lins (Danmark)
--   Greg Louis (Canada)
--   Xin Lu (USA)
--   Clifford E. Lunneborg (USA)
--   James W. MacDonald (USA)
--   John Maindonald (Australia)
--   John Marsland (UK)
--   Andrew D. Martin (USA)
+-   Marcel Baumgartner (Switzerland)
+-   Andrew Brown (United States)
+-   Ian Cook (United States)
+-   Robin Crockett (United Kingdom)
+-   Gábor Csárdi (United Kingdom)
+-   James Davis (United States)
+-   Ajit de Silva (United States)
+-   Dubravko Dolic (Germany)
+-   Sandrine Dudoit (United States)
+-   Joran Elias (United States)
+-   Daniel Emaasit (United States)
+-   Arturo Erdely (Mexico)
+-   Hubert Eser (Austria)
+-   John Fox (Canada)
+-   Carl Ganz (United States)
+-   Philippe Grosjean (Belgium)
+-   Bela Hausmann (Austria)
+-   Kieran Healy (United States)
+-   Jim Hester (United States)
+-   Michael Johansson (Puerto Rico)
+-   Stephen Kaluzny (United States)
+-   Christian Keller (Switzerland)
+-   Sebastian Koehler (Germany)
+-   Katarzyna Kopczewska (Poland)
+-   Alexander Kowarik (Austria)
+-   Diego Kuonen (Switzerland)
+-   Andy Liaw (United States)
+-   Ben Marwick (United States)
 -   Shigeru Mase (Japan)
--   Daniel Mathews (USA)
--   A.I. McLeod (Canada)
 -   Dieter Menne (Germany)
--   Michael J. Messner (USA)
--   Jacob J. Michaelson (USA)
--   Hans Mielke (Germany)
--   Alexander Miron (USA)
--   Guido Möser (Germany)
--   Fausto Molinari (Sweden)
 -   David Monterde (Spain)
--   Chris Moriatity (USA)
--   Gordon M. Morrison (UK)
--   Iago Mosqueira (Spain)
--   Pavel Motuzenko (Czech Republic)
--   Robert A. Muenchen (USA)
+-   Bob Muenchen (United States)
 -   Hannes Mühleisen (Netherlands)
--   Marlene Müller (Germany)
--   Katharine Mullen (Netherlands)
 -   Joris Muller (France)
--   Rashid Nassar (USA)
--   Wojciech Niemczyk (Poland)
--   Christian A. Oberst (Germany)
--   Jens Oehlschlägel (Germany)
--   Vadim Ogranovich (USA)
--   Masafumi Okada (Japan)
--   George Ostrouchov (USA)
--   Nathan L. Pace (USA)
--   John C. Paolillo (USA)
--   Agnes Paquet (USA)
--   Marc Pelath (UK)
--   Nathan Pellegrin (USA)
--   Roger Peng (USA)
--   Thomas Petzoldt (Germany )
--   Bernhard Pfaff (Germany)
--   Kem Phillips (USA)
--   Bill Pikounis (USA)
--   Rafael Pino-Mejías (Spain)
--   Tony Plate (USA)
--   Katherine Pollard (USA)
--   Geoff Potvin (USA)
--   Christophe Pouzat (France)
--   Michael H. Prager (USA)
--   Gillian Raab (UK)
--   Jonas Ranneby (USA)
+-   Michihiro Nakamura (Japan)
+-   Ludvig Renbo Olsen (Denmark)
+-   George Ostrouchov (United States)
+-   Matthew Pancia (United States)
+-   Marc Pelath (United States)
+-   Lauf Peter (Germany)
 -   Jonas Ranstam (Sweden)
--   Gus Rashid (USA)
--   Roland Rau (Germany)
--   Greg Ridgeway (USA)
--   Jeffrey Rosenthal (Canada)
--   Thomas Roth (Germany)
--   Claude Rubinson (USA)
--   Peter Ruckdeschel (Germany)
--   Ingo Ruczinski (USA)
+-   Paulo Justiniano Ribeiro Jr (Brazil)
+-   Marty Rose (United States)
+-   Bob Rudis (United States)
 -   Manel Salamero (Spain)
--   Alexandre Salvador (France)
--   Keith Satherley (Australia)
--   Erik A. Sauleau (France)
--   Michael G. Schimek (Austria)
--   Martin Schlather (Germany)
--   Denise Scholtens (USA)
--   Christian Schulz (Germany)
--   Friedrich Schuster (Germany)
--   Michael Scroggie (Australia)
--   R. Woodrow Setzer (USA)
--   Qian Shi (USA)
--   Jong-Hwa Shin (Korea)
--   Ajit de Silva (USA)
--   Ken Simpson (Australia)
--   Colin A. Smith (USA)
--   Gordon K. Smyth (Australia)
--   Terence P. Speed (USA)
--   Kenneth S. Spriggs (USA)
--   Julian Stander (UK)
--   Arthur J. Stock (Canada)
--   Martin Studer (Switzerland)
--   Michael Sulik (USA)
--   Thomas Telkamp (Netherlands)
--   Klaus Thul (Taiwan)
--   Michael Tiefelsdorf (USA)
--   Shusaku Tsumoto (Japan)
--   Frederik von Ameln (Switzerland)
--   Alejandro Veen (USA)
--   Klemens Vierlinger (Austria)
--   Vincent Vinh-Hung (Belgium)
--   David Vonka (CZ)
--   Scott R. Waichler (USA)
--   Rainer Walke (Germany)
--   Mario Walter (Germany)
--   Ko-Kang Kevin Wang (New Zealand)
--   Harald Weedon-Fekjær (Norway)
--   Bernd Weiß (Germany)
--   Ivo Welch (USA)
--   Stefan Werner (Finland)
--   Brandon Whitcher (UK)
--   Wen Hsiang Wie (Taiwan)
--   Joshua Wiley (USA)
--   Matthew Wilkes (UK)
--   Andy Wills (USA)
--   Mathe W. Woodyard (USA)
--   Kevin Wright (USA)
--   Zhijin (Jean) Wu (USA)
--   Stefan Wyder (Switzerland)
--   Jean Yee Hwa Yang (Australia)
--   Joon You (USA)
+-   Kenneth Spriggs (United States)
+-   Julian Stander (United Kingdom)
+-   Berthold Stegemann (Germany)
+-   Nicholas Tierney (Australia)
+-   Caoimhin Ua Buachalla (Ireland)
+-   Shinya Uryu (Japan)
+-   Mauricio Vargas (United States)
+-   Steven Vasquez-Grinnell (United States)
+-   Boris Veytsman (United States)
+-   Vincent Vinh-Hung (Martinique)
+-   Andy Wills (United Kingdom)
+-   Nan Xiao (United States)
+-   Hiroaki Yutani (Japan)
 -   Tomas Zelinsky (Slovakia)
--   Jianhua Zhang (USA)
--   Jitao David Zhang (Germany)
--   Alex Zolot (USA)
--   Thomas Zumbrunn (Switzerland)
--   Victor D. Zurkowski (Canada)
 
+
+
+Last update: 2017-04-11
