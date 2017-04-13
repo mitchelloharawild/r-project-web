@@ -33,6 +33,7 @@ Usually, no proceedings are published for useR! conferences.
 * [useR! 2015](https://www.r-project.org/useR-2015/), Aalborg, Denmark.
 
 * [useR! 2014](https://www.r-project.org/useR-2014/), Los Angeles, CA, USA.
+  ([local copy](https://www.r-project.org/conferences/useR-2014))
 
 * [useR! 2013](https://www.r-project.org/useR-2013/), Albacete, Spain
   ([local copy](https://www.r-project.org/conferences/useR-2013))
@@ -44,6 +45,7 @@ Usually, no proceedings are published for useR! conferences.
   ([local copy](https://www.r-project.org/conferences/useR-2011))
 
 * [useR! 2010](https://www.r-project.org/conferences/useR-2010), Gaithersburg, MD, USA.
+  ([local copy](https://www.r-project.org/conferences/useR-2010))
 
 * [useR! 2009](http://math.agrocampus-ouest.fr/infoglueDeliverLive/evenements/useR2009),
   Rennes, France ([local copy](https://www.r-project.org/conferences/useR-2009)).
