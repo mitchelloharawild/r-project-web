@@ -10,12 +10,8 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
--   [**R version 3.4.1 (Single Candle) prerelease versions**](http://cran.r-project.org/src/base-prerelease)
-    will appear starting Tuesday 2017-06-20. Final release is
-    scheduled for Friday 2017-06-30.
-
--   [**R version 3.4.0 (You Stupid Darkness)**](http://cran.r-project.org/src/base/R-3)
-    has been released on Friday 2017-04-21.
+-   [**R version 3.4.1 (Single Candle)**](http://cran.r-project.org/src/base/R-3)
+    has been released on Friday 2017-06-30.
 
 -   [**R version 3.3.3 (Another Canoe)**](http://cran.r-project.org/src/base/R-3)
     has been released on Monday 2017-03-06.
