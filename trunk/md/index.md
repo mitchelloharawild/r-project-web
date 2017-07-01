@@ -10,6 +10,8 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+-   [**The R Journal Volume 9/1**](https://journal.r-project.org/archive/2017-1) is available.
+
 -   [**R version 3.4.1 (Single Candle)**](http://cran.r-project.org/src/base/R-3)
     has been released on Friday 2017-06-30.
 
