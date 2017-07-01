@@ -18,6 +18,8 @@ If you have questions about R like how to download and install the software, or 
 -   [**R version 3.3.3 (Another Canoe)**](http://cran.r-project.org/src/base/R-3)
     has been released on Monday 2017-03-06.
 
+-   [**The R Journal Volume 8/2**](https://journal.r-project.org/archive/2016-2) is available.
+
 -	**useR! 2017** (July 4 - 7 in Brussels) has opened registration and
 	more at http://user2017.brussels/
 
