@@ -9,7 +9,8 @@ The R project actively supports two conference series, organized regularly by me
 
 A rough outline of the format for the respective conferences is given below; both conference formats were developed by the [Austrian Association for Statistical Computing (AASC)](http://www.aasc.or.at/) in cooperation with the [R Foundation for Statistical Computing](https://www.r-project.org/foundation).
 
-R-related conferences are coordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of [Torsten Hothorn (Universität Zürich)](http://user.math.uzh.ch/hothorn/) and [Achim Zeileis (Universität Innsbruck)](http://statmath.wu.ac.at/~zeileis/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at <R-conferences@r-project.org>.
+useR! and DSC conferences are coordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of 
+[Julie Josse (Ecole Polytechnique)](http://juliejosse.com/), [Heather Turner](http://www.heatherturner.net/) and [Achim Zeileis (Universität Innsbruck)](http://statmath.wu.ac.at/~zeileis/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at <R-conferences@r-project.org>.
 
 The R Foundation has a policy requiring [codes of conduct at R conferences](/behaviour.html).
 
@@ -21,6 +22,7 @@ This is the main meeting of the R user and developer community, its program cons
 
 -   The invited keynote lectures cover a broad spectrum of topics ranging from technical and R-related computing issues to general statistical topics of current interest.
 -   The user-contributed presentations are submitted as abstracts prior to the conference and may be related to (virtually) any R-related topic. The presentations are typically organized in sessions of either broad or special interest, which also comprise a "free" discussion format. Such a discussion format not only provides a forum for software demonstrations and detailed discussions but also supports the self-organization of the respective communities.
+-   The RFCC actively invites potential local organisers to submit proposals regarding future useR! conferences. Groups thinking about hosting a useR! conference are welcome to contact the RFCC by email at <R-conferences@r-project.org>.
 
 Usually, no proceedings are published for useR! conferences.
 
