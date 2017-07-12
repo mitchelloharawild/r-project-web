@@ -78,6 +78,8 @@ DSC is a conference for the developers of statistical software and researchers i
 
 DSC has had two different incarnations. The first was a biennial conference series from 1999 to 2009 with open registration, an open call for papers and peer-reviewed conference proceedings. After a 5 year hiatus, DSC resumed in 2014 as an annual conference coinciding with the General Assembly of the R Foundation. In its current form, participation in DSC is by invitation only.
 
+* [DSC 2017](dsc/2017), Brussels, Belgium.
+
 * [DSC 2016](dsc/2016), Stanford, USA.
 
 * [R Summit 2015](http://info.cbs.dk/rsummit2015), Copenhagen, Denmark
