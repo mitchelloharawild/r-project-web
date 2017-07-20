@@ -88,6 +88,9 @@ Additionally, there are several specific ***S**pecial **I**nterest **G**roup* (=
 * [`R-SIG-mediawiki`](https://stat.ethz.ch/mailman/listinfo/r-sig-mediawiki):
   R SIG on the R Extension for Mediawiki
 
+* [`R-SIG-meta-analysis`](https://stat.ethz.ch/mailman/listinfo/r-sig-meta-analysis):
+  R SIG for discussing the use of R for conducting meta-analyses
+
 * [`R-SIG-mixed-models`](https://stat.ethz.ch/mailman/listinfo/r-sig-mixed-models):
   R SIG on Mixed Effect Models, notably lmer() related
 
