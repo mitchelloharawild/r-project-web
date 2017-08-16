@@ -29,7 +29,6 @@ The ordinary members are elected by a majority vote of the general assembly. New
 * Thomas Lumley (USA, New Zealand)
 * Martin Mächler (Switzerland)
 * Martin Morgan (USA)
-* Duncan Murdoch (Canada)
 * Paul Murrell (New Zealand)
 * Balasubramanian Narasimhan (USA)
 * Martyn Plummer (France)
