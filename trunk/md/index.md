@@ -10,6 +10,8 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+-   [**R version 3.4.2 (Short Summer) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Monday 2017-09-18. Final release is scheduled for Thursday 2017-09-28. 
+
 -   [**The R Journal Volume 9/1**](https://journal.r-project.org/archive/2017-1) is available.
 
 -   [**R version 3.4.1 (Single Candle)**](http://cran.r-project.org/src/base/R-3)
