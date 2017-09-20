@@ -30,18 +30,10 @@ Donors (after March 2017)
 -   Emilio Ciccone (Italy)
 -   Guillaume Coqueret (France)
 -   Yves Deville (France)
--   David Feedman (United States)
--   Jakob Geipel (Germany)
--   Corrado Giannasca (Italy)
--   Jürgen Kampf (Germany)
--   Kuniaki Kawahara (Japan)
--   J. Brian Loria (United States)
 -   Yahaya Nazoumou (Niger)
--   Daniel Neumann (Germany)
 -   Kem Phillips (United States)
 -   Jørgen Raffnsøe (Denmark)
 -   Joshua  Rosenstein (United States)
--   Christopher W. Ryan (United States)
 -   Renan Silverio (Brazil)
 -   Stefan Wyder (Switzerland)
 -   Appstam Consulting GmbH, Berlin (Germany)
@@ -145,7 +137,6 @@ Supporting Benefactors
 -   INWT Statistics, Berlin (Germany)
 -   Saorstat Limited, Garran Gheata an Chaisleain (Ireland)
 -   Transmitting Science, Barcelona (Spain)
--   Transmitting Science, S.L. , Piera (España)
 
 Supporting Institutions
 -----------
@@ -186,11 +177,8 @@ Supporting Members
 -   Soo-Heang Eo (South Korea)
 -   Arturo Erdely (Mexico)
 -   Hubert Eser (Austria)
--   Justin Fisher (United States)
--   Michael Forster (Austria)
 -   John Fox (Canada)
 -   Carl Ganz (United States)
--   Jan Marvin Garbuszus (Germany)
 -   J. Antonio García (Mexico)
 -   Charles Geyer (United States)
 -   Matthieu Gousseff (France)
@@ -214,7 +202,6 @@ Supporting Members
 -   Alexander Kowarik (Austria)
 -   Sebastian Kreutzer (France)
 -   Diego Kuonen (Switzerland)
--   Luca La Rocca (Italy)
 -   Caleb Lareau (United States)
 -   Chel Hee Lee (Canada)
 -   Andy Liaw (United States)
@@ -270,4 +257,4 @@ Supporting Members
 
 
 
-Last update: 2017-09-13
+Last update: 2017-09-20
