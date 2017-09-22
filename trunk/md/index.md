@@ -45,7 +45,7 @@ If you have questions about R like how to download and install the software, or 
     in high-resolution PNG or SVG formats.
 
 -   **[useR! 2016](http://www.r-project.org/useR-2016)**,
-	hase taken place at Stanford University, CA, USA, June 27 - June 30, 2016.
+	has taken place at Stanford University, CA, USA, June 27 - June 30, 2016.
 
 -   [**The R Journal Volume 7/2**](http://journal.r-project.org) is available.
 

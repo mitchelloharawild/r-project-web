@@ -19,7 +19,7 @@ Probably, we will turn off the first ('1.') pretty soon, but, moderators, please
 
 ***Rare* Rejections:** The following are considerations some of which may well be revised in the future.
 
-1.  do *never* reject "professional" spam (Viagra, Stocks,...), but rather disgard it; rejecting only helps the spam mafia.
+1.  do *never* reject "professional" spam (Viagra, Stocks,...), but rather discard it; rejecting only helps the spam mafia.
 2.  Maybe reject (instead of discard) \`\`mass e-mailings'' that are only very remotely related to the R software or the R community.\
      I would approve "Computational Statistics" conference announcements, but not a general ISI or JSM conference announcement. I might **reject** that, in the hope the sender will learn.\
      This *is* a matter of taste though, and moderators will slightly differ here.
