@@ -2,7 +2,7 @@
 title: Google Summer of Code
 ---
 
-The R project has been participating as a [Google Summer of
+The R Project has been participating as a [Google Summer of
 Code](https://summerofcode.withgoogle.com/organizations/4947241283354624/)
 (GSoC) organization since 2008. The current administrators of GSoC-R
 are Toby Dylan Hocking, Brian Peterson, and Virgilio Gomez Rubio as a
