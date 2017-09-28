@@ -1,4 +1,4 @@
-G<div class="row">
+<div class="row">
 <div class="col-xs-6 col-sm-12">
 
 <a href="/"><img src="/Rlogo.png" width="100" height="78" alt = "R" /></a>
