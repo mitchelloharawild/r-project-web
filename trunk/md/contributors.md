@@ -17,7 +17,6 @@ The current R is the result of a collaborative effort with contributions from al
 -   Thomas Lumley
 -   Martin Maechler
 -   Martin Morgan
--   Duncan Murdoch
 -   Paul Murrell
 -   Martyn Plummer
 -   Brian Ripley
@@ -27,7 +26,8 @@ The current R is the result of a collaborative effort with contributions from al
 -   Simon Urbanek
 
 plus Heiner Schwarte up to October 1999, Guido Masarotto up to June 2003,
-Stefano Iacus up to July 2014 and Seth Falcon up to August 2015.
+Stefano Iacus up to July 2014, Seth Falcon up to August 2015, and 
+Duncan Murdoch up to September 2017.
 
 R would not be what it is today without the invaluable help of these people, who contributed by donating code, bug fixes and documentation:
 
