@@ -14,7 +14,7 @@ __Members at Large:__
 * [Dirk Eddelbuettel](http://dirk.eddelbuettel.com)
 * [Heather Turner](http://www.heatherturner.net)
 
-In addition, [Peter Dalgaard](http://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/pdmes) and [Roger Bivand](http://www.nhh.no/en/research-faculty/department-of-economics/sam/cv/bivand--roger-s.aspx) were elected as auditors.
+In addition, [Peter Dalgaard](http://www.cbs.dk/en/research/departments-and-centres/department-of-finance/staff/pdmes) and [Roger Bivand](https://www.nhh.no/en/employees/faculty/roger-bivand/) were elected as auditors.
 
 ## Seat and Address
 
