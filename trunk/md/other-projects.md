@@ -31,7 +31,7 @@ The broad goals of Bioconductor are to
 This collection of web pages is intended to be a supplement to the [Spatial](http://cran.r-project.org/view=Spatial) Task View on CRAN. It provides news, and guides to some of the resources for the analysis of spatial data using R, and other associated software.
 
 ### Robust Statistics with R
-<http://www.statistik.tuwien.ac.at/rsr/>
+<http://cstat.tuwien.ac.at/rsr/>
 
 This web page contains information about the development of tools in R for methods in Robust Statistics.
 
