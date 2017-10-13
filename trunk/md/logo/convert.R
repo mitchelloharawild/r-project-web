@@ -1,3 +1,3 @@
 # Generate png from svg
 library(rsvg)
-rsvg_png("md/logo/Rlogo.svg", "md/logo/Rlogo.png", 800, 700)
+rsvg_png("md/logo/Rlogo.svg", "md/logo/Rlogo.png")

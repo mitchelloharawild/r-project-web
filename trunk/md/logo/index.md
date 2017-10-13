@@ -12,7 +12,7 @@ license](https://creativecommons.org/licenses/by-sa/4.0/) (CC-BY-SA
 
 It is available in raster and vector formats:
 
-* [High resolution png](Rlogo.png) (37 KB).
+* [High resolution png](Rlogo.png) (724 x 561 pixels, 48 KB).
 * [SVG](Rlogo.svg) (2 KB)
 
 The __CC-BY-SA 4.0__ license allows you to share and adapt the logo for
