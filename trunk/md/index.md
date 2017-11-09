@@ -10,6 +10,8 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+-   [**R version 3.4.3 (Kite-Eating Tree) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Monday 2017-11-20. Final release is scheduled for Thursday 2017-11-30. 
+
 -   [**R version 3.4.2 (Short Summer)**](http://cran.r-project.org/src/base/R-3)
     has been released on Thursday 2017-09-28.
 
