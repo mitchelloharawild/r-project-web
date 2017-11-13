@@ -45,6 +45,7 @@ Donors (after March 2017)
 -   Rees Morrison Associates (United States)
 -   Schukat Electronic Vertriebs GmbH, Monheim (Germany)
 -   Somewhat Retired, North Potomac (United States)
+-   Spängler IQAM Invest GmbH, Salzburg (Austria)
 -   The Analytical Edge, Elackmans Bay (Australia)
 
 Donors (before March 2017)
@@ -131,6 +132,7 @@ Supporting Benefactors
 -----------
 
 
+-   Thomas Dangl (Austria)
 -   Annuitas, Atlanta (United States)
 -   Brigham Young University, Provo (United States)
 -   Displayr, Glebe (Australia)
@@ -156,10 +158,13 @@ Supporting Members
 
 
 -   Abdulrahman Al-Qasem (Saudi Arabia)
+-   Ayala S. Allon (Israel)
 -   Philippe Baril Lecavalier (Canada)
 -   Marcel Baumgartner (Switzerland)
+-   Michael Blanks (United States)
 -   Morten Braüner (Denmark)
 -   Andrew Brown (United States)
+-   Gilberto Camara (Brazil)
 -   Ian Cook (United States)
 -   Robin Crockett (United Kingdom)
 -   Gábor Csárdi (United Kingdom)
@@ -167,6 +172,7 @@ Supporting Members
 -   James Davis (United States)
 -   Jorge de la Vega (Mexico)
 -   Ajit de Silva (United States)
+-   Elliott Deal (United States)
 -   Kristina Dietz (United Kingdom)
 -   Dubravko Dolic (Germany)
 -   Sandrine Dudoit (United States)
@@ -197,13 +203,17 @@ Supporting Members
 -   Michael Johansson (Puerto Rico)
 -   Stephen Kaluzny (United States)
 -   Christian Keller (Switzerland)
+-   JUNE KEE KIM (South Korea)
+-   Felix Kluxen (Germany)
 -   Sebastian Koehler (Germany)
 -   Katarzyna Kopczewska (Poland)
 -   Alexander Kowarik (Austria)
 -   Sebastian Kreutzer (France)
+-   Pawel R. Kulawiak (Germany)
 -   Diego Kuonen (Switzerland)
 -   Caleb Lareau (United States)
 -   Chel Hee Lee (Canada)
+-   Detlef Lehmann (Germany)
 -   Andy Liaw (United States)
 -   Ian Lyttle (United States)
 -   Ben Marwick (United States)
@@ -220,6 +230,7 @@ Supporting Members
 -   Ludvig Renbo Olsen (Denmark)
 -   George Ostrouchov (United States)
 -   Matthew Pancia (United States)
+-   Matt Parker (United States)
 -   Marc Pelath (United States)
 -   John Pellman (United States)
 -   Gerard Pennefather (Singapore)
@@ -227,6 +238,7 @@ Supporting Members
 -   Erik Petrovski (Denmark)
 -   Thomas Petzoldt (Germany)
 -   Jonas Ranstam (Sweden)
+-   Alfonso Reyes (United States)
 -   Paulo Justiniano Ribeiro Jr (Brazil)
 -   Carlos Erwin Rodríguez Hernández Vela (Mexico)
 -   Marty Rose (United States)
@@ -252,9 +264,10 @@ Supporting Members
 -   Dave Williams (United Kingdom)
 -   Andy Wills (United Kingdom)
 -   Nan Xiao (United States)
+-   Kisung You (United States)
 -   Hiroaki Yutani (Japan)
 -   Tomas Zelinsky (Slovakia)
 
 
 
-Last update: 2017-09-20
+Last update: 2017-11-13
