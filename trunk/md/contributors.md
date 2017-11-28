@@ -3,8 +3,8 @@ title: Contributors
 ---
 
 The current R is the result of a collaborative effort with contributions from all over the world. R was initially written by Robert Gentleman and Ross Ihaka—also known as "*R & R*" of the Statistics Department of the University of Auckland. Since mid-1997 there has been a core group with write access to the R source, currently consisting of
-<!-- *manually* sync this with ~/R/D/r-devel/R/doc/AUTHORS
-                                             ~~~~~~~~~~~~~ -->
+<!-- *manually* sync this with ~/R/D/r-devel/R/doc/THANKS
+                                             ~~~~~~~~~~~~ -->
 
 -   Douglas Bates
 -   John Chambers
