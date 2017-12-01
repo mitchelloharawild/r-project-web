@@ -32,7 +32,6 @@ The ordinary members are elected by a majority vote of the general assembly. New
 * Paul Murrell (New Zealand)
 * Balasubramanian Narasimhan (USA)
 * Martyn Plummer (France)
-* Brian Ripley (UK)
 * Deepayan Sarkar (India)
 * Marc Schwartz (USA)
 * Duncan Temple Lang (USA)

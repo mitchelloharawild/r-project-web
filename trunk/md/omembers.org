@@ -6,6 +6,7 @@
 - Uwe and Deepayan (Core for a longer time, only since 2014 Foundation)
 *** till August 2015:
 - Seth (Core, not Foundation)
+- Brian (Core, resigned from Foundation in November 2017)
 
 ** F-only-active: use only for non-cores & cores with different F membership
 
@@ -45,14 +46,14 @@
 | Duncan          | Murdoch      | 199? /       |           | +    |    | Canada               |   |
 | Paul            | Murrell      | 199? /       |           | +    |    | New Zealand          |   |
 | Balasubramanian | Narasimhan   |              | 2016-11/  |      |    | USA                  |   |
-| Martyn          | Plummer      | 199? /       |           | +    |    | France               |   |
-| Brian           | Ripley       | 1999/ ?      |           | +    |    | UK                   |   |
+| Martyn          | Plummer      | 2003 /       |           | +    |    | France               |   |
+| Brian           | Ripley       | 1999/ ?      |           | +    | X  | UK                   |   |
 | Deepayan        | Sarkar       | 200x/ ?      | 2014-08/  | +    |    | India                |   |
 | Marc            | Schwartz     |              | 2014-08/  |      |    | USA                  |   |
 | Duncan          | Temple Lang  | 199x/ ?      |           | +    |    | USA                  |   |
 | Luke            | Tierney      | 1996/        |           | +    |    | USA                  |   |
 | Simon           | Urbanek      | 200x/ ?      |           | +    |    | Germany, USA         |   |
-| Bill            | Venables     |              | 20..      |      |    | Australia            |   |
+| Bill            | Venables     |              | 2003      |      |    | Australia            |   |
 | Hadley          | Wickham      |              | 2014-08/  |      |    | New Zealand, USA     |   |
 | Achim           | Zeileis      |              | 2014-08/  |      |    | Germany, Austria     |   |
 |-----------------+--------------+--------------+-----------+------+----+----------------------+---|
