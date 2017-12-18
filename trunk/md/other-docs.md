@@ -1,3 +1,4 @@
+
 ---
 title: Documentation
 ---
@@ -38,9 +39,11 @@ R guides and documentation not contained in the [contributed documentation](http
 
 ### German
 
--   [“Eine kleine Einführung in R”](http://www.kuhlenkasper.de/Einfuehrung_R.pdf),  and
--   [“Einführung in die Statistik mit R”](http://www.kuhlenkasper.de/Statistik.pdf);
-	lecture notes originally by Andreas Handl, maintained by Torben Kuhlenkasper.
+Currently none are freely available.
+<!-- 2017-12: Torben Kuhlenkasper now rather wants to promote his book(s) -->
+<!-- -   [“Eine kleine Einführung in R”](http://www.kuhlenkasper.de/Einfuehrung_R.pdf),  and -->
+<!-- -   [“Einführung in die Statistik mit R”](http://www.kuhlenkasper.de/Statistik.pdf); -->
+<!-- 	lecture notes originally by Andreas Handl, maintained by Torben Kuhlenkasper. -->
 
 ### Russian
 
