@@ -2,14 +2,16 @@
 title: Conferences
 ---
 
-The R project actively supports two conference series, organized regularly by members from the R community: 
+The R Foundation actively supports two conference series, organized regularly by members from the R community: 
 
 * useR!, providing a forum to the R user community.
 * DSC, a platform for developers of statistical software. 
 
 A rough outline of the format for the respective conferences is given below; both conference formats were developed by the [Austrian Association for Statistical Computing (AASC)](http://www.aasc.or.at/) in cooperation with the [R Foundation for Statistical Computing](https://www.r-project.org/foundation).
 
-useR! and DSC conferences are coordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of 
+The R Foundation is also endorsing a small number of conferences in under-supported regions to encourage the development of the local R community, particularly in academic and scientific research. Endorsed events are listed below.
+
+Conference-related activities are co-ordinated by the *"R Foundation Conference Committee"* (RFCC) currently consisting of 
 [Julie Josse (Ecole Polytechnique)](http://juliejosse.com/), [Heather Turner](http://www.heatherturner.net/) and [Achim Zeileis (Universität Innsbruck)](http://statmath.wu.ac.at/~zeileis/) plus ex officio [secretary and treasurer](foundation/board.html) of the R Foundation. The RFCC can be contacted by email at <R-conferences@r-project.org>.
 
 The R Foundation has a policy requiring [codes of conduct at R conferences](/behaviour.html).
@@ -41,19 +43,19 @@ Usually, no proceedings are published for useR! conferences.
 * [useR! 2015](https://www.r-project.org/useR-2015/), Aalborg, Denmark.
 
 * [useR! 2014](https://www.r-project.org/useR-2014/), Los Angeles, CA, USA.
-  ([local copy](https://www.r-project.org/conferences/useR-2014))
+  ([local copy](https://www.r-project.org/conferences/useR-2014)).
 
 * [useR! 2013](https://www.r-project.org/useR-2013/), Albacete, Spain
-  ([local copy](https://www.r-project.org/conferences/useR-2013))
+  ([local copy](https://www.r-project.org/conferences/useR-2013)).
 
 * [useR! 2012](http://biostat.mc.vanderbilt.edu/UseR-2012), Nashville, TN, USA
-  ([local copy](https://www.r-project.org/conferences/useR-2012))
+  ([local copy](https://www.r-project.org/conferences/useR-2012)).
 
 * [useR! 2011](http://www.warwick.ac.uk/statsdept/useR-2011/), Coventry, UK
-  ([local copy](https://www.r-project.org/conferences/useR-2011))
+  ([local copy](https://www.r-project.org/conferences/useR-2011)).
 
 * [useR! 2010](https://www.r-project.org/conferences/useR-2010), Gaithersburg, MD, USA.
-  ([local copy](https://www.r-project.org/conferences/useR-2010))
+  ([local copy](https://www.r-project.org/conferences/useR-2010)).
 
 * [useR! 2009](http://math.agrocampus-ouest.fr/infoglueDeliverLive/evenements/useR2009),
   Rennes, France ([local copy](https://www.r-project.org/conferences/useR-2009)).
@@ -82,7 +84,7 @@ DSC has had two different incarnations. The first was a biennial conference seri
 
 * [DSC 2016](dsc/2016), Stanford, USA.
 
-* [R Summit 2015](http://info.cbs.dk/rsummit2015), Copenhagen, Denmark
+* [R Summit 2015](http://info.cbs.dk/rsummit2015), Copenhagen, Denmark.
   
 * [DSC 2014](http://www.huber.embl.de/dsc/), Bressanone-Brixen, Italy.
 
@@ -107,4 +109,11 @@ DSC has had two different incarnations. The first was a biennial conference seri
 
 * [DSC 1999](http://www.ci.tuwien.ac.at/Conferences/DSC-1999), Vienna, Austria
   ([local copy](https://www.r-project.org/conferences/DSC-1999)).
+  
+##  Other Conferences Endorsed by The R Foundation
+
+Endorsement of other conferences is a new initiative intended to encourage the development of useR!-like meetings in regions beyond the reach of useR!, where the local R community is not so well-established. These meetings may have official languages other than English.
+
+* [LatinR](http://47jaiio.sadio.org.ar/index.php?q=node/125) [Spanish/Portuguese/English] September 2018, Buenos Aires, Argentina.
+* [R Day](http://rday.leg.ufpr.br/) [Portuguese] May 2018, Curitiba, Brazil.
 
