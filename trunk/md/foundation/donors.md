@@ -30,15 +30,16 @@ Donors (after March 2017)
 -   Emilio Ciccone (Italy)
 -   Guillaume Coqueret (France)
 -   Yves Deville (France)
+-   Danilo Godone (Italy)
 -   Yahaya Nazoumou (Niger)
 -   Kem Phillips (United States)
 -   Jørgen Raffnsøe (Denmark)
+-   Romuald Riem (France)
 -   Joshua  Rosenstein (United States)
 -   Renan Silverio (Brazil)
 -   Stefan Wyder (Switzerland)
 -   Appstam Consulting GmbH, Berlin (Germany)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
--   Estonian Genome Center, Tartu (Estonia)
 -   Google Inc., Mountain View (United States)
 -   Greater Good, Maastricht (Nederlands)
 -   Ravinderpal Vaid, Elk Grove (United States)
@@ -134,9 +135,11 @@ Supporting Benefactors
 
 -   Thomas Dangl (Austria)
 -   Annuitas, Atlanta (United States)
+-   b-data GmbH, Zurich (Switzerland)
 -   Brigham Young University, Provo (United States)
 -   Displayr, Glebe (Australia)
 -   INWT Statistics, Berlin (Germany)
+-   Mirai Solutions GmbH, Zürich (Switzerland)
 -   Saorstat Limited, Garran Gheata an Chaisleain (Ireland)
 -   Transmitting Science, Barcelona (Spain)
 
@@ -147,22 +150,24 @@ Supporting Institutions
 -   BC Cancer Agency, Vancouver (Canada)
 -   Ef-prime, Tokyo (Japan)
 -   EMBL, Heidelberg (Germany)
+-   General Counsel Metrics, LLC, Princeton (United States)
 -   Inference Technologies, Roznov pod Radhostem (Poland)
 -   Institute of Mathematical Statistics, Beachwood (United States)
 -   Marine Laboratory, Torry (United Kingdom)
 -   MEI Research, Edina (United States)
--   University of Iowa, Iowa City (United States)
 
 Supporting Members
 -----------
 
 
+-   Douglas Adamoski (Brazil)
 -   Abdulrahman Al-Qasem (Saudi Arabia)
 -   Ayala S. Allon (Israel)
 -   Philippe Baril Lecavalier (Canada)
 -   Marcel Baumgartner (Switzerland)
 -   Michael Blanks (United States)
 -   Morten Braüner (Denmark)
+-   Florian Brezina (Germany)
 -   Andrew Brown (United States)
 -   Gilberto Camara (Brazil)
 -   Ian Cook (United States)
@@ -191,6 +196,7 @@ Supporting Members
 -   Arthur W. Green (United States)
 -   Michael Griffiths (United States)
 -   Philippe Grosjean (Belgium)
+-   Susan Gruber (United States)
 -   Hlynur Hallgrímsson (Iceland)
 -   Matthias Häni (Switzerland)
 -   Bela Hausmann (Austria)
@@ -234,6 +240,7 @@ Supporting Members
 -   Marc Pelath (United States)
 -   John Pellman (United States)
 -   Gerard Pennefather (Singapore)
+-   Elgin Perry (United States)
 -   Lauf Peter (Germany)
 -   Erik Petrovski (Denmark)
 -   Thomas Petzoldt (Germany)
@@ -258,6 +265,8 @@ Supporting Members
 -   Steven Vasquez-Grinnell (United States)
 -   Boris Veytsman (United States)
 -   Vincent Vinh-Hung (Martinique)
+-   Pari Viswanathan (India)
+-   Chatchavan Wacharamanotham (Switzerland)
 -   Earo Wang (Australia)
 -   Daehler Werner (Switzerland)
 -   Jordan White (United States)
@@ -270,4 +279,4 @@ Supporting Members
 
 
 
-Last update: 2017-11-13
+Last update: 2017-12-23
