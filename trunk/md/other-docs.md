@@ -35,7 +35,7 @@ R guides and documentation not contained in the [contributed documentation](http
 
 ### Chinese
 
--   Translations of the manual “An Introduction to R” to [simplified and traditional Chinese](http://www.biosino.org/R/R-doc/) by Guohui Ding.
+-   Translations of the R manuals (An Introduction to R , R Data Import/Export, The R language definition, Writing R Extensions, R Internals) and "R for Beginner" to Chinese (https://github.com/dingguohui)  by Dr. Guohui Ding.
 
 ### German
 
