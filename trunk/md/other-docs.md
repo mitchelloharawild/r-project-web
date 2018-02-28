@@ -35,7 +35,7 @@ R guides and documentation not contained in the [contributed documentation](http
 
 ### Chinese
 
--   [Translations of the R manuals](https://github.com/dingguohui) (An Introduction to R , R Data Import/Export, The R language definition, Writing R Extensions, R Internals) and "R for Beginner" to Chinese by Dr. Guohui Ding.
+-   [Translations of the R manuals](https://github.com/dingguohui) (An Introduction to R , R Data Import/Export, The R language definition, Writing R Extensions, R Internals) and "R for Beginners" to Chinese by Dr. Guohui Ding.
 
 ### German
 
