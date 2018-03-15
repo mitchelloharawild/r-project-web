@@ -11,14 +11,15 @@ If you have questions about R like how to download and install the software, or 
 ## News
 -    [**R version 3.4.4 (Someone to Lean On)**](https://cran.r-project.org/src/base/R-3) has been released on 2018-03-15.
 
--	**useR! 2018** (July 10 - 13 in Brisbane) is open for registration at https://user2018.r-project.org/
+-	**useR! 2018** (July 10 - 13 in Brisbane) is open for registration
+     at [**https://user2018.r-project.org**](https://user2018.r-project.org)
 
 -   [**The R Journal Volume 9/2**](https://journal.r-project.org/archive/2017-2) is available.
 
 -   [**R version 3.3.3 (Another Canoe)**](https://cran.r-project.org/src/base/R-3)
     has been released on Monday 2017-03-06.
 
--	**useR! 2017** took place July 4 - 7 in Brussels (https://user2017.brussels)
+-	**useR! 2017** took place July 4 - 7 in Brussels [**https://user2017.brussels**](https://user2017.brussels)
 
 -   The [**R Logo**](https://www.r-project.org/logo) is available for download
     in high-resolution PNG or SVG formats.
