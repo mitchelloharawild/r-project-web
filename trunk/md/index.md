@@ -4,47 +4,24 @@ title: The R Project for Statistical Computing
 
 ## Getting Started
 
-R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. To **[download R](http://cran.r-project.org/mirrors.html)**, please choose your preferred [CRAN mirror](http://cran.r-project.org/mirrors.html).
+R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. To **[download R](https://cran.r-project.org/mirrors.html)**, please choose your preferred [CRAN mirror](https://cran.r-project.org/mirrors.html).
 
-If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
+If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](https://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
--   [**R version 3.4.4 (Someone to Lean On)**](http://cran.r-project.org/src/base/R-3)
-    has been released on 2018-03-15.
+-    [**R version 3.4.4 (Someone to Lean On)**](https://cran.r-project.org/src/base/R-3) has been released on 2018-03-15.
+
+-	**useR! 2018** (July 10 - 13 in Brisbane) is open for registration at https://user2018.r-project.org/
 
 -   [**The R Journal Volume 9/2**](https://journal.r-project.org/archive/2017-2) is available.
 
--   [**The R Journal Volume 9/1**](https://journal.r-project.org/archive/2017-1) is available.
-
--   [**R version 3.3.3 (Another Canoe)**](http://cran.r-project.org/src/base/R-3)
+-   [**R version 3.3.3 (Another Canoe)**](https://cran.r-project.org/src/base/R-3)
     has been released on Monday 2017-03-06.
 
--   [**The R Journal Volume 8/2**](https://journal.r-project.org/archive/2016-2) is available.
+-	**useR! 2017** took place July 4 - 7 in Brussels (https://user2017.brussels)
 
--	**useR! 2017** (July 4 - 7 in Brussels) has opened registration and
-	more at http://user2017.brussels/
-
--   Tomas Kalibera has joined the R core team.
-
--   The R Foundation welcomes five new ordinary members: Jennifer Bryan, Dianne Cook, Julie Josse, Tomas Kalibera, and Balasubramanian Narasimhan.
-
--   [**The R Journal Volume 8/1**](http://journal.r-project.org) is available.
-
--   The **useR! 2017** conference will take place in Brussels, July 4 - 7, 2017.
-
--   [**R version 3.2.5 (Very, Very Secure Dishes)**](http://cran.r-project.org/src/base/R-3)
-    has been released on 2016-04-14. This is a rebadging of the
-    quick-fix release 3.2.4-revised.
-
--   **Notice XQuartz users (Mac OS X)** A security issue has been detected with
-    the Sparkle update mechanism used by XQuartz. Avoid updating over
-    insecure channels.
-
--   The [**R Logo**](http://www.r-project.org/logo) is available for download
+-   The [**R Logo**](https://www.r-project.org/logo) is available for download
     in high-resolution PNG or SVG formats.
-
--   **[useR! 2016](http://www.r-project.org/useR-2016)**,
-	has taken place at Stanford University, CA, USA, June 27 - June 30, 2016.
 
 <!--- (Boilerplate for release run-in)
 -   [**R version 3.1.3 (Smooth Sidewalk) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting February 28. Final release is scheduled for 2015-03-09.
