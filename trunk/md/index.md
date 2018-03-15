@@ -9,14 +9,10 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](http://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
--   [**R version 3.4.4 (Someone to Lean On) prerelease versions**](http://cran.r-project.org/src/base-prerelease)
-    will appear starting Monday 2018-03-05. Final release is scheduled
-    for Thursday 2018-03-15.
+-   [**R version 3.4.4 (Someone to Lean On)**](http://cran.r-project.org/src/base/R-3)
+    has been released on 2018-03-15.
 
 -   [**The R Journal Volume 9/2**](https://journal.r-project.org/archive/2017-2) is available.
-
--   [**R version 3.4.3 (Kite-Eating Tree)**](http://cran.r-project.org/src/base/R-3)
-    has been released on 2017-11-30.
 
 -   [**The R Journal Volume 9/1**](https://journal.r-project.org/archive/2017-1) is available.
 
