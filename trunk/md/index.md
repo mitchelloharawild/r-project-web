@@ -9,6 +9,9 @@ R is a free software environment for statistical computing and graphics. It comp
 If you have questions about R like how to download and install the software, or what the license terms are, please read our [answers to frequently asked questions](https://cran.R-project.org/faqs.html) before you send an email.
 
 ## News
+
+-   [**R version 3.5.0 (Joy in Playing) prerelease versions**](https://cran.r-project.org/src/base-prerelease) will appear starting Friday 2018-03-23. Final release is scheduled for Monday 2018-04-23. 
+  
 -    [**R version 3.4.4 (Someone to Lean On)**](https://cran.r-project.org/src/base/R-3) has been released on 2018-03-15.
 
 -	**useR! 2018** (July 10 - 13 in Brisbane) is open for registration
