@@ -31,6 +31,7 @@ Donors (after March 2017)
 -   Guillaume Coqueret (France)
 -   Yves Deville (France)
 -   Danilo Godone (Italy)
+-   Reigo Hendrikson (Estonia)
 -   J. BRIAN LORIA (United States)
 -   Joerg Maeder (Switzerland)
 -   Yahaya Nazoumou (Niger)
@@ -46,12 +47,8 @@ Donors (after March 2017)
 -   Biostatistics and Research Decision Sciences, Merck Research Laboratories, Kenilwort (United States)
 -   Google Inc., Mountain View (United States)
 -   Merck Research Laboratories, Kenilwort (United States)
--   Ravinderpal Vaid, Elk Grove (United States)
--   Rees Morrison Associates (United States)
 -   Schukat Electronic Vertriebs GmbH, Monheim (Germany)
--   Somewhat Retired, North Potomac (United States)
 -   Spängler IQAM Invest GmbH, Salzburg (Austria)
--   The Analytical Edge, Elackmans Bay (Australia)
 
 Donors (before March 2017)
 -----------
@@ -138,13 +135,11 @@ Supporting Benefactors
 
 
 -   Thomas Dangl (Austria)
--   Annuitas, Atlanta (United States)
 -   b-data GmbH, Zurich (Switzerland)
 -   Brigham Young University, Provo (United States)
 -   Displayr, Glebe (Australia)
--   INWT Statistics, Berlin (Germany)
+-   Kansai University, Fac of Commerce, Suita (Japan)
 -   Mirai Solutions GmbH, Zürich (Switzerland)
--   Saorstat Limited, Garran Gheata an Chaisleain (Ireland)
 -   Transmitting Science, Barcelona (Spain)
 
 Supporting Institutions
@@ -152,12 +147,9 @@ Supporting Institutions
 
 
 -   BC Cancer Agency, Vancouver (Canada)
--   Ef-prime, Tokyo (Japan)
 -   EMBL, Heidelberg (Germany)
 -   General Counsel Metrics, LLC, Princeton (United States)
 -   Institute of Mathematical Statistics, Beachwood (United States)
--   Marine Laboratory, Torry (United Kingdom)
--   MEI Research, Edina (United States)
 
 Supporting Members
 -----------
@@ -187,8 +179,6 @@ Supporting Members
 -   Kristina Dietz (United Kingdom)
 -   Dubravko Dolic (Germany)
 -   Sandrine Dudoit (United States)
--   Gerit Eichner (Germany)
--   Martin Elff (Germany)
 -   Joran Elias (United States)
 -   Daniel Emaasit (United States)
 -   Soo-Heang Eo (South Korea)
@@ -205,7 +195,6 @@ Supporting Members
 -   Susan Gruber (United States)
 -   Hlynur Hallgrímsson (Iceland)
 -   Matthias Häni (Switzerland)
--   Yasin Hatiboglu (Finland)
 -   Bela Hausmann (Austria)
 -   Kieran Healy (United States)
 -   Jim Hester (United States)
@@ -238,6 +227,7 @@ Supporting Members
 -   Dieter Menne (Germany)
 -   Hans Mielke (Germany)
 -   David Monterde (Spain)
+-   Steffen Moritz (Germany)
 -   Guido Möser (Germany)
 -   Bob Muenchen (United States)
 -   Hannes Mühleisen (Netherlands)
@@ -268,6 +258,7 @@ Supporting Members
 -   Bob Rudis (United States)
 -   Manel Salamero (Spain)
 -   Fabian Scheipl (Germany)
+-   Laurent Schüpbach (Switzerland)
 -   Surendra Singh (United Kingdom)
 -   Kenneth Spriggs (United States)
 -   Julian Stander (United Kingdom)
@@ -291,7 +282,8 @@ Supporting Members
 -   Kisung You (United States)
 -   Hiroaki Yutani (Japan)
 -   Tomas Zelinsky (Slovakia)
+-   Joachim Zuckarelli (Germany)
 
 
 
-Last update: 2018-02-26
+Last update: 2018-04-09
