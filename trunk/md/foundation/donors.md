@@ -51,6 +51,7 @@ Donors (after March 2017)
 -   Merck Research Laboratories, Kenilwort (United States)
 -   Schukat Electronic Vertriebs GmbH, Monheim (Germany)
 -   Spängler IQAM Invest GmbH, Salzburg (Austria)
+-   Zurich R Courses, Zurich (Switzerland)
 
 Donors (before March 2017)
 -----------
