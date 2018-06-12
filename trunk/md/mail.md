@@ -85,9 +85,6 @@ Additionally, there are several specific ***S**pecial **I**nterest **G**roup* (=
 * [`R-SIG-Jobs`](https://stat.ethz.ch/mailman/listinfo/r-sig-jobs):
   R SIG List for Announcements of Jobs where R is used
 
-* [`R-SIG-mediawiki`](https://stat.ethz.ch/mailman/listinfo/r-sig-mediawiki):
-  R SIG on the R Extension for Mediawiki
-
 * [`R-SIG-meta-analysis`](https://stat.ethz.ch/mailman/listinfo/r-sig-meta-analysis):
   R SIG for discussing the use of R for conducting meta-analyses
 
@@ -99,9 +96,6 @@ Additionally, there are several specific ***S**pecial **I**nterest **G**roup* (=
 
 * [`R-SIG-phylo`](https://stat.ethz.ch/mailman/listinfo/r-sig-phylo):
   R SIG on phylogenetic and comparative methods and analyses
-
-* [`R-SIG-QA`](https://stat.ethz.ch/mailman/listinfo/r-sig-qa):
-  R SIG on Quality Assurance & Validation
 
 * [`R-SIG-Robust`](https://stat.ethz.ch/mailman/listinfo/r-sig-robust):
   R SIG on Robust Statistics
