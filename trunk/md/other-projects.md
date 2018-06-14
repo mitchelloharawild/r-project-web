@@ -76,7 +76,7 @@ Fortran code for the Augmented Lagrangian method for nonlinear programming probl
 
 ## Misc
 
-* [Statlib S Archive](http://lib.stat.cmu.edu/S/): A rich source of useful 
+* [Statlib S Archive](http://ftp.uni-bayreuth.de/math/statlib/S/): A rich source of useful 
   code, as most S code runs under R.
 
 * [Dataverse Network Project](http://thedata.org/): DVN increases scholarly 
