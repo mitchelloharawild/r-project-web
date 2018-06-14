@@ -12,7 +12,6 @@ In addition to the [manuals](http://cran.r-project.org/manuals.html), [FAQs](htt
 -   A list of [books](doc/bib/R-books.html) and [other publications](doc/bib/R-other.html) related to R.
 -   The [Journal of Statistical Software](http://www.jstatsoft.org) features R-related articles like package guides on a regular basis.
 -   Proceedings from the International Workshops on [Distributed Statistical Computing](http://www.ci.tuwien.ac.at/Conferences/DSC.html).
--   DevCheatSheet has a collection of [R Reference Cards](http://devcheatsheet.com/tag/r/).
 
 ## Smaller Collections and Single Documents
 
