@@ -49,11 +49,6 @@ Projects focusing on computational infrastructure, user interfaces, web-based se
 
 Omega is a joint project with the goal of providing a variety of open-source software for statistical applications. The Omega project began with discussions among designers responsible for three current statistical languages (S, R, and Lisp-Stat), with the idea of working together on new directions with special emphasis on web-based software, Java, the Java virtual machine, and distributed computing. Omega encourages participation by anyone wanting to extend computing capabilities in one of the existing languages, to those interested in distributed or web-based statistical software, and to those interested in the design of new statistical languages.
 
-### Graphical User Interfaces for R
-<http://www.sciviews.org/_rgui/>
-
-This web page gives an overview over several projects that develop or offer the opportunity to develop graphical user interfaces for R. A Special Interest Group mailing list (R-SIG-GUI) exists also to freely discuss concerned issues.
-
 ### ESS: Emacs speaks Statistics
 <http://ess.R-project.org/>
 
@@ -63,11 +58,6 @@ An Emacs-Lisp interface to interactive statistical programming and data analysis
 <http://mars.wiwi.hu-berlin.de/mediawiki/sk/index.php/R_Extension_for_MediaWiki>
 
 allows to run R programs and display results (graphics, text) within [Mediawiki](http://www.mediawiki.org), the software behind [Wikipedia](http://www.wikipedia.org) and other wiki projects.
-
-### PowerShell R Interop Cmdlet
-<http://powershellrinterop.codeplex.com>
-
-A [PowerShell](https://docs.microsoft.com/en-us/powershell/) Cmdlet providing smooth integration of R via the [R-(D)COM Server](http://www.sciviews.org/_rgui/projects/RDcom.html) into the PowerShell environment. Data can be piped from other PowerShell Cmdlets into R. Results from R can be piped into PowerShell Cmdlets. As R-(D)COM supports invocation of functions generating graphical output, Powershell 2 Interop Cmdlet can be used to easily create plots.
 
 ### TANGO/ALGENCAN
 <http://www.ime.usp.br/~egbirgin/tango/>
