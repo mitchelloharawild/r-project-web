@@ -40,7 +40,6 @@ for details. See [below](#contrib_pkgs) for questions on *contributed packages*.
 -   Search the R-faq and the R-windows-faq if it might be relevant (<http://cran.r-project.org/faqs.html>)
 -   Read at least the relevant section in [An Introduction to R](http://cran.r-project.org/doc/manuals/R-intro.pdf)
 -   If the function is from a package accompanying a book, e.g., the MASS package, consult the book before posting
--   The R Wiki has a [section on finding functions and documentation](http://rwiki.sciviews.org/doku.php?id=getting-started:reference-cards:getting-help)
 
 **Technical details of posting**: See [General Instructions](mail.html#instructions) for more details of the following:
 
