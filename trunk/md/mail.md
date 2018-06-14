@@ -108,7 +108,6 @@ To satisfy geographic or regional (or subject) needs, some R users have formed *
 ## Archives and Search Facilities
 
 -   Browsable HTML versions of the mail archives can be found at the [web interface](https://stat.ethz.ch/mailman/listinfo).
--   Gmane also mirrors several of our lists, with web, news, and RSS interfaces and search facilities, see the index of [Gmane's mirrored R-lists](http://dir.gmane.org/index.php?prefix=gmane.comp.lang.r.).
 -   Have a look at CRAN's [search page](https://cran.R-project.org/search.html) for searchable versions of the mailing list archives.
 
 ## General Instructions
