@@ -10,6 +10,8 @@ If you have questions about R like how to download and install the software, or 
 
 ## News
 
+- The R Foundation has been awarded the Personality/Organization of the year 2018 award by the professional association of German market and social researchers.
+
 -   [**R version 3.5.1 (Feather Spray) prerelease versions**](http://cran.r-project.org/src/base-prerelease) will appear starting Friday 2018-06-22. Final release is scheduled for Monday 2018-07-02. 
 
 -   [**R version 3.5.0 (Joy in Playing)**](https://cran.r-project.org/src/base/R-3)
